@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "_Bricks of Symbaroum/Meanwhile in Yndaros/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2022-12-24T23:54:25.537Z",
+      "total": 0,
+      "drafts": {
+        "_Bricks of Symbaroum/Meanwhile in Yndaros.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_Bricks of Symbaroum/v2.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_Bricks of Symbaroum/_drafts.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_Bricks of Symbaroum/Meanwhile in Yndaros/Meanwhile in Yndaros.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_Bricks of Symbaroum/Meanwhile in Yndaros/Close of Business.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_Bricks of Symbaroum/Meanwhile in Yndaros/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Close of Business": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2022-12-24T23:54:05.273Z",
+      "total": 0,
+      "drafts": {}
+    },
+    {
+      "start": "2022-12-23T08:00:02.932Z",
+      "total": 0,
+      "drafts": {
+        "Bricks of Symbaroum/Index.md": {
+          "total": 909,
+          "scenes": {
+            "Meanwhile in Yndaros": 909
+          }
+        },
+        "Bricks of Symbaroum/Meanwhile in Yndaros/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Welcome to Yndaros": 0,
+            "Merchants' Quarrel": 0
+          }
+        },
+        "Bricks of Symbaroum/Meanwhile in Yndaros.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2022-12-23T03:55:10.821Z",
+      "total": 0,
+      "drafts": {
+        "Symbaroum/Bricks of Symbaroum/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Meanwhile in Yndaros": 0
+          }
+        },
+        "Symbaroum/Meanwhile in Yndaros.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Fiction/Bricks of Symbaroum/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Meanwhile in Yndaros": 0
+          }
+        },
+        "Scenes/Bricks of Symbaroum/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Meanwhile in Yndaros": 0
+          }
+        },
+        "Bricks of Symbaroum/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Meanwhile in Yndaros": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2022-12-21T08:11:43.219Z",
+      "total": 0,
+      "drafts": {
+        "Symbaroum/Bricks of Symbaroum/Index.md": {
+          "total": 0,
+          "scenes": {
+            "New Scene": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "project",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": true,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
+          }
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": false
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "_exports/manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
