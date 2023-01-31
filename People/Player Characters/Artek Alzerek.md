@@ -1,0 +1,12 @@
+---
+tags:
+- player-character
+- dwarf
+aliases: Artek
+player: Faris
+---
+
+Artek's family is originally from [[Yndaros]], specifically [[Old Kadizar]]. He belongs to a small, impoverished dwarven clan. 
+
+Artek left his humble beginnings to bring honor to his family name as a monster hunter.
+

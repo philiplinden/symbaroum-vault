@@ -1,0 +1,12 @@
+---
+tags:
+- place
+- neighborhood
+---
+![[yndaros-triumph-plaza.png|Trade continues as the vessels headed for the Islet are boarded – an evening like any other by the harbor of Yndaros.]]
+![[yndaros-districts.webp]]
+Initially it was a place for unloading incoming construction materials, but nowadays the Harbor District has turned into [[Yndaros]]’ center for amusements, pleasure and relaxation. Taverns like the Victory Vault, Ynedar’s Legacy and the Town Hall’s Loft provide food and beverages, often accompanied by bards playing and singing. And if you would rather skip eating there are places like the wine house Tuvinel’s, the cider mill Bego’s Basement or The Savage that exclusively serves variations of the barbarian blackbrew. For thrill-seekers there are also dives like The Fortune Smithy and The Lucky Charm down by the waterfront, or why not The Steel Glove located in the bohemian quarter where the prize fights keep going all night long – at least until its grand master, the ogre Bigpaw, has stepped into the ring and clubbed down anyone drunk enough to take the challenge.
+
+But not everything is drunkenness and debauchery. The fuming Steam Bath down by the dock can accommodate highborn as well as lowborn in separate rooms; from the circular balconies of the Vivisectory visitors can observe the masters of [[Ordo Magica]] cut open anything from strange seed-pods to huge spiders, corrupted beasts and even goblins; in the five-story building housing the Legacy Gallery it is free for anyone to behold artworks and listen to bards praising the glorious past of the Ambrian people and the lost splendor of [[Alberetor]]. And one should not disregard the pillories and the executioner’s podium at the Triumph Plaza, the latter featuring both gallows and a stand where nobler criminals are beheaded.
+
+Aside from all things mentioned above, it is of course possible to board ships in the harbor basin. [[Queen Korinthia]] has a galley with twelve oar pairs at a well-guarded berth, next to the smaller rowboats which carry prominent residents to the extravagant pleasure palace on the Islet – for a night of good food, exclusive company and first-class spectacles. Furthermore, a ferry journeys between the harbor and the village of Beren’s Berth on the northern shores of the Doudram, leaving from [[Yndaros]] at each even stroke of the clock and back at the odd ones.

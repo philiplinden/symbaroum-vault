@@ -1,0 +1,6 @@
+---
+tags:
+- beast
+- undead
+- spirit
+---
