@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[📓 Disturbing Findings]]
 
 > [!example] Quests
 > [[📜 Find the Flayer]]
@@ -27,7 +27,7 @@ WHERE
 > This is the first session in an interlude playing through [[@Copper2.MarkOfTheBeast|Mark of the Beast]].
 > These events take place after the normal party has returned to [[Thistle Hold]] with their quarry, and before the events leading up to the sinkhole.
 
-Bright-eyed [[Bartolom]], silver-tongued [[Niho]], and keen-witted [[Termo]] have received letters from one [[Master Vernam]] to investigate the terror brought about in [[Thistle Hold]] by [[The Flayer]].
+Bright-eyed [[Bartolom]], silver-tongued [[Niho]], and keen-witted [[Termo]] have received letters from one [[People/Master Vernam]] to investigate the terror brought about in [[Thistle Hold]] by [[The Flayer]].
 
 [[Bartolom]] arrives in [[Queen's Square]] where [[Niho]] is hocking her [[Cut-Co Knives]]. [[Termo]] has arrived in the plaza to “shake down” shady vendors on behalf of the tax collector’s office. He picks on [[Niho]] for a bit.
 
@@ -37,7 +37,7 @@ The thugs are henchmen working for [[Baumelo]]. They demand that [[Tenid]] be ha
 
 [[Bartolom]] sees all of these events transpire and steps in to help the innocent. Combat ensues. [[Termo]] transforms [[Tenid]] into a dog for a time and she escapes. The thugs sustain a few injuries and flee, still looking for the girl and vowing revenge from [[Baumelo]].
 
-The unlikely group realizes they’ve all been contacted by [[Master Vernam]] to investigate [[The Flayer]], and doubt that [[Tenid]] has anything to do with it. 
+The unlikely group realizes they’ve all been contacted by [[People/Master Vernam]] to investigate [[The Flayer]], and doubt that [[Tenid]] has anything to do with it. 
 
 They decide to get acquainted and discuss the task ahead over some refreshments at a nearby tavern.
 

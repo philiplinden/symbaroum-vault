@@ -23,7 +23,8 @@ WHERE
 > [!example] Quests
 > 
 
-[[The Party]] spends some time in [[Thistle Hold]] between jobs.
+[[The Party]] delivers [[Codex Ambreagosa]] to [[Orelia]], who promises to deliver it to [[Erlaber Ambreagos|Erlaber]].
+After that, the group spends some time in [[Thistle Hold]] between jobs.
 
 ### [[Smellia]]
 Finds [[Ordo Magica Library|the library]] and archives of the [[Ordo Magica]].

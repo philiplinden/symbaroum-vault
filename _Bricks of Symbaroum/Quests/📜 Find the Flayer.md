@@ -7,7 +7,7 @@ reward: 0
 
 ## Info
 **Objectives:** 
-**Stakeholders:** [[Master Vernam]]
+**Stakeholders:** [[People/Master Vernam]]
 **Reward:**  0 thaler
 ```math
 reward = 0 # thaler
@@ -17,4 +17,6 @@ per_person = party_cut / 5 # thaler per person
 ```
 
 ## Progress & Updates
-[[Master Vernam]] has requested [[Bartolom]], [[Niho]], [[Termo]], and [[Ja-door Freumage|Ja-door]] to find [[The Flayer]] and put an end to the killings.
+[[People/Master Vernam]] has requested [[Niho]], [[Termo]], [[Weston Sawyer]] and [[Ja-door Freumage|Ja-door]] to meet with him at [[Vernam's Academy|Vernam’s Academy]], find [[The Flayer]], and put an end to the killings.
+
+[[Bartolom]] was on his way to meet with [[Master Vernam|Vernam]] because of the relationship. 
