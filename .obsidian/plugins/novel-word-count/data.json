@@ -1136,6 +1136,24 @@
       "createdDate": 1671865271817,
       "modifiedDate": 1672123262131
     },
+    "Places/Ambria/Thistle Hold/Legation Archives.md": {
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 55,
+      "nonWhitespaceCharacterCount": 45,
+      "createdDate": 1675300872045,
+      "modifiedDate": 1675300946790
+    },
+    "Places/Ambria/Thistle Hold/Ordo Magica Library.md": {
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 55,
+      "nonWhitespaceCharacterCount": 45,
+      "createdDate": 1675300872045,
+      "modifiedDate": 1675300931938
+    },
     "Places/Ambria/Thistle Hold/The Beacon.md": {
       "noteCount": 1,
       "wordCount": 18,
@@ -1604,6 +1622,15 @@
       "createdDate": 1671865059920,
       "modifiedDate": 1672731158466
     },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md": {
+      "noteCount": 1,
+      "wordCount": 284,
+      "pageCount": 0.9466666666666667,
+      "characterCount": 1880,
+      "nonWhitespaceCharacterCount": 1581,
+      "createdDate": 1675300063449,
+      "modifiedDate": 1675300865577
+    },
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md": {
       "noteCount": 1,
       "wordCount": 336,
@@ -1615,12 +1642,12 @@
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md": {
       "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 303,
-      "nonWhitespaceCharacterCount": 253,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 393,
+      "nonWhitespaceCharacterCount": 330,
       "createdDate": 1673495022272,
-      "modifiedDate": 1673495029937
+      "modifiedDate": 1675300096429
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Exploring the Tower.md": {
       "noteCount": 1,

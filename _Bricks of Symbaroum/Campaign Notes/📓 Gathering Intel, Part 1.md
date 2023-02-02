@@ -24,7 +24,7 @@ WHERE
 > [[📜 Find the Codex]]
 
 [[The Party]] explores [[Thistle Hold]] looking for clues on where the [[Codex Ambreagosa]] could be.
-- On the way to the Library of [[Ordo Magica]], [[the party]] runs into [[Ranfalt]].
+- On the way to [[Ordo Magica Library|the Library]] of [[Ordo Magica]], [[the party]] runs into [[Ranfalt]].
 	- [[Ranfalt]] speaks incoherently about horrors of [[Davokar]] and a [[Blooming Vale]].
 	- Trying to understand him, [[Kerido]] offers him some pens and paper.
 	- [[Ranfalt]] draws a crude map of the area and circles a region north of [[Melima]] with his own blood. ![[Pasted image 20221229232657.png]]
