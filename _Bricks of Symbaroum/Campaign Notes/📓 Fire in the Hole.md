@@ -2,7 +2,7 @@
 tags: session
 date: 2023-01-11
 players: David, Drew, Abhra, Faris, Kellie
-synopsis: 
+synopsis: The party 
 year: 22
 month: 1
 ---
