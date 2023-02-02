@@ -13,5 +13,3 @@ Believes [[Kerido]] is deceased, and is unaware of [[Kerido]]’s undeath.
 > [!NOTE] Idea
 > What if Uncle was [[The Prince]] all along?
 
-
-

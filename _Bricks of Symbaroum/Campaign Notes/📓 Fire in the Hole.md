@@ -24,3 +24,16 @@ WHERE
 > 
 
 
+[[The Party]] decides to collapse the tunnel to prevent [[Na-Ethikel Ambreagos|Na-Ethikel]]’s army from advancing.
+
+[[Kerido]] requests [[Khargon Tarzibczie|Khargon]] join them at the tower with his explosives.
+
+[[Khargon Tarzibczie|Khargon]] goes down the well into the [[Tunnels Beneath Lafarda's Tower]] and sets all of his explosives, with a long fuse.
+
+[[The Party]] evacuates the tower and waits.
+
+[[Lafarda's Tower]] explodes and collapses. [[Anadea]]’s sarcophagus is destroyed. [[Witches of Melima]] are not upset.
+
+[[Vanial-Lo]] and [[Aida-Eol]] disembark from the [[The River Maiden]] and leave for their home enclave. They leave before [[Trobela]] and [[Eran Kalfas|Eran]] discover them.
+
+[[The Party]] transfers [[Eran Kalfas]] to [[The River Maiden]] and set sail down [[River Eanor]] toward [[Thistle Hold]].
