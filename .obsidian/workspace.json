@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md",
+                "file": "Places/Ambria/Thistle Hold/Ordo Magica Library.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md",
+                "file": "Places/Ambria/Thistle Hold/Ordo Magica Library.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md"
+                "file": "Places/Ambria/Thistle Hold/Ordo Magica Library.md"
               }
             }
           }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md",
+                "file": "Places/Ambria/Thistle Hold/Ordo Magica Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md",
+                "file": "Places/Ambria/Thistle Hold/Ordo Magica Library.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -308,17 +308,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "566dc13f3a645995",
+  "active": "d99c34f232588d1f",
   "lastOpenFiles": [
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "Places/Ambria/Thistle Hold/Legation Archives.md",
+    "Places/Ambria/Thistle Hold/Ordo Magica Library.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md",
+    "_Bricks of Symbaroum/Quests/📜 Tarzibczie Spies.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
     "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
     "_Bricks of Symbaroum/Quests/📜 Find the Codex.md",
-    "_Bricks of Symbaroum/Quests/📜 Tarzibczie Spies.md",
-    "_Bricks of Symbaroum/Quests/📜 Lindworm Hunt.md",
-    "_Bricks of Symbaroum/Quests/📜 How undeath works.md",
-    "_Bricks of Symbaroum/Quests/📜 Get Aida-Eol back home.md",
-    "_Bricks of Symbaroum/Quests/📜 Find the missing Templars.md"
+    "_Bricks of Symbaroum/Quests/📜 Lindworm Hunt.md"
   ]
 }

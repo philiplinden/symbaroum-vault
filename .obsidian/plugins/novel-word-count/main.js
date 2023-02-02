@@ -86,6 +86,7 @@ var CountType;
   CountType2["None"] = "none";
   CountType2["Word"] = "word";
   CountType2["Page"] = "page";
+  CountType2["PageDecimal"] = "pagedecimal";
   CountType2["Note"] = "note";
   CountType2["Character"] = "character";
   CountType2["Created"] = "created";
@@ -95,6 +96,7 @@ var countTypeDisplayStrings = {
   [CountType.None]: "None",
   [CountType.Word]: "Word Count",
   [CountType.Page]: "Page Count",
+  [CountType.PageDecimal]: "Page Count (decimal)",
   [CountType.Note]: "Note Count",
   [CountType.Character]: "Character Count",
   [CountType.Created]: "Created Date",
@@ -104,6 +106,7 @@ var countTypes = [
   CountType.None,
   CountType.Word,
   CountType.Page,
+  CountType.PageDecimal,
   CountType.Note,
   CountType.Character,
   CountType.Created,
@@ -381,9 +384,10 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
     if (!counts || typeof counts.wordCount !== "number") {
       return "";
     }
-    const getPluralizedCount = function(noun, count) {
-      const roundedCount = Math.ceil(count);
-      return `${roundedCount.toLocaleString()} ${noun}${roundedCount == 1 ? "" : "s"}`;
+    const getPluralizedCount = function(noun, count, round = true) {
+      const roundedCount = round ? Math.ceil(count) : count;
+      const displayCount = round ? roundedCount.toLocaleString() : roundedCount.toLocaleString(void 0, { minimumFractionDigits: 1, maximumFractionDigits: 2 });
+      return `${displayCount} ${noun}${roundedCount == 1 ? "" : "s"}`;
     };
     switch (countType) {
       case CountType.None:
@@ -392,6 +396,8 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
         return abbreviateDescriptions ? `${Math.ceil(counts.wordCount).toLocaleString()}w` : getPluralizedCount("word", counts.wordCount);
       case CountType.Page:
         return abbreviateDescriptions ? `${Math.ceil(counts.pageCount).toLocaleString()}p` : getPluralizedCount("page", counts.pageCount);
+      case CountType.PageDecimal:
+        return abbreviateDescriptions ? `${counts.pageCount.toLocaleString(void 0, { minimumFractionDigits: 1, maximumFractionDigits: 2 })}p` : getPluralizedCount("page", counts.pageCount, false);
       case CountType.Note:
         return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
       case CountType.Character:
