@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md"
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md"
               }
             }
           }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -310,8 +310,8 @@
   },
   "active": "0ea8ac4f1ec5b469",
   "lastOpenFiles": [
-    "People/Player Characters/Termo.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+    "People/Player Characters/Termo.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md",
     "Places/Alberetor.md",
     "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
