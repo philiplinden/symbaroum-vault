@@ -1,6 +1,6 @@
 ---
 tags: story
-year: 21
+year: 22
 month: 1
 ---
 %% [[Meanwhile in Thistle Hold]] 
@@ -25,5 +25,5 @@ After breakfast, [[Anadea]] casually excused herself from the squabble of fellow
 
 [[Brother Hank|Hank]] snatched the sheaf from [[Anadea]]’s grasp. Her mouth hung agape, staring blankly at the priest. He stared back, sweating. It only took a moment for the pair to reach a silent understanding. [[Brother Hank|Hank]] and [[Anadea]] hurried down the temple halls in opposite directions, eager to forget the meeting.
 
-At last, [[Anadea]] laid a hand on the cool iron latch to the heavy door concealing [[Father Elfeno]]’s study. The room was bright with natural light. Rays of sun cut through the musty air, thick with the scent of knowledge. Nestled between the tower and courtyard, [[Father Elfeno|Elfeno]]’s study was easily one of the quietest chambers in all of the [[Sun Temple]]. It was also, of course, off limits.
+At last, [[Anadea]] laid a hand on the cool iron latch to the heavy door concealing [[Father Elfeno]]’s study. The room was bright with natural light. Rays of sun cut through the musty air, thick with the scent of knowledge. Nestled between the tower and courtyard, [[Father Elfeno|Elfeno]]’s study was easily one of the quietest chambers in all of the [[Sun Temple]]. It was also, of course, off limits to everyone else.
 
