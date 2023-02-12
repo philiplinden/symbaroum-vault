@@ -6,4 +6,8 @@ aliases:
 - Jeseebegai
 ---
 
-The First Father even wants the witches of Davokar to appear as allied to evil
+The First Father even wants barbarian witches to appear as allied to evil.
+
+Leader of [[Sun Church]].
+
+Antagonist to [[Father Sarvola]].

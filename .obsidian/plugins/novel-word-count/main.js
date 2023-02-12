@@ -88,6 +88,7 @@ var CountType;
   CountType2["Page"] = "page";
   CountType2["PageDecimal"] = "pagedecimal";
   CountType2["Note"] = "note";
+  CountType2["NoteFolderOnly"] = "notefolderonly";
   CountType2["Character"] = "character";
   CountType2["Created"] = "created";
   CountType2["Modified"] = "modified";
@@ -98,6 +99,7 @@ var countTypeDisplayStrings = {
   [CountType.Page]: "Page Count",
   [CountType.PageDecimal]: "Page Count (decimal)",
   [CountType.Note]: "Note Count",
+  [CountType.NoteFolderOnly]: "Note Count (folders only)",
   [CountType.Character]: "Character Count",
   [CountType.Created]: "Created Date",
   [CountType.Modified]: "Last Updated Date"
@@ -108,6 +110,7 @@ var countTypes = [
   CountType.Page,
   CountType.PageDecimal,
   CountType.Note,
+  CountType.NoteFolderOnly,
   CountType.Character,
   CountType.Created,
   CountType.Modified
@@ -170,6 +173,7 @@ var FileHelper = class {
     const childPaths = Object.keys(counts).filter((countPath) => path === "/" || countPath.startsWith(path + "/"));
     return childPaths.reduce((total, childPath) => {
       const childCount = this.getCountDataForPath(counts, childPath);
+      total.isDirectory = true;
       total.noteCount += childCount.noteCount;
       total.wordCount += childCount.wordCount;
       total.pageCount += childCount.pageCount;
@@ -179,6 +183,7 @@ var FileHelper = class {
       total.modifiedDate = Math.max(total.modifiedDate, childCount.modifiedDate);
       return total;
     }, {
+      isDirectory: true,
       noteCount: 0,
       wordCount: 0,
       pageCount: 0,
@@ -224,6 +229,7 @@ var FileHelper = class {
       pageCount = nonWhitespaceCharacterCount / (charsPerPageValid ? charsPerPage : 1500);
     }
     counts[file.path] = {
+      isDirectory: false,
       noteCount: 1,
       wordCount,
       pageCount,
@@ -400,6 +406,11 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
         return abbreviateDescriptions ? `${counts.pageCount.toLocaleString(void 0, { minimumFractionDigits: 1, maximumFractionDigits: 2 })}p` : getPluralizedCount("page", counts.pageCount, false);
       case CountType.Note:
         return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
+      case CountType.NoteFolderOnly:
+        if (!counts.isDirectory) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
       case CountType.Character:
         return abbreviateDescriptions ? `${counts.characterCount.toLocaleString()}ch` : getPluralizedCount("character", counts.characterCount);
       case CountType.Created:
@@ -420,7 +431,7 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
       this.settings.countType,
       this.settings.countType2,
       this.settings.countType3
-    ].filter((ct) => ct !== CountType.None).map((ct) => this.getDataTypeLabel(counts, ct, this.settings.abbreviateDescriptions)).join(" | ");
+    ].filter((ct) => ct !== CountType.None).map((ct) => this.getDataTypeLabel(counts, ct, this.settings.abbreviateDescriptions)).filter((display) => display !== null).join(" | ");
   }
   handleEvents() {
     return __async(this, null, function* () {
