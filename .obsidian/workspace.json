@@ -31,19 +31,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "a475339e36298575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -305,6 +292,8 @@
   },
   "active": "74bff35482edd229",
   "lastOpenFiles": [
+    "Items/Water of the Dusk.md",
+    "People/First Father Jeseebegai.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "People/Anadea.md",
     "Places/Ambria/Thistle Hold/Vernam's Academy.md",
@@ -312,8 +301,6 @@
     "People/Tenid.md",
     "Places/Ambria/Thistle Hold/Park of the Elders.md",
     "Places/Queen's Square.md",
-    "People/Rima.md",
-    "Factions/Odaiova Clan.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md"
+    "People/Rima.md"
   ]
 }
