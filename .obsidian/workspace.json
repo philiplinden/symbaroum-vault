@@ -31,9 +31,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "5aa0224cf119b273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Brother Hank.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5086555480957
+    "width": 335.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -111,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "People/Brother Hank.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +226,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121407,
+                  "scale": 0.8220329477960652,
                   "close": true
                 }
               }
@@ -237,7 +252,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Brother Hank.md"
+              }
             }
           }
         ]
@@ -253,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Brother Hank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,6 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Brother Hank.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -279,22 +298,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "74bff35482edd229",
+  "active": "5aa0224cf119b273",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "Items/Water of the Dusk.md",
     "People/First Father Jeseebegai.md",
-    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "People/Anadea.md",
     "Places/Ambria/Thistle Hold/Vernam's Academy.md",
     "People/Esbetha.md",

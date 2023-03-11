@@ -4,7 +4,7 @@ year: 22
 month: 1
 ---
 %% [[Meanwhile in Thistle Hold]] 
-*This story sets up [[@Throne1.ThistleHoldWrath|Wrath of the Warden]] with intrigue that they players will see but their characters will be unaware of. It ramps up the dramatic irony. It also builds interest in the main campaign story line while also linking it to the player characters’ narratives.*
+This story sets up [[@Throne1.ThistleHoldWrath|Wrath of the Warden]] with intrigue that they players will see but their characters will be unaware of. It ramps up the dramatic irony. It also builds interest in the main campaign story line while also linking it to the player characters’ narratives.
 %%
 
 ```ad-tip

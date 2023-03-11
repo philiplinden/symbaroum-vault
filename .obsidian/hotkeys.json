@@ -3,6 +3,12 @@
     {
       "modifiers": [],
       "key": "F1"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ],
   "app:open-help": [],
