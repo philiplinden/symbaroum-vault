@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Brother Hank.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5086555480957,
-    "collapsed": true
+    "width": 335.5086555480957
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -117,7 +116,7 @@
       {
         "id": "8c1cee5ed54c31c4",
         "type": "tabs",
-        "dimension": 31.4365671641791,
+        "dimension": 45.64102564102564,
         "children": [
           {
             "id": "f2d8412ecda53bfa",
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Brother Hank.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +225,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8220329477960652,
+                  "scale": 0.8332185563593839,
                   "close": true
                 }
               }
@@ -245,7 +244,7 @@
       {
         "id": "c192c3937e26db19",
         "type": "tabs",
-        "dimension": 25.279850746268657,
+        "dimension": 25.64102564102564,
         "children": [
           {
             "id": "fd1c1dc8d6bb2313",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Brother Hank.md"
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md"
               }
             }
           }
@@ -262,7 +261,7 @@
       {
         "id": "2caf1f288ba3b38e",
         "type": "tabs",
-        "dimension": 43.28358208955224,
+        "dimension": 28.717948717948715,
         "children": [
           {
             "id": "c3270eb62be32aa9",
@@ -270,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Brother Hank.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Brother Hank.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,8 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,10 +310,12 @@
   },
   "active": "5aa0224cf119b273",
   "lastOpenFiles": [
+    "People/Anadea.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Thistle Hold.md",
+    "People/Brother Hank.md",
     "Items/Water of the Dusk.md",
     "People/First Father Jeseebegai.md",
-    "People/Anadea.md",
     "Places/Ambria/Thistle Hold/Vernam's Academy.md",
     "People/Esbetha.md",
     "People/Tenid.md",
