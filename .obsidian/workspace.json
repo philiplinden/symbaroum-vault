@@ -33,25 +33,20 @@
             }
           },
           {
-            "id": "97ecd71ee7d36922",
+            "id": "f0f080aa4285da3e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 session3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            }
-          },
-          {
-            "id": "5e9a8065ebb5cf77",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5086555480957
+    "width": 335.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -129,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 session3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,7 +252,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 session3.md"
+              }
             }
           }
         ]
@@ -271,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 session3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,6 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 session3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +298,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,11 +310,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "5e9a8065ebb5cf77",
+  "active": "f0f080aa4285da3e",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 session3.md",
+    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 alternate group session 3.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 A Walk to Remember.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md",
     "Items/Water of the Dusk.md",
     "People/First Father Jeseebegai.md",
-    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "People/Anadea.md",
     "Places/Ambria/Thistle Hold/Vernam's Academy.md",
     "People/Esbetha.md",
