@@ -31,9 +31,27 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "97ecd71ee7d36922",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "5e9a8065ebb5cf77",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -290,7 +308,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "74bff35482edd229",
+  "active": "5e9a8065ebb5cf77",
   "lastOpenFiles": [
     "Items/Water of the Dusk.md",
     "People/First Father Jeseebegai.md",
