@@ -8,8 +8,8 @@
   "showAdvanced": false,
   "version": {
     "major": 2,
-    "minor": 24,
-    "patch": 19
+    "minor": 28,
+    "patch": 8
   },
   "paths": [
     "/"
@@ -17,5 +17,8 @@
   "autoParse": false,
   "disableSRD": false,
   "tryToRenderLinks": true,
-  "debug": false
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false
 }
