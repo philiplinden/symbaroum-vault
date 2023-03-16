@@ -37,10 +37,10 @@
       "noteCount": 1,
       "wordCount": 1087,
       "pageCount": 3.6233333333333335,
-      "characterCount": 6843,
+      "characterCount": 6792,
       "nonWhitespaceCharacterCount": 5684,
       "createdDate": 1678942361218,
-      "modifiedDate": 1678942361218
+      "modifiedDate": 1678947311705
     },
     "_Bricks of Symbaroum/Stories/Call of Business.md": {
       "isDirectory": false,
@@ -142,15 +142,15 @@
       "createdDate": 1678942361199,
       "modifiedDate": 1678942361199
     },
-    "_Bricks of Symbaroum/Campaign Notes/📓 session3.md": {
+    "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 44,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 329,
-      "nonWhitespaceCharacterCount": 276,
+      "wordCount": 311,
+      "pageCount": 1.0366666666666666,
+      "characterCount": 1914,
+      "nonWhitespaceCharacterCount": 1588,
       "createdDate": 1678947303534,
-      "modifiedDate": 1678947303534
+      "modifiedDate": 1678948311372
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md": {
       "isDirectory": false,
@@ -255,12 +255,12 @@
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 177,
-      "pageCount": 0.59,
-      "characterCount": 1362,
-      "nonWhitespaceCharacterCount": 1133,
+      "wordCount": 189,
+      "pageCount": 0.63,
+      "characterCount": 1396,
+      "nonWhitespaceCharacterCount": 1195,
       "createdDate": 1678942361197,
-      "modifiedDate": 1678942361197
+      "modifiedDate": 1678948020385
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Curse of the River Goddess.md": {
       "isDirectory": false,
@@ -365,12 +365,12 @@
     "_Bricks of Symbaroum/Campaign Notes/_Index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 32,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 258,
-      "nonWhitespaceCharacterCount": 213,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 251,
+      "nonWhitespaceCharacterCount": 218,
       "createdDate": 1678942360758,
-      "modifiedDate": 1678942360758
+      "modifiedDate": 1678948145499
     },
     "Templates/quest.md": {
       "isDirectory": false,
@@ -541,6 +541,16 @@
       "nonWhitespaceCharacterCount": 102,
       "createdDate": 1678942360733,
       "modifiedDate": 1678942360733
+    },
+    "Places/Ordo Tower.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 87,
+      "createdDate": 1678947416543,
+      "modifiedDate": 1678947437972
     },
     "Places/Tunnels Beneath Lafarda's Tower.md": {
       "isDirectory": false,
@@ -951,6 +961,46 @@
       "nonWhitespaceCharacterCount": 38,
       "createdDate": 1678942360428,
       "modifiedDate": 1678942360429
+    },
+    "People/Captain Marvello.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 88,
+      "nonWhitespaceCharacterCount": 71,
+      "createdDate": 1678947933304,
+      "modifiedDate": 1678947971112
+    },
+    "People/Master Cornelio.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 86,
+      "createdDate": 1678947528969,
+      "modifiedDate": 1678947626480
+    },
+    "People/Master Eufrynda.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 157,
+      "nonWhitespaceCharacterCount": 130,
+      "createdDate": 1678947461008,
+      "modifiedDate": 1678947618202
+    },
+    "People/Godalg.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 98,
+      "nonWhitespaceCharacterCount": 81,
+      "createdDate": 1678947386054,
+      "modifiedDate": 1678947453708
     },
     "People/Yeleta.md": {
       "isDirectory": false,
@@ -1517,20 +1567,20 @@
       "noteCount": 1,
       "wordCount": 63,
       "pageCount": 0.21,
-      "characterCount": 449,
+      "characterCount": 436,
       "nonWhitespaceCharacterCount": 370,
       "createdDate": 1678942359914,
-      "modifiedDate": 1678942359914
+      "modifiedDate": 1678947982561
     },
     "People/Burak O'Bema.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 28,
       "pageCount": 0.09333333333333334,
-      "characterCount": 197,
+      "characterCount": 185,
       "nonWhitespaceCharacterCount": 156,
       "createdDate": 1678942359891,
-      "modifiedDate": 1678942359914
+      "modifiedDate": 1678947975287
     },
     "People/Brother Hank.md": {
       "isDirectory": false,
