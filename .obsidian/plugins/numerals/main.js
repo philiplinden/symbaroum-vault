@@ -30162,7 +30162,7 @@ var invmodDocs = {
   category: "Arithmetic",
   syntax: ["invmod(a, b)"],
   description: "Calculate the (modular) multiplicative inverse of a modulo b. Solution to the equation ax \u2263 1 (mod b)",
-  examples: ["invmod(8, 12)=NaN", "invmod(7, 13)=2", "math.invmod(15151, 15122)=10429"],
+  examples: ["invmod(8, 12)=NaN", "invmod(7, 13)=2", "invmod(15151, 15122)=10429"],
   seealso: ["gcd", "xgcd"]
 };
 
@@ -30271,7 +30271,7 @@ var powDocs = {
   category: "Operators",
   syntax: ["x ^ y", "pow(x, y)"],
   description: "Calculates the power of x to y, x^y.",
-  examples: ["2^3", "2*2*2", "1 + e ^ (pi * i)", "math.pow([[1, 2], [4, 3]], 2)", "math.pow([[1, 2], [4, 3]], -1)"],
+  examples: ["2^3", "2*2*2", "1 + e ^ (pi * i)", "pow([[1, 2], [4, 3]], 2)", "pow([[1, 2], [4, 3]], -1)"],
   seealso: ["multiply", "nthRoot", "nthRoots", "sqrt"]
 };
 
@@ -30819,7 +30819,7 @@ var mapDocs = {
 var matrixFromColumnsDocs = {
   name: "matrixFromColumns",
   category: "Matrix",
-  syntax: ["math.matrixFromColumns(...arr)", "math.matrixFromColumns(row1, row2)", "math.matrixFromColumns(row1, row2, row3)"],
+  syntax: ["matrixFromColumns(...arr)", "matrixFromColumns(row1, row2)", "matrixFromColumns(row1, row2, row3)"],
   description: "Create a dense matrix from vectors as individual columns.",
   examples: ["matrixFromColumns([1, 2, 3], [[4],[5],[6]])"],
   seealso: ["matrix", "matrixFromRows", "matrixFromFunction", "zeros"]
@@ -30829,7 +30829,7 @@ var matrixFromColumnsDocs = {
 var matrixFromFunctionDocs = {
   name: "matrixFromFunction",
   category: "Matrix",
-  syntax: ["math.matrixFromFunction(size, fn)", "math.matrixFromFunction(size, fn, format)", "math.matrixFromFunction(size, fn, format, datatype)", "math.matrixFromFunction(size, format, fn)", "math.matrixFromFunction(size, format, datatype, fn)"],
+  syntax: ["matrixFromFunction(size, fn)", "matrixFromFunction(size, fn, format)", "matrixFromFunction(size, fn, format, datatype)", "matrixFromFunction(size, format, fn)", "matrixFromFunction(size, format, datatype, fn)"],
   description: "Create a matrix by evaluating a generating function at each index.",
   examples: ["f(I) = I[1] - I[2]", "matrixFromFunction([3,3], f)", "g(I) = I[1] - I[2] == 1 ? 4 : 0", 'matrixFromFunction([100, 100], "sparse", g)', "matrixFromFunction([5], random)"],
   seealso: ["matrix", "matrixFromRows", "matrixFromColumns", "zeros"]
@@ -30839,7 +30839,7 @@ var matrixFromFunctionDocs = {
 var matrixFromRowsDocs = {
   name: "matrixFromRows",
   category: "Matrix",
-  syntax: ["math.matrixFromRows(...arr)", "math.matrixFromRows(row1, row2)", "math.matrixFromRows(row1, row2, row3)"],
+  syntax: ["matrixFromRows(...arr)", "matrixFromRows(row1, row2)", "matrixFromRows(row1, row2, row3)"],
   description: "Create a dense matrix from vectors as individual rows.",
   examples: ["matrixFromRows([1, 2, 3], [[4],[5],[6]])"],
   seealso: ["matrix", "matrixFromColumns", "matrixFromFunction", "zeros"]
@@ -30901,7 +30901,7 @@ var rotateDocs = {
   category: "Matrix",
   syntax: ["rotate(w, theta)", "rotate(w, theta, v)"],
   description: "Returns a 2-D rotation matrix (2x2) for a given angle (in radians). Returns a 2-D rotation matrix (3x3) of a given angle (in radians) around given axis.",
-  examples: ["rotate([1, 0], math.pi / 2)", 'rotate(matrix([1, 0]), unit("35deg"))', 'rotate([1, 0, 0], unit("90deg"), [0, 0, 1])', 'rotate(matrix([1, 0, 0]), unit("90deg"), matrix([0, 0, 1]))'],
+  examples: ["rotate([1, 0], pi / 2)", 'rotate(matrix([1, 0]), unit("35deg"))', 'rotate([1, 0, 0], unit("90deg"), [0, 0, 1])', 'rotate(matrix([1, 0, 0]), unit("90deg"), matrix([0, 0, 1]))'],
   seealso: ["matrix", "rotationMatrix"]
 };
 
@@ -31061,7 +31061,7 @@ var lgammaDocs = {
   category: "Probability",
   syntax: ["lgamma(n)"],
   description: "Logarithm of the gamma function for real, positive numbers and complex numbers, using Lanczos approximation for numbers and Stirling series for complex numbers.",
-  examples: ["lgamma(4)", "lgamma(1/2)", "lgamma(math.i)", "lgamma(complex(1.1, 2))"],
+  examples: ["lgamma(4)", "lgamma(1/2)", "lgamma(i)", "lgamma(complex(1.1, 2))"],
   seealso: ["gamma"]
 };
 
@@ -31359,7 +31359,7 @@ var madDocs = {
 var maxDocs = {
   name: "max",
   category: "Statistics",
-  syntax: ["max(a, b, c, ...)", "max(A)", "max(A, dim)"],
+  syntax: ["max(a, b, c, ...)", "max(A)", "max(A, dimension)"],
   description: "Compute the maximum value of a list of values.",
   examples: ["max(2, 3, 4, 1)", "max([2, 3, 4, 1])", "max([2, 5; 4, 3])", "max([2, 5; 4, 3], 1)", "max([2, 5; 4, 3], 2)", "max(2.7, 7.1, -4.5, 2.0, 4.1)", "min(2.7, 7.1, -4.5, 2.0, 4.1)"],
   seealso: ["mean", "median", "min", "prod", "std", "sum", "variance"]
@@ -31369,7 +31369,7 @@ var maxDocs = {
 var meanDocs = {
   name: "mean",
   category: "Statistics",
-  syntax: ["mean(a, b, c, ...)", "mean(A)", "mean(A, dim)"],
+  syntax: ["mean(a, b, c, ...)", "mean(A)", "mean(A, dimension)"],
   description: "Compute the arithmetic mean of a list of values.",
   examples: ["mean(2, 3, 4, 1)", "mean([2, 3, 4, 1])", "mean([2, 5; 4, 3])", "mean([2, 5; 4, 3], 1)", "mean([2, 5; 4, 3], 2)", "mean([1.0, 2.7, 3.2, 4.0])"],
   seealso: ["max", "median", "min", "prod", "std", "sum", "variance"]
@@ -31389,7 +31389,7 @@ var medianDocs = {
 var minDocs = {
   name: "min",
   category: "Statistics",
-  syntax: ["min(a, b, c, ...)", "min(A)", "min(A, dim)"],
+  syntax: ["min(a, b, c, ...)", "min(A)", "min(A, dimension)"],
   description: "Compute the minimum value of a list of values.",
   examples: ["min(2, 3, 4, 1)", "min([2, 3, 4, 1])", "min([2, 5; 4, 3])", "min([2, 5; 4, 3], 1)", "min([2, 5; 4, 3], 2)", "min(2.7, 7.1, -4.5, 2.0, 4.1)", "max(2.7, 7.1, -4.5, 2.0, 4.1)"],
   seealso: ["max", "mean", "median", "prod", "std", "sum", "variance"]
@@ -31429,7 +31429,7 @@ var quantileSeqDocs = {
 var stdDocs = {
   name: "std",
   category: "Statistics",
-  syntax: ["std(a, b, c, ...)", "std(A)", "std(A, normalization)"],
+  syntax: ["std(a, b, c, ...)", "std(A)", "std(A, dimension)", "std(A, normalization)", "std(A, dimension, normalization)"],
   description: 'Compute the standard deviation of all values, defined as std(A) = sqrt(variance(A)). Optional parameter normalization can be "unbiased" (default), "uncorrected", or "biased".',
   examples: ["std(2, 4, 6)", "std([2, 4, 6, 8])", 'std([2, 4, 6, 8], "uncorrected")', 'std([2, 4, 6, 8], "biased")', "std([1, 2, 3; 4, 5, 6])"],
   seealso: ["max", "mean", "min", "median", "prod", "sum", "variance"]
@@ -31449,7 +31449,7 @@ var cumSumDocs = {
 var sumDocs = {
   name: "sum",
   category: "Statistics",
-  syntax: ["sum(a, b, c, ...)", "sum(A)"],
+  syntax: ["sum(a, b, c, ...)", "sum(A)", "sum(A, dimension)"],
   description: "Compute the sum of all values.",
   examples: ["sum(2, 3, 4, 1)", "sum([2, 3, 4, 1])", "sum([2, 5; 4, 3])"],
   seealso: ["max", "mean", "median", "min", "prod", "std", "sum", "variance"]
@@ -31459,7 +31459,7 @@ var sumDocs = {
 var varianceDocs = {
   name: "variance",
   category: "Statistics",
-  syntax: ["variance(a, b, c, ...)", "variance(A)", "variance(A, normalization)"],
+  syntax: ["variance(a, b, c, ...)", "variance(A)", "variance(A, dimension)", "variance(A, normalization)", "variance(A, dimension, normalization)"],
   description: 'Compute the variance of all values. Optional parameter normalization can be "unbiased" (default), "uncorrected", or "biased".',
   examples: ["variance(2, 4, 6)", "variance([2, 4, 6, 8])", 'variance([2, 4, 6, 8], "uncorrected")', 'variance([2, 4, 6, 8], "biased")', "variance([1, 2, 3; 4, 5, 6])"],
   seealso: ["max", "mean", "min", "median", "min", "prod", "std", "sum"]
@@ -38463,7 +38463,7 @@ var createReplacer = /* @__PURE__ */ factory(name282, dependencies283, () => {
 });
 
 // node_modules/mathjs/lib/esm/version.js
-var version = "11.5.0";
+var version = "11.5.1";
 
 // node_modules/mathjs/lib/esm/constants.js
 var createTrue = /* @__PURE__ */ factory("true", [], () => true);
@@ -41684,18 +41684,54 @@ var DEFAULT_SETTINGS = {
   alternateRowColor: true,
   defaultRenderStyle: "Plain" /* Plain */,
   hideLinesWithoutMarkupWhenEmitting: true,
-  hideEmitterMarkupInInput: true
+  hideEmitterMarkupInInput: true,
+  dollarSymbolCurrency: { symbol: "$", currency: "USD" },
+  yenSymbolCurrency: { symbol: "\xA5", currency: "JPY" },
+  provideSuggestions: true,
+  suggestionsIncludeMathjsSymbols: false
 };
-var moneyTypes = [
-  { symbol: "$", unicode: "x024", currency: "USD", name: "dollar" },
-  { symbol: "\u20AC", unicode: "x20AC", currency: "EUR", name: "euro" },
-  { symbol: "\xA3", unicode: "x00A3", currency: "GBP", name: "pound" },
-  { symbol: "\xA5", unicode: "x00A5", currency: "JPY", name: "yen" }
+var defaultCurrencyMap = [
+  { symbol: "$", unicode: "x024", name: "dollar", currency: "USD" },
+  { symbol: "\u20AC", unicode: "x20AC", name: "euro", currency: "EUR" },
+  { symbol: "\xA3", unicode: "x00A3", name: "pound", currency: "GBP" },
+  { symbol: "\xA5", unicode: "x00A5", name: "yen", currency: "JPY" },
+  { symbol: "\u20B9", unicode: "x20B9", name: "rupee", currency: "INR" }
 ];
-for (let moneyType of moneyTypes) {
-  createUnit(moneyType.currency, { aliases: [moneyType.currency.toLowerCase(), moneyType.symbol] });
-}
-var currencySymbols = moneyTypes.map((m) => m.symbol);
+var currencyCodesForDollarSign = {
+  ARS: "Argentine Peso",
+  AUD: "Australian Dollar",
+  BBD: "Barbadian Dollar",
+  BMD: "Bermudian Dollar",
+  BND: "Brunei Dollar",
+  BSD: "Bahamian Dollar",
+  BZD: "Belize Dollar",
+  CAD: "Canadian Dollar",
+  CLP: "Chilean Peso",
+  COP: "Colombian Peso",
+  FJD: "Fijian Dollar",
+  GYD: "Guyanese Dollar",
+  HKD: "Hong Kong Dollar",
+  JMD: "Jamaican Dollar",
+  KYD: "Cayman Islands Dollar",
+  LRD: "Liberian Dollar",
+  MXN: "Mexican Peso",
+  NAD: "Namibian Dollar",
+  NZD: "New Zealand Dollar",
+  SBD: "Solomon Islands Dollar",
+  SGD: "Singapore Dollar",
+  SRD: "Surinamese Dollar",
+  TTD: "Trinidad and Tobago Dollar",
+  TWD: "New Taiwan Dollar",
+  USD: "United States Dollar",
+  UYU: "Uruguayan Peso",
+  XCD: "East Caribbean Dollar"
+};
+var currencyCodesForYenSign = {
+  JPY: "Japanese Yen",
+  CNY: "Chinese Yuan",
+  KRW: "Korean Won"
+};
+var currencySymbols = defaultCurrencyMap.map((m) => m.symbol);
 var isAlphaOriginal = parse.isAlpha;
 parse.isAlpha = function(c, cPrev, cNext) {
   return isAlphaOriginal(c, cPrev, cNext) || currencySymbols.includes(c);
@@ -41704,21 +41740,14 @@ var isUnitAlphaOriginal = Unit.isValidAlpha;
 Unit.isValidAlpha = function(c, cPrev, cNext) {
   return isUnitAlphaOriginal(c, cPrev, cNext) || currencySymbols.includes(c);
 };
-var currencyPreProcessors = moneyTypes.map((m) => {
-  return { regex: RegExp("\\" + m.symbol + "([\\d\\.]+)", "g"), replaceStr: "$1 " + m.currency };
-});
-var preProcessors = [
-  { regex: /,(\d{3})/g, replaceStr: "$1" },
-  ...currencyPreProcessors
-];
-function numberFormatter(value) {
-  return value.toLocaleString();
-}
 function texCurrencyReplacement(input_tex) {
-  for (let moneyType of moneyTypes) {
-    input_tex = input_tex.replace(RegExp("\\\\*\\" + moneyType.symbol, "g"), "\\" + moneyType.name);
+  for (let symbolType of defaultCurrencyMap) {
+    input_tex = input_tex.replace(RegExp("\\\\*\\" + symbolType.symbol, "g"), "\\" + symbolType.name);
   }
   return input_tex;
+}
+function numberFormatter(value) {
+  return value.toLocaleString();
 }
 function htmlToElements(html) {
   const sanitizedHTML = (0, import_obsidian.sanitizeHTMLToDom)(html);
@@ -41730,6 +41759,10 @@ async function mathjaxLoop(container, value) {
   container.append(html);
 }
 var NumeralsPlugin = class extends import_obsidian.Plugin {
+  constructor() {
+    super(...arguments);
+    this.currencyMap = defaultCurrencyMap;
+  }
   async numeralsMathBlockHandler(type, source, el, ctx) {
     const blockRenderStyle = type ? type : this.settings.defaultRenderStyle;
     el.toggleClass("numerals-block", true);
@@ -41740,7 +41773,7 @@ var NumeralsPlugin = class extends import_obsidian.Plugin {
     let processedSource = source;
     const emitter_lines = [];
     for (let i2 = 0; i2 < rawRows.length; i2++) {
-      if (rawRows[i2].match(/=>\s*(#.*)?$/)) {
+      if (rawRows[i2].match(/^[^#\r\n]*=>.*$/)) {
         emitter_lines.push(i2);
       }
     }
@@ -41748,8 +41781,8 @@ var NumeralsPlugin = class extends import_obsidian.Plugin {
       el.toggleClass("numerals-emitters-present", true);
       el.toggleClass("numerals-hide-non-emitters", this.settings.hideLinesWithoutMarkupWhenEmitting);
     }
-    processedSource = processedSource.replace(/(\s*=>)(\s*)(#.*)?$/gm, "$2$3");
-    for (let processor of preProcessors) {
+    processedSource = processedSource.replace(/^([^#\r\n]*)(=>[\t ]*)(.*)$/gm, "$1$3");
+    for (let processor of this.preProcessors) {
       processedSource = processedSource.replace(processor.regex, processor.replaceStr);
     }
     let errorMsg = null;
@@ -41784,8 +41817,8 @@ var NumeralsPlugin = class extends import_obsidian.Plugin {
       if (emitter_lines.includes(i2)) {
         line.toggleClass("numerals-emitter", true);
       }
-      if (this.settings.hideLinesWithoutMarkupWhenEmitting) {
-        rawRows[i2] = rawRows[i2].replace(/(\s*=>)(\s*)(#.*)?$/gm, "$2$3");
+      if (this.settings.hideEmitterMarkupInInput) {
+        rawRows[i2] = rawRows[i2].replace(/^([^#\r\n]*)(=>[\t ]*)(.*)$/gm, "$1$3");
       }
       let inputElement, resultElement;
       switch (blockRenderStyle) {
@@ -41809,7 +41842,7 @@ var NumeralsPlugin = class extends import_obsidian.Plugin {
             mathjaxLoop(inputTexElement, input_tex);
             let resultTexElement = resultElement.createEl("span", { cls: "numerals-tex" });
             let processedResult = format4(results[i2], numberFormatter);
-            for (let processor of preProcessors) {
+            for (let processor of this.preProcessors) {
               processedResult = processedResult.replace(processor.regex, processor.replaceStr);
             }
             let texResult = parse(processedResult).toTex();
@@ -41849,11 +41882,37 @@ var NumeralsPlugin = class extends import_obsidian.Plugin {
       resultElement.createEl("span", { cls: "numerals-error-message", text: errorMsg.message });
     }
   }
+  createCurrencyMap(dollarCurrency, yenCurrency) {
+    const currencyMap = defaultCurrencyMap.map((m) => {
+      if (m.symbol === "$") {
+        if (Object.keys(currencyCodesForDollarSign).includes(dollarCurrency)) {
+          m.currency = dollarCurrency;
+        }
+      } else if (m.symbol === "\xA5") {
+        if (Object.keys(currencyCodesForYenSign).includes(yenCurrency)) {
+          m.currency = yenCurrency;
+        }
+      }
+      return m;
+    });
+    return currencyMap;
+  }
   async onload() {
     await this.loadSettings();
     await (0, import_obsidian.loadMathJax)();
-    const configureCurrencyStr = moneyTypes.map((m) => "\\def\\" + m.name + "{\\unicode{" + m.unicode + "}}").join("\n");
+    this.currencyMap = this.createCurrencyMap(this.settings.dollarSymbolCurrency.currency, this.settings.yenSymbolCurrency.currency);
+    const configureCurrencyStr = this.currencyMap.map((m) => "\\def\\" + m.name + "{\\unicode{" + m.unicode + "}}").join("\n");
     const currencyTex = (0, import_obsidian.renderMath)(configureCurrencyStr, true);
+    for (let moneyType of this.currencyMap) {
+      createUnit(moneyType.currency, { aliases: [moneyType.currency.toLowerCase(), moneyType.symbol] });
+    }
+    this.currencyPreProcessors = this.currencyMap.map((m) => {
+      return { regex: RegExp("\\" + m.symbol + "([\\d\\.]+)", "g"), replaceStr: "$1 " + m.currency };
+    });
+    this.preProcessors = [
+      { regex: /,(\d{3})/g, replaceStr: "$1" },
+      ...this.currencyPreProcessors
+    ];
     this.registerMarkdownCodeBlockProcessor("math", this.numeralsMathBlockHandler.bind(this, null));
     this.registerMarkdownCodeBlockProcessor("Math", this.numeralsMathBlockHandler.bind(this, null));
     this.registerMarkdownCodeBlockProcessor("math-plain", this.numeralsMathBlockHandler.bind(this, "Plain" /* Plain */));
@@ -41861,6 +41920,9 @@ var NumeralsPlugin = class extends import_obsidian.Plugin {
     this.registerMarkdownCodeBlockProcessor("math-TeX", this.numeralsMathBlockHandler.bind(this, "TeX" /* TeX */));
     this.registerMarkdownCodeBlockProcessor("math-highlight", this.numeralsMathBlockHandler.bind(this, "SyntaxHighlight" /* SyntaxHighlight */));
     this.addSettingTab(new NumeralsSettingTab(this.app, this));
+    if (this.settings.provideSuggestions) {
+      this.registerEditorSuggest(new NumeralsSuggestor(this));
+    }
   }
   async loadSettings() {
     let loadData = await this.loadData();
@@ -41909,7 +41971,8 @@ var NumeralsSettingTab = class extends import_obsidian.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("h2", { text: "Numerals Plugin Settings" });
+    containerEl.createEl("h1", { text: "Numerals Plugin Settings" });
+    containerEl.createEl("h2", { text: "Layout and Render Settings" });
     new import_obsidian.Setting(containerEl).setName("Numerals Layout Style").setDesc("Layout of math blocks in Live Preview and Reading mode").addDropdown((dropDown) => {
       dropDown.addOption("TwoPanes" /* TwoPanes */, "2 Panes");
       dropDown.addOption("AnswerRight" /* AnswerRight */, "Answer to the right");
@@ -41928,15 +41991,24 @@ var NumeralsSettingTab = class extends import_obsidian.PluginSettingTab {
       dropDown.addOption("SyntaxHighlight" /* SyntaxHighlight */, "Syntax Highlighting of Plain Text");
       dropDown.setValue(this.plugin.settings.defaultRenderStyle);
       dropDown.onChange(async (value) => {
-        console.log(value);
         let renderStyleStr = value;
-        console.log(renderStyleStr);
         this.plugin.settings.defaultRenderStyle = NumeralsRenderStyle[renderStyleStr];
-        console.log(NumeralsRenderStyle);
-        console.log(NumeralsRenderStyle[renderStyleStr]);
         await this.plugin.saveSettings();
       });
     });
+    containerEl.createEl("h2", { text: "Auto-Complete Suggestion Settings" });
+    new import_obsidian.Setting(containerEl).setName("Provide Auto-Complete Suggestions").setDesc("Enable auto-complete suggestions when inside a math codeblock. Will base suggestions on variables in current codeblock, as well as mathjs functions and constants if enabled below (Disabling requires restart to take effect)").addToggle((toggle) => toggle.setValue(this.plugin.settings.provideSuggestions).onChange(async (value) => {
+      this.plugin.settings.provideSuggestions = value;
+      if (value) {
+        this.plugin.registerEditorSuggest(new NumeralsSuggestor(this.plugin));
+      }
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian.Setting(containerEl).setName("Include Functions and Constants in Suggestions").setDesc("Auto-complete suggestions will include mathjs functions, constants, and physical constants.").addToggle((toggle) => toggle.setValue(this.plugin.settings.suggestionsIncludeMathjsSymbols).onChange(async (value) => {
+      this.plugin.settings.suggestionsIncludeMathjsSymbols = value;
+      await this.plugin.saveSettings();
+    }));
+    containerEl.createEl("h2", { text: "Styling Settings" });
     new import_obsidian.Setting(containerEl).setName("Result Indicator").setDesc("String to show preceeding the calculation result").addText((text) => text.setPlaceholder('" \u2192 "').setValue(this.plugin.settings.resultSeparator).onChange(async (value) => {
       this.plugin.settings.resultSeparator = value;
       await this.plugin.saveSettings();
@@ -41953,8 +42025,398 @@ var NumeralsSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.settings.hideEmitterMarkupInInput = value;
       await this.plugin.saveSettings();
     }));
+    containerEl.createEl("h2", { text: "Currency Settings" });
+    new import_obsidian.Setting(containerEl).setName("`$` symbol currency mapping").setDesc("Choose the currency the `$` symbol maps to (requires Obsidian reload to take effect)").addDropdown((dropDown) => {
+      for (let currencyCode in currencyCodesForDollarSign) {
+        dropDown.addOption(currencyCode, `${currencyCode} (${currencyCodesForDollarSign[currencyCode]})`);
+      }
+      dropDown.setValue(this.plugin.settings.dollarSymbolCurrency.currency);
+      dropDown.onChange(async (value) => {
+        this.plugin.settings.dollarSymbolCurrency.currency = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("`\xA5` symbol currency mapping").setDesc("Choose the currency the `\xA5` symbol maps to (requires Obsidian reload to take effect)").addDropdown((dropDown) => {
+      for (let currencyCode in currencyCodesForYenSign) {
+        dropDown.addOption(currencyCode, `${currencyCode} (${currencyCodesForYenSign[currencyCode]})`);
+      }
+      dropDown.setValue(this.plugin.settings.yenSymbolCurrency.currency);
+      dropDown.onChange(async (value) => {
+        this.plugin.settings.yenSymbolCurrency.currency = value;
+        await this.plugin.saveSettings();
+      });
+    });
   }
 };
+var NumeralsSuggestor = class extends import_obsidian.EditorSuggest {
+  constructor(plugin) {
+    super(plugin.app);
+    this.lastSuggestionListUpdate = 0;
+    this.localSuggestionCache = [];
+    this.plugin = plugin;
+  }
+  onTrigger(cursor, editor, file) {
+    const currentFileToCursor = editor.getRange({ line: 0, ch: 0 }, cursor);
+    const indexOfLastCodeBlockStart = currentFileToCursor.lastIndexOf("```");
+    const isMathBlock = currentFileToCursor.slice(indexOfLastCodeBlockStart + 3, indexOfLastCodeBlockStart + 7).toLowerCase() === "math";
+    if (!isMathBlock) {
+      return null;
+    }
+    let currentLineToCursor = editor.getLine(cursor.line).slice(0, cursor.ch);
+    let currentLineLastWordStart = currentLineToCursor.search(/\w+$/);
+    if (currentLineLastWordStart === -1) {
+      return null;
+    }
+    return {
+      start: { line: cursor.line, ch: currentLineLastWordStart },
+      end: cursor,
+      query: currentLineToCursor.slice(currentLineLastWordStart)
+    };
+  }
+  getSuggestions(context) {
+    let localSymbols = [];
+    if (performance.now() - this.lastSuggestionListUpdate > 200) {
+      const currentFileToStart = context.editor.getRange({ line: 0, ch: 0 }, context.start);
+      const indexOfLastCodeBlockStart = currentFileToStart.lastIndexOf("```");
+      if (indexOfLastCodeBlockStart > -1) {
+        const lastCodeBlockStart = currentFileToStart.lastIndexOf("```");
+        const lastCodeBlockStartToCursor = currentFileToStart.slice(lastCodeBlockStart);
+        const matches = lastCodeBlockStartToCursor.matchAll(/^\s*(\S*?)\s*=.*$/gm);
+        localSymbols = [...new Set(Array.from(matches, (match) => "v|" + match[1]))];
+      }
+      this.localSuggestionCache = localSymbols;
+      this.lastSuggestionListUpdate = performance.now();
+    } else {
+      localSymbols = this.localSuggestionCache;
+    }
+    const query_lower = context.query.toLowerCase();
+    const local_suggestions = localSymbols.filter((value) => value.slice(0, -1).toLowerCase().startsWith(query_lower, 2));
+    local_suggestions.sort((a, b) => a.slice(2).localeCompare(b.slice(2)));
+    let suggestions = [];
+    if (this.plugin.settings.suggestionsIncludeMathjsSymbols) {
+      const mathjs_suggestions = getMathJsSymbols().filter((value) => value.slice(0, -1).toLowerCase().startsWith(query_lower, 2));
+      suggestions = local_suggestions.concat(mathjs_suggestions);
+    } else {
+      suggestions = local_suggestions;
+    }
+    return suggestions;
+  }
+  renderSuggestion(value, el) {
+    el.addClasses(["mod-complex", "numerals-suggestion"]);
+    let suggestionContent = el.createDiv({ cls: "suggestion-content" });
+    let suggestionTitle = suggestionContent.createDiv({ cls: "suggestion-title" });
+    let suggestionNote = suggestionContent.createDiv({ cls: "suggestion-note" });
+    let suggestionAux = el.createDiv({ cls: "suggestion-aux" });
+    let suggestionFlair = suggestionAux.createDiv({ cls: "suggestion-flair" });
+    let [iconType, suggestionText, noteText] = value.split("|");
+    if (iconType === "f") {
+      (0, import_obsidian.setIcon)(suggestionFlair, "function-square");
+    } else if (iconType === "c") {
+      (0, import_obsidian.setIcon)(suggestionFlair, "locate-fixed");
+    } else if (iconType === "v") {
+      (0, import_obsidian.setIcon)(suggestionFlair, "file-code");
+    } else if (iconType === "p") {
+      (0, import_obsidian.setIcon)(suggestionFlair, "box");
+    }
+    suggestionTitle.setText(suggestionText);
+  }
+  selectSuggestion(value, evt) {
+    if (this.context) {
+      let editor = this.context.editor;
+      let [suggestionType, suggestion] = value.split("|");
+      let additionText = suggestion.slice(this.context.query.length);
+      editor.replaceRange(suggestion, this.context.start, this.context.end);
+      let ch;
+      let line = this.context.end.line;
+      if (suggestionType === "f") {
+        ch = this.context.start.ch + suggestion.length - 1;
+      } else {
+        ch = this.context.start.ch + suggestion.length;
+      }
+      editor.setCursor({ ch, line });
+      this.close();
+    }
+  }
+};
+function getMathJsSymbols() {
+  const mathjsBuiltInSymbols = [
+    "f|abs()",
+    "f|acos()",
+    "f|acosh()",
+    "f|acot()",
+    "f|acoth()",
+    "f|acsc()",
+    "f|acsch()",
+    "f|add()",
+    "f|and()",
+    "f|apply()",
+    "f|arg()",
+    "f|asec()",
+    "f|asech()",
+    "f|asin()",
+    "f|asinh()",
+    "f|atan()",
+    "f|atan2()",
+    "f|atanh()",
+    "p|atm",
+    "p|atomicMass",
+    "p|avogadro",
+    "f|bellNumbers()",
+    "f|bin()",
+    "f|bitAnd()",
+    "f|bitNot()",
+    "f|bitOr()",
+    "f|bitXor()",
+    "p|bohrMagneton",
+    "p|bohrRadius",
+    "p|boltzmann",
+    "f|catalan()",
+    "f|cbrt()",
+    "f|ceil()",
+    "p|classicalElectronRadius",
+    "f|clone()",
+    "f|column()",
+    "f|combinations()",
+    "f|combinationsWithRep()",
+    "f|compare()",
+    "f|compareNatural()",
+    "f|compareText()",
+    "f|compile()",
+    "f|composition()",
+    "f|concat()",
+    "p|conductanceQuantum",
+    "f|conj()",
+    "f|cos()",
+    "f|cosh()",
+    "f|cot()",
+    "f|coth()",
+    "p|coulomb",
+    "f|count()",
+    "f|cross()",
+    "f|csc()",
+    "f|csch()",
+    "f|ctranspose()",
+    "f|cube()",
+    "f|cumsum()",
+    "f|deepEqual()",
+    "f|derivative()",
+    "f|det()",
+    "p|deuteronMass",
+    "f|diag()",
+    "f|diff()",
+    "f|distance()",
+    "f|divide()",
+    "f|dot()",
+    "f|dotDivide()",
+    "f|dotMultiply()",
+    "f|dotPow()",
+    "c|e",
+    "p|efimovFactor",
+    "f|eigs()",
+    "p|electricConstant",
+    "p|electronMass",
+    "p|elementaryCharge",
+    "f|equal()",
+    "f|equalText()",
+    "f|erf()",
+    "f|evaluate()",
+    "f|exp()",
+    "f|expm()",
+    "f|expm1()",
+    "f|factorial()",
+    "p|faraday",
+    "p|fermiCoupling",
+    "f|fft()",
+    "f|filter()",
+    "p|fineStructure",
+    "p|firstRadiation",
+    "f|fix()",
+    "f|flatten()",
+    "f|floor()",
+    "f|forEach()",
+    "f|format()",
+    "f|gamma()",
+    "p|gasConstant",
+    "f|gcd()",
+    "f|getMatrixDataType()",
+    "p|gravitationConstant",
+    "p|gravity",
+    "p|hartreeEnergy",
+    "f|hasNumericValue()",
+    "f|help()",
+    "f|hex()",
+    "f|hypot()",
+    "c|i",
+    "f|identity()",
+    "f|ifft()",
+    "f|im()",
+    "c|Infinity",
+    "f|intersect()",
+    "f|inv()",
+    "p|inverseConductanceQuantum",
+    "f|invmod()",
+    "f|isInteger()",
+    "f|isNaN()",
+    "f|isNegative()",
+    "f|isNumeric()",
+    "f|isPositive()",
+    "f|isPrime()",
+    "f|isZero()",
+    "f|kldivergence()",
+    "p|klitzing",
+    "f|kron()",
+    "f|larger()",
+    "f|largerEq()",
+    "f|lcm()",
+    "f|leafCount()",
+    "f|leftShift()",
+    "f|lgamma()",
+    "c|LN10",
+    "c|LN2",
+    "f|log()",
+    "f|log10()",
+    "c|LOG10E",
+    "f|log1p()",
+    "f|log2()",
+    "c|LOG2E",
+    "p|loschmidt",
+    "f|lsolve()",
+    "f|lsolveAll()",
+    "f|lup()",
+    "f|lusolve()",
+    "f|lyap()",
+    "f|mad()",
+    "p|magneticConstant",
+    "p|magneticFluxQuantum",
+    "f|map()",
+    "f|matrixFromColumns()",
+    "f|matrixFromFunction()",
+    "f|matrixFromRows()",
+    "f|max()",
+    "f|mean()",
+    "f|median()",
+    "f|min()",
+    "f|mod()",
+    "f|mode()",
+    "p|molarMass",
+    "p|molarMassC12",
+    "p|molarPlanckConstant",
+    "p|molarVolume",
+    "f|multinomial()",
+    "f|multiply()",
+    "c|NaN",
+    "p|neutronMass",
+    "f|norm()",
+    "f|not()",
+    "f|nthRoot()",
+    "f|nthRoots()",
+    "p|nuclearMagneton",
+    "c|null",
+    "f|numeric()",
+    "f|oct()",
+    "f|ones()",
+    "f|or()",
+    "f|parser()",
+    "f|partitionSelect()",
+    "f|permutations()",
+    "c|phi",
+    "c|pi",
+    "f|pickRandom()",
+    "f|pinv()",
+    "p|planckCharge",
+    "p|planckConstant",
+    "p|planckLength",
+    "p|planckMass",
+    "p|planckTemperature",
+    "p|planckTime",
+    "f|polynomialRoot()",
+    "f|pow()",
+    "f|print()",
+    "f|prod()",
+    "p|protonMass",
+    "f|qr()",
+    "f|quantileSeq()",
+    "p|quantumOfCirculation",
+    "f|random()",
+    "f|randomInt()",
+    "f|range()",
+    "f|rationalize()",
+    "f|re()",
+    "p|reducedPlanckConstant",
+    "f|reshape()",
+    "f|resize()",
+    "f|resolve()",
+    "f|rightArithShift()",
+    "f|rightLogShift()",
+    "f|rotate()",
+    "f|rotationMatrix()",
+    "f|round()",
+    "f|row()",
+    "p|rydberg",
+    "p|sackurTetrode",
+    "f|schur()",
+    "f|sec()",
+    "f|sech()",
+    "p|secondRadiation",
+    "f|setCartesian()",
+    "f|setDifference()",
+    "f|setDistinct()",
+    "f|setIntersect()",
+    "f|setIsSubset()",
+    "f|setMultiplicity()",
+    "f|setPowerset()",
+    "f|setSize()",
+    "f|setSymDifference()",
+    "f|setUnion()",
+    "f|sign()",
+    "f|simplify()",
+    "f|simplifyConstant()",
+    "f|simplifyCore()",
+    "f|sin()",
+    "f|sinh()",
+    "f|size()",
+    "f|slu()",
+    "f|smaller()",
+    "f|smallerEq()",
+    "f|sort()",
+    "p|speedOfLight",
+    "f|sqrt()",
+    "c|SQRT1_2",
+    "c|SQRT2",
+    "f|sqrtm()",
+    "f|square()",
+    "f|squeeze()",
+    "f|std()",
+    "p|stefanBoltzmann",
+    "f|stirlingS2()",
+    "f|subset()",
+    "f|subtract()",
+    "f|sum()",
+    "f|sylvester()",
+    "f|symbolicEqual()",
+    "f|tan()",
+    "f|tanh()",
+    "c|tau",
+    "p|thomsonCrossSection",
+    "f|to()",
+    "f|trace()",
+    "f|transpose()",
+    "f|typeOf()",
+    "f|unaryMinus()",
+    "f|unaryPlus()",
+    "f|unequal()",
+    "f|usolve()",
+    "f|usolveAll()",
+    "p|vacuumImpedance",
+    "f|variance()",
+    "p|weakMixingAngle",
+    "p|wienDisplacement",
+    "f|xgcd()",
+    "f|xor()",
+    "f|zeros()"
+  ];
+  return mathjsBuiltInSymbols;
+}
 /*!
  *  decimal.js v10.4.3
  *  An arbitrary-precision Decimal type for JavaScript.
