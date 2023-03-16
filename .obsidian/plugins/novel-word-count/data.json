@@ -8,10 +8,120 @@
     "debugMode": false,
     "wordsPerPage": 300,
     "charsPerPage": 1500,
-    "wordCountType": "SpaceDelimited",
-    "pageCountType": "ByWords"
+    "pageCountType": "ByWords",
+    "wordCountType": "SpaceDelimited"
   },
   "cachedCounts": {
+    "Items/Cut-Co Knives.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 35,
+      "createdDate": 1675160724723,
+      "modifiedDate": 1675160741815
+    },
+    "Items/Sun Stone.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 329,
+      "nonWhitespaceCharacterCount": 261,
+      "createdDate": 1675160003498,
+      "modifiedDate": 1675160070227
+    },
+    "Items/Water of the Dusk.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 79,
+      "createdDate": 1673252588002,
+      "modifiedDate": 1676163649180
+    },
+    "Items/Dragonbone Comb.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 211,
+      "nonWhitespaceCharacterCount": 173,
+      "createdDate": 1673143706353,
+      "modifiedDate": 1673143759128
+    },
+    "Items/Three-Arrows Buckle.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 145,
+      "nonWhitespaceCharacterCount": 122,
+      "createdDate": 1673143784778,
+      "modifiedDate": 1673143821016
+    },
+    "Items/Seer's Catalog.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 149,
+      "createdDate": 1672629385143,
+      "modifiedDate": 1672629448526
+    },
+    "Items/Ilanda's journal.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 317,
+      "createdDate": 1672619588804,
+      "modifiedDate": 1672630433597
+    },
+    "Items/Khadvil.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 177,
+      "nonWhitespaceCharacterCount": 148,
+      "createdDate": 1672616690515,
+      "modifiedDate": 1672616765648
+    },
+    "Items/Iron Pact Ring.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 216,
+      "nonWhitespaceCharacterCount": 173,
+      "createdDate": 1672616049261,
+      "modifiedDate": 1672616141428
+    },
+    "Items/Zweigels.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 178,
+      "createdDate": 1672600183102,
+      "modifiedDate": 1672600396408
+    },
+    "Items/Codex Ambreagosa.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 161,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 1011,
+      "nonWhitespaceCharacterCount": 844,
+      "createdDate": 1672556622511,
+      "modifiedDate": 1673144049150
+    },
     "Templates/beast.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -22,16 +132,6 @@
       "createdDate": 1672616870578,
       "modifiedDate": 1672616909151
     },
-    "Templates/quest.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 91,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 631,
-      "nonWhitespaceCharacterCount": 534,
-      "createdDate": 1672558274013,
-      "modifiedDate": 1672619350277
-    },
     "Templates/item.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -41,6 +141,16 @@
       "nonWhitespaceCharacterCount": 200,
       "createdDate": 1672556460468,
       "modifiedDate": 1672558440981
+    },
+    "Templates/quest.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 91,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 631,
+      "nonWhitespaceCharacterCount": 534,
+      "createdDate": 1672558274013,
+      "modifiedDate": 1672619350277
     },
     "Templates/event.md": {
       "isDirectory": false,
@@ -81,116 +191,6 @@
       "nonWhitespaceCharacterCount": 369,
       "createdDate": 1672453208447,
       "modifiedDate": 1672612200668
-    },
-    "Items/Cut-Co Knives.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 35,
-      "createdDate": 1675160724723,
-      "modifiedDate": 1675160741815
-    },
-    "Items/Sun Stone.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 63,
-      "pageCount": 0.21,
-      "characterCount": 329,
-      "nonWhitespaceCharacterCount": 261,
-      "createdDate": 1675160003498,
-      "modifiedDate": 1675160070227
-    },
-    "Items/Water of the Dusk.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 97,
-      "nonWhitespaceCharacterCount": 79,
-      "createdDate": 1673252588002,
-      "modifiedDate": 1676163649180
-    },
-    "Items/Three-Arrows Buckle.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 145,
-      "nonWhitespaceCharacterCount": 122,
-      "createdDate": 1673143784778,
-      "modifiedDate": 1673143821016
-    },
-    "Items/Dragonbone Comb.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 36,
-      "pageCount": 0.12,
-      "characterCount": 211,
-      "nonWhitespaceCharacterCount": 173,
-      "createdDate": 1673143706353,
-      "modifiedDate": 1673143759128
-    },
-    "Items/Seer's Catalog.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 176,
-      "nonWhitespaceCharacterCount": 149,
-      "createdDate": 1672629385143,
-      "modifiedDate": 1672629448526
-    },
-    "Items/Ilanda's journal.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 52,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 369,
-      "nonWhitespaceCharacterCount": 317,
-      "createdDate": 1672619588804,
-      "modifiedDate": 1672630433597
-    },
-    "Items/Khadvil.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 177,
-      "nonWhitespaceCharacterCount": 148,
-      "createdDate": 1672616690515,
-      "modifiedDate": 1672616765648
-    },
-    "Items/Zweigels.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 41,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 178,
-      "createdDate": 1672600183102,
-      "modifiedDate": 1672600396408
-    },
-    "Items/Iron Pact Ring.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 216,
-      "nonWhitespaceCharacterCount": 173,
-      "createdDate": 1672616049261,
-      "modifiedDate": 1672616141428
-    },
-    "Items/Codex Ambreagosa.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 161,
-      "pageCount": 0.5366666666666666,
-      "characterCount": 1011,
-      "nonWhitespaceCharacterCount": 844,
-      "createdDate": 1672556622511,
-      "modifiedDate": 1673144049150
     },
     "Beasts/Etterherd Swarm.md": {
       "isDirectory": false,
@@ -242,16 +242,6 @@
       "createdDate": 1672616913199,
       "modifiedDate": 1672616978131
     },
-    "Beasts/Colossi.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 155,
-      "pageCount": 0.5166666666666667,
-      "characterCount": 884,
-      "nonWhitespaceCharacterCount": 728,
-      "createdDate": 1671928665149,
-      "modifiedDate": 1672119003603
-    },
     "Beasts/Nightmare.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -261,6 +251,16 @@
       "nonWhitespaceCharacterCount": 137,
       "createdDate": 1672008384943,
       "modifiedDate": 1672629354027
+    },
+    "Beasts/Colossi.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 155,
+      "pageCount": 0.5166666666666667,
+      "characterCount": 884,
+      "nonWhitespaceCharacterCount": 728,
+      "createdDate": 1671928665149,
+      "modifiedDate": 1672119003603
     },
     "Gods/Eox.md": {
       "isDirectory": false,
@@ -322,15 +322,15 @@
       "createdDate": 1675160902417,
       "modifiedDate": 1675464602235
     },
-    "People/Master Vernam.md": {
+    "People/First Father Jeseebegai.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 179,
-      "pageCount": 0.5966666666666667,
-      "characterCount": 1057,
-      "nonWhitespaceCharacterCount": 875,
-      "createdDate": 1675160410183,
-      "modifiedDate": 1675310382868
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 190,
+      "nonWhitespaceCharacterCount": 157,
+      "createdDate": 1673165495340,
+      "modifiedDate": 1676163627627
     },
     "People/The Flayer.md": {
       "isDirectory": false,
@@ -342,15 +342,15 @@
       "createdDate": 1675160510159,
       "modifiedDate": 1675160536677
     },
-    "People/Deseba the Old.md": {
+    "People/Master Vernam.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 63,
-      "pageCount": 0.21,
-      "characterCount": 436,
-      "nonWhitespaceCharacterCount": 370,
-      "createdDate": 1672730808924,
-      "modifiedDate": 1673165487022
+      "wordCount": 182,
+      "pageCount": 0.6066666666666667,
+      "characterCount": 1094,
+      "nonWhitespaceCharacterCount": 909,
+      "createdDate": 1675160410183,
+      "modifiedDate": 1678938587056
     },
     "People/Haloban.md": {
       "isDirectory": false,
@@ -362,15 +362,15 @@
       "createdDate": 1672723992491,
       "modifiedDate": 1672724121022
     },
-    "People/First Father Jeseebegai.md": {
+    "People/Deseba the Old.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 31,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 190,
-      "nonWhitespaceCharacterCount": 157,
-      "createdDate": 1673165495340,
-      "modifiedDate": 1676163627627
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 436,
+      "nonWhitespaceCharacterCount": 370,
+      "createdDate": 1672730808924,
+      "modifiedDate": 1673165487022
     },
     "People/Father Sarvola.md": {
       "isDirectory": false,
@@ -392,16 +392,6 @@
       "createdDate": 1672627061017,
       "modifiedDate": 1672627101943
     },
-    "People/Oradarai.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 29,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 210,
-      "nonWhitespaceCharacterCount": 179,
-      "createdDate": 1672616508735,
-      "modifiedDate": 1672616631662
-    },
     "People/Gert.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -411,6 +401,16 @@
       "nonWhitespaceCharacterCount": 95,
       "createdDate": 1672624875240,
       "modifiedDate": 1672624917932
+    },
+    "People/Oradarai.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 29,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 210,
+      "nonWhitespaceCharacterCount": 179,
+      "createdDate": 1672616508735,
+      "modifiedDate": 1672616631662
     },
     "People/Vanial-Lo.md": {
       "isDirectory": false,
@@ -422,16 +422,6 @@
       "createdDate": 1672615871755,
       "modifiedDate": 1672616506422
     },
-    "People/Malalogai.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 31,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 220,
-      "nonWhitespaceCharacterCount": 189,
-      "createdDate": 1672613935576,
-      "modifiedDate": 1672614014849
-    },
     "People/Ivar.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -442,15 +432,15 @@
       "createdDate": 1672615139486,
       "modifiedDate": 1672721272760
     },
-    "People/Harasto.md": {
+    "People/Malalogai.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 90,
-      "pageCount": 0.3,
-      "characterCount": 554,
-      "nonWhitespaceCharacterCount": 462,
-      "createdDate": 1672612654501,
-      "modifiedDate": 1672620129021
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 220,
+      "nonWhitespaceCharacterCount": 189,
+      "createdDate": 1672613935576,
+      "modifiedDate": 1672614014849
     },
     "People/Aida-Eol.md": {
       "isDirectory": false,
@@ -462,6 +452,16 @@
       "createdDate": 1672612992914,
       "modifiedDate": 1672616443461
     },
+    "People/Harasto.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 90,
+      "pageCount": 0.3,
+      "characterCount": 554,
+      "nonWhitespaceCharacterCount": 462,
+      "createdDate": 1672612654501,
+      "modifiedDate": 1672620129021
+    },
     "People/Gwyn.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -472,16 +472,6 @@
       "createdDate": 1672612207525,
       "modifiedDate": 1672612246680
     },
-    "People/Ilanda.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 64,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 439,
-      "nonWhitespaceCharacterCount": 371,
-      "createdDate": 1672610086491,
-      "modifiedDate": 1672616668715
-    },
     "People/Dolani.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -491,6 +481,16 @@
       "nonWhitespaceCharacterCount": 119,
       "createdDate": 1672611963061,
       "modifiedDate": 1672612002532
+    },
+    "People/Ilanda.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 64,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 439,
+      "nonWhitespaceCharacterCount": 371,
+      "createdDate": 1672610086491,
+      "modifiedDate": 1672616668715
     },
     "People/Uncle Sam.md": {
       "isDirectory": false,
@@ -512,6 +512,16 @@
       "createdDate": 1672600922759,
       "modifiedDate": 1672600970340
     },
+    "People/Father Elfeno.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 157,
+      "nonWhitespaceCharacterCount": 131,
+      "createdDate": 1672559417284,
+      "modifiedDate": 1673253414326
+    },
     "People/Orelia.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -531,26 +541,6 @@
       "nonWhitespaceCharacterCount": 118,
       "createdDate": 1672386342083,
       "modifiedDate": 1672386407423
-    },
-    "People/Father Elfeno.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 157,
-      "nonWhitespaceCharacterCount": 131,
-      "createdDate": 1672559417284,
-      "modifiedDate": 1673253414326
-    },
-    "People/Mira.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 126,
-      "createdDate": 1672386054733,
-      "modifiedDate": 1672386720453
     },
     "People/Kora.md": {
       "isDirectory": false,
@@ -572,16 +562,6 @@
       "createdDate": 1672386088515,
       "modifiedDate": 1672721240632
     },
-    "People/Burak O'Bema.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 28,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 185,
-      "nonWhitespaceCharacterCount": 156,
-      "createdDate": 1672385697377,
-      "modifiedDate": 1672625068828
-    },
     "People/Serex Attio.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -591,6 +571,26 @@
       "nonWhitespaceCharacterCount": 32,
       "createdDate": 1672385601955,
       "modifiedDate": 1672385616389
+    },
+    "People/Mira.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 126,
+      "createdDate": 1672386054733,
+      "modifiedDate": 1672386720453
+    },
+    "People/Burak O'Bema.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 28,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 185,
+      "nonWhitespaceCharacterCount": 156,
+      "createdDate": 1672385697377,
+      "modifiedDate": 1672625068828
     },
     "People/Brother Hank.md": {
       "isDirectory": false,
@@ -632,36 +632,6 @@
       "createdDate": 1672380830095,
       "modifiedDate": 1672556428482
     },
-    "People/Aroaleta.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 89,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 585,
-      "nonWhitespaceCharacterCount": 493,
-      "createdDate": 1672216279624,
-      "modifiedDate": 1673145025905
-    },
-    "People/Father Matheo Brigo.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 83,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 481,
-      "nonWhitespaceCharacterCount": 399,
-      "createdDate": 1671941962698,
-      "modifiedDate": 1671942811941
-    },
-    "People/Player Characters/Termo.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 492,
-      "pageCount": 1.64,
-      "characterCount": 3229,
-      "nonWhitespaceCharacterCount": 2706,
-      "createdDate": 1675160177062,
-      "modifiedDate": 1675311411113
-    },
     "People/Player Characters/Weston Sawyer.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -682,16 +652,6 @@
       "createdDate": 1675160100347,
       "modifiedDate": 1675309051196
     },
-    "People/Player Characters/Bartolom.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 160,
-      "pageCount": 0.5333333333333333,
-      "characterCount": 932,
-      "nonWhitespaceCharacterCount": 770,
-      "createdDate": 1675159938077,
-      "modifiedDate": 1675309051167
-    },
     "People/Player Characters/Ja-door Freumage.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -702,6 +662,26 @@
       "createdDate": 1675159557735,
       "modifiedDate": 1675159774338
     },
+    "People/Player Characters/Termo.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 492,
+      "pageCount": 1.64,
+      "characterCount": 3229,
+      "nonWhitespaceCharacterCount": 2706,
+      "createdDate": 1675160177062,
+      "modifiedDate": 1675311411113
+    },
+    "People/Player Characters/Bartolom.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 160,
+      "pageCount": 0.5333333333333333,
+      "characterCount": 932,
+      "nonWhitespaceCharacterCount": 770,
+      "createdDate": 1675159938077,
+      "modifiedDate": 1675309051167
+    },
     "People/Player Characters/Kerido.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -711,16 +691,6 @@
       "nonWhitespaceCharacterCount": 60,
       "createdDate": 1672383996145,
       "modifiedDate": 1672554463927
-    },
-    "People/Player Characters/Andor Dawnsinger.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 78,
-      "pageCount": 0.26,
-      "characterCount": 463,
-      "nonWhitespaceCharacterCount": 384,
-      "createdDate": 1671838646838,
-      "modifiedDate": 1672554383293
     },
     "People/Player Characters/Smellia.md": {
       "isDirectory": false,
@@ -742,6 +712,16 @@
       "createdDate": 1671782798451,
       "modifiedDate": 1672612586962
     },
+    "People/Player Characters/Andor Dawnsinger.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 78,
+      "pageCount": 0.26,
+      "characterCount": 463,
+      "nonWhitespaceCharacterCount": 384,
+      "createdDate": 1671838646838,
+      "modifiedDate": 1672554383293
+    },
     "People/Player Characters/Khargon Tarzibczie.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -752,15 +732,25 @@
       "createdDate": 1671782769007,
       "modifiedDate": 1672612502679
     },
-    "People/Grand Master Seldonio.md": {
+    "People/Aroaleta.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 20,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 109,
-      "nonWhitespaceCharacterCount": 89,
-      "createdDate": 1671941457946,
-      "modifiedDate": 1671941589966
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 585,
+      "nonWhitespaceCharacterCount": 493,
+      "createdDate": 1672216279624,
+      "modifiedDate": 1673145025905
+    },
+    "People/Father Matheo Brigo.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 83,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 399,
+      "createdDate": 1671941962698,
+      "modifiedDate": 1671942811941
     },
     "People/Herakleo Attio.md": {
       "isDirectory": false,
@@ -772,16 +762,6 @@
       "createdDate": 1671941559356,
       "modifiedDate": 1672119577713
     },
-    "People/Mearoel.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 120,
-      "pageCount": 0.4,
-      "characterCount": 709,
-      "nonWhitespaceCharacterCount": 588,
-      "createdDate": 1671858740426,
-      "modifiedDate": 1672613145074
-    },
     "People/Yeleta.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -791,6 +771,26 @@
       "nonWhitespaceCharacterCount": 294,
       "createdDate": 1671857608830,
       "modifiedDate": 1672216092743
+    },
+    "People/Grand Master Seldonio.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 109,
+      "nonWhitespaceCharacterCount": 89,
+      "createdDate": 1671941457946,
+      "modifiedDate": 1671941589966
+    },
+    "People/Mearoel.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 120,
+      "pageCount": 0.4,
+      "characterCount": 709,
+      "nonWhitespaceCharacterCount": 588,
+      "createdDate": 1671858740426,
+      "modifiedDate": 1672613145074
     },
     "People/Master Alinard.md": {
       "isDirectory": false,
@@ -802,16 +802,6 @@
       "createdDate": 1671855070179,
       "modifiedDate": 1671855186134
     },
-    "People/Teara-Téana.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 101,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 594,
-      "nonWhitespaceCharacterCount": 493,
-      "createdDate": 1671853505170,
-      "modifiedDate": 1672613120283
-    },
     "People/Anadea.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -821,6 +811,16 @@
       "nonWhitespaceCharacterCount": 115,
       "createdDate": 1671853822933,
       "modifiedDate": 1672383904144
+    },
+    "People/Teara-Téana.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 101,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 594,
+      "nonWhitespaceCharacterCount": 493,
+      "createdDate": 1671853505170,
+      "modifiedDate": 1672613120283
     },
     "People/Eneáno.md": {
       "isDirectory": false,
@@ -832,16 +832,6 @@
       "createdDate": 1671853466743,
       "modifiedDate": 1672613092210
     },
-    "People/Trobela.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 47,
-      "pageCount": 0.15666666666666668,
-      "characterCount": 305,
-      "nonWhitespaceCharacterCount": 257,
-      "createdDate": 1671852411049,
-      "modifiedDate": 1671853191706
-    },
     "People/Na-Ethikel Ambreagos.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -851,6 +841,16 @@
       "nonWhitespaceCharacterCount": 203,
       "createdDate": 1671852562944,
       "modifiedDate": 1672628018243
+    },
+    "People/Trobela.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 305,
+      "nonWhitespaceCharacterCount": 257,
+      "createdDate": 1671852411049,
+      "modifiedDate": 1671853191706
     },
     "People/Eran Kalfas.md": {
       "isDirectory": false,
@@ -862,16 +862,6 @@
       "createdDate": 1671852517765,
       "modifiedDate": 1672037210448
     },
-    "People/Malrek.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 9,
-      "pageCount": 0.03,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 32,
-      "createdDate": 1671839786483,
-      "modifiedDate": 1671852604274
-    },
     "People/King Ynedar.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -882,15 +872,25 @@
       "createdDate": 1671838414351,
       "modifiedDate": 1672384169196
     },
+    "People/Malrek.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 32,
+      "createdDate": 1671839786483,
+      "modifiedDate": 1671852604274
+    },
     "People/Lasifor Nightpitch.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 82,
       "pageCount": 0.2733333333333333,
-      "characterCount": 465,
+      "characterCount": 466,
       "nonWhitespaceCharacterCount": 382,
       "createdDate": 1671784186230,
-      "modifiedDate": 1671853660333
+      "modifiedDate": 1678938582640
     },
     "People/Elori.md": {
       "isDirectory": false,
@@ -922,16 +922,6 @@
       "createdDate": 1671776077375,
       "modifiedDate": 1672119136056
     },
-    "References/@Copper2.MarkOfTheBeast.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 144,
-      "nonWhitespaceCharacterCount": 123,
-      "createdDate": 1675159535812,
-      "modifiedDate": 1675159535827
-    },
     "References/@Adventures.WhereDarknessDwells.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -941,6 +931,16 @@
       "nonWhitespaceCharacterCount": 118,
       "createdDate": 1672616632722,
       "modifiedDate": 1672616638376
+    },
+    "References/@Copper2.MarkOfTheBeast.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 144,
+      "nonWhitespaceCharacterCount": 123,
+      "createdDate": 1675159535812,
+      "modifiedDate": 1675159535827
     },
     "References/@Adventures.BlightNight.md": {
       "isDirectory": false,
@@ -952,16 +952,6 @@
       "createdDate": 1672125889475,
       "modifiedDate": 1672556947039
     },
-    "References/@Rules.Bestiary.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 103,
-      "nonWhitespaceCharacterCount": 91,
-      "createdDate": 1672119686508,
-      "modifiedDate": 1672556950675
-    },
     "References/@Rules.PlayerGuide.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -972,6 +962,16 @@
       "createdDate": 1672119670893,
       "modifiedDate": 1672556954932
     },
+    "References/@Rules.Bestiary.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 91,
+      "createdDate": 1672119686508,
+      "modifiedDate": 1672556950675
+    },
     "References/@Throne1.ThistleHoldWrath.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -981,6 +981,16 @@
       "nonWhitespaceCharacterCount": 114,
       "createdDate": 1672119594748,
       "modifiedDate": 1672730207721
+    },
+    "References/@Throne2.KarvostiWitchHammer.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 154,
+      "nonWhitespaceCharacterCount": 134,
+      "createdDate": 1672119420172,
+      "modifiedDate": 1672556986974
     },
     "References/@Rules.GamemasterGuide.md": {
       "isDirectory": false,
@@ -1002,16 +1012,6 @@
       "createdDate": 1672119475607,
       "modifiedDate": 1672557002182
     },
-    "References/@Throne2.KarvostiWitchHammer.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 19,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 154,
-      "nonWhitespaceCharacterCount": 134,
-      "createdDate": 1672119420172,
-      "modifiedDate": 1672556986974
-    },
     "References/@Throne1.BloomingVale.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1021,16 +1021,6 @@
       "nonWhitespaceCharacterCount": 102,
       "createdDate": 1672119393885,
       "modifiedDate": 1672556958205
-    },
-    "Events/_timeline.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 128,
-      "nonWhitespaceCharacterCount": 105,
-      "createdDate": 1672723406505,
-      "modifiedDate": 1672731169495
     },
     "Events/Life and Undeath of Na-Ethikel.md": {
       "isDirectory": false,
@@ -1042,15 +1032,15 @@
       "createdDate": 1672627212771,
       "modifiedDate": 1672723080829
     },
-    "Events/Halaran's Cataclysm.md": {
+    "Events/_timeline.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 121,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 128,
       "nonWhitespaceCharacterCount": 105,
-      "createdDate": 1672384448846,
-      "modifiedDate": 1672723027802
+      "createdDate": 1672723406505,
+      "modifiedDate": 1672731169495
     },
     "Events/Death of Eox.md": {
       "isDirectory": false,
@@ -1062,6 +1052,16 @@
       "createdDate": 1671853706940,
       "modifiedDate": 1675309593953
     },
+    "Events/Halaran's Cataclysm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 121,
+      "nonWhitespaceCharacterCount": 105,
+      "createdDate": 1672384448846,
+      "modifiedDate": 1672723027802
+    },
     "Events/Jezites' Downfall.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1071,16 +1071,6 @@
       "nonWhitespaceCharacterCount": 1253,
       "createdDate": 1671845513706,
       "modifiedDate": 1672724738655
-    },
-    "Events/Attack of Eloan-Eo.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 213,
-      "pageCount": 0.71,
-      "characterCount": 1222,
-      "nonWhitespaceCharacterCount": 1008,
-      "createdDate": 1671783801723,
-      "modifiedDate": 1672723870412
     },
     "Events/The Truth about Haloban.md": {
       "isDirectory": false,
@@ -1102,6 +1092,16 @@
       "createdDate": 1671783232567,
       "modifiedDate": 1672723823465
     },
+    "Events/Attack of Eloan-Eo.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 213,
+      "pageCount": 0.71,
+      "characterCount": 1222,
+      "nonWhitespaceCharacterCount": 1008,
+      "createdDate": 1671783801723,
+      "modifiedDate": 1672723870412
+    },
     "Events/Mass Death of Lindaros.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1111,16 +1111,6 @@
       "nonWhitespaceCharacterCount": 1231,
       "createdDate": 1671779915921,
       "modifiedDate": 1672724832923
-    },
-    "Events/Aloéna's Visit.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 213,
-      "pageCount": 0.71,
-      "characterCount": 1309,
-      "nonWhitespaceCharacterCount": 1094,
-      "createdDate": 1671776803921,
-      "modifiedDate": 1672723863094
     },
     "Events/The Great War.md": {
       "isDirectory": false,
@@ -1132,6 +1122,16 @@
       "createdDate": 1671775929598,
       "modifiedDate": 1672731358479
     },
+    "Events/Aloéna's Visit.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 213,
+      "pageCount": 0.71,
+      "characterCount": 1309,
+      "nonWhitespaceCharacterCount": 1094,
+      "createdDate": 1671776803921,
+      "modifiedDate": 1672723863094
+    },
     "Places/Queen's Square.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1141,16 +1141,6 @@
       "nonWhitespaceCharacterCount": 207,
       "createdDate": 1675160625222,
       "modifiedDate": 1675160683649
-    },
-    "Places/Karohar.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 118,
-      "nonWhitespaceCharacterCount": 98,
-      "createdDate": 1672616561169,
-      "modifiedDate": 1672616591185
     },
     "Places/Tunnels Beneath Lafarda's Tower.md": {
       "isDirectory": false,
@@ -1162,6 +1152,16 @@
       "createdDate": 1673144340049,
       "modifiedDate": 1673144745227
     },
+    "Places/Karohar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 118,
+      "nonWhitespaceCharacterCount": 98,
+      "createdDate": 1672616561169,
+      "modifiedDate": 1672616591185
+    },
     "Places/Kalea-Ma Har Cemetery.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1171,16 +1171,6 @@
       "nonWhitespaceCharacterCount": 233,
       "createdDate": 1672618076019,
       "modifiedDate": 1672618354990
-    },
-    "Places/Titan Mountains.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 271,
-      "pageCount": 0.9033333333333333,
-      "characterCount": 1603,
-      "nonWhitespaceCharacterCount": 1330,
-      "createdDate": 1671865271817,
-      "modifiedDate": 1672123262131
     },
     "Places/Titan Mountains/Twilight Monastery.md": {
       "isDirectory": false,
@@ -1352,16 +1342,6 @@
       "createdDate": 1671784045154,
       "modifiedDate": 1671784232936
     },
-    "Places/Ambria/Thistle Hold.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 95,
-      "nonWhitespaceCharacterCount": 79,
-      "createdDate": 1671783606737,
-      "modifiedDate": 1672386590456
-    },
     "Places/Ambria/Yndaros/Library of Anearia.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1412,6 +1392,16 @@
       "createdDate": 1671775609442,
       "modifiedDate": 1672549621423
     },
+    "Places/Ambria/Thistle Hold.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 95,
+      "nonWhitespaceCharacterCount": 79,
+      "createdDate": 1671783606737,
+      "modifiedDate": 1672386590456
+    },
     "Places/Ambria/Yndaros.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1421,6 +1411,16 @@
       "nonWhitespaceCharacterCount": 4001,
       "createdDate": 1671772562769,
       "modifiedDate": 1672119770480
+    },
+    "Places/Titan Mountains.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 271,
+      "pageCount": 0.9033333333333333,
+      "characterCount": 1603,
+      "nonWhitespaceCharacterCount": 1330,
+      "createdDate": 1671865271817,
+      "modifiedDate": 1672123262131
     },
     "Places/Davokar/Lake Volgoma.md": {
       "isDirectory": false,
@@ -1452,16 +1452,6 @@
       "createdDate": 1672600413823,
       "modifiedDate": 1672600519114
     },
-    "Places/Davokar/Melima.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 44,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 318,
-      "nonWhitespaceCharacterCount": 269,
-      "createdDate": 1672216208222,
-      "modifiedDate": 1672451899957
-    },
     "Places/Davokar/Lindworm Tunnels.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1472,15 +1462,15 @@
       "createdDate": 1672385833338,
       "modifiedDate": 1672616598792
     },
-    "Places/Davokar/Lafarda's Tower.md": {
+    "Places/Davokar/Melima.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 17,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 100,
-      "nonWhitespaceCharacterCount": 82,
-      "createdDate": 1671854654696,
-      "modifiedDate": 1672628787382
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 318,
+      "nonWhitespaceCharacterCount": 269,
+      "createdDate": 1672216208222,
+      "modifiedDate": 1672451899957
     },
     "Places/Davokar/River Eanor.md": {
       "isDirectory": false,
@@ -1491,6 +1481,16 @@
       "nonWhitespaceCharacterCount": 154,
       "createdDate": 1671929351811,
       "modifiedDate": 1672216210319
+    },
+    "Places/Davokar/Lafarda's Tower.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 82,
+      "createdDate": 1671854654696,
+      "modifiedDate": 1672628787382
     },
     "Places/Davokar/Blooming Vale.md": {
       "isDirectory": false,
@@ -1512,16 +1512,6 @@
       "createdDate": 1671852110035,
       "modifiedDate": 1671853398551
     },
-    "Places/Alberetor.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 48,
-      "nonWhitespaceCharacterCount": 38,
-      "createdDate": 1671775690801,
-      "modifiedDate": 1671784077423
-    },
     "Places/Davokar.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1532,6 +1522,16 @@
       "createdDate": 1671778150242,
       "modifiedDate": 1672385342799
     },
+    "Places/Alberetor.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 48,
+      "nonWhitespaceCharacterCount": 38,
+      "createdDate": 1671775690801,
+      "modifiedDate": 1671784077423
+    },
     "Places/Ambria.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1541,6 +1541,366 @@
       "nonWhitespaceCharacterCount": 172,
       "createdDate": 1671774788606,
       "modifiedDate": 1671860478649
+    },
+    "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 106,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 712,
+      "nonWhitespaceCharacterCount": 599,
+      "createdDate": 1675161086319,
+      "modifiedDate": 1675316887893
+    },
+    "_Bricks of Symbaroum/Quests/📜 Get Aida-Eol back home.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 56,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 373,
+      "nonWhitespaceCharacterCount": 314,
+      "createdDate": 1672618551201,
+      "modifiedDate": 1673500674062
+    },
+    "_Bricks of Symbaroum/Quests/📜 Tarzibczie Spies.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 151,
+      "pageCount": 0.5033333333333333,
+      "characterCount": 1057,
+      "nonWhitespaceCharacterCount": 899,
+      "createdDate": 1672614957034,
+      "modifiedDate": 1672629523025
+    },
+    "_Bricks of Symbaroum/Quests/📜 How undeath works.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 195,
+      "nonWhitespaceCharacterCount": 167,
+      "createdDate": 1672614204850,
+      "modifiedDate": 1672619292025
+    },
+    "_Bricks of Symbaroum/Quests/_complete.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 113,
+      "createdDate": 1672559644345,
+      "modifiedDate": 1672728176067
+    },
+    "_Bricks of Symbaroum/Quests/_incomplete.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "pageCount": 0.07,
+      "characterCount": 142,
+      "nonWhitespaceCharacterCount": 121,
+      "createdDate": 1672559605879,
+      "modifiedDate": 1672614907565
+    },
+    "_Bricks of Symbaroum/Quests/📜 Find the missing Templars.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 587,
+      "nonWhitespaceCharacterCount": 490,
+      "createdDate": 1672559299404,
+      "modifiedDate": 1675161670842
+    },
+    "_Bricks of Symbaroum/Quests/📜 Lindworm Hunt.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 104,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 605,
+      "nonWhitespaceCharacterCount": 499,
+      "createdDate": 1672558726330,
+      "modifiedDate": 1672559546885
+    },
+    "_Bricks of Symbaroum/Quests/📜 Find the Codex.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 105,
+      "pageCount": 0.35,
+      "characterCount": 675,
+      "nonWhitespaceCharacterCount": 568,
+      "createdDate": 1672557406596,
+      "modifiedDate": 1673500682842
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 179,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 1339,
+      "nonWhitespaceCharacterCount": 1147,
+      "createdDate": 1675309770754,
+      "modifiedDate": 1678933349368
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 session3.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 329,
+      "nonWhitespaceCharacterCount": 276,
+      "createdDate": 1678933324831,
+      "modifiedDate": 1678933819603
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 309,
+      "pageCount": 1.03,
+      "characterCount": 2104,
+      "nonWhitespaceCharacterCount": 1780,
+      "createdDate": 1675300063449,
+      "modifiedDate": 1675308949822
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 166,
+      "pageCount": 0.5533333333333333,
+      "characterCount": 1217,
+      "nonWhitespaceCharacterCount": 1036,
+      "createdDate": 1673495022272,
+      "modifiedDate": 1675308880531
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 339,
+      "pageCount": 1.13,
+      "characterCount": 2234,
+      "nonWhitespaceCharacterCount": 1878,
+      "createdDate": 1675159041311,
+      "modifiedDate": 1675309901246
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Exploring the Tower.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 309,
+      "pageCount": 1.03,
+      "characterCount": 2065,
+      "nonWhitespaceCharacterCount": 1739,
+      "createdDate": 1673130589101,
+      "modifiedDate": 1673498754471
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Hatching a Plan.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 199,
+      "pageCount": 0.6633333333333333,
+      "characterCount": 1425,
+      "nonWhitespaceCharacterCount": 1215,
+      "createdDate": 1672629154839,
+      "modifiedDate": 1673130630193
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Impromptu Exorcism.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 175,
+      "pageCount": 0.5833333333333334,
+      "characterCount": 1171,
+      "nonWhitespaceCharacterCount": 988,
+      "createdDate": 1672628992231,
+      "modifiedDate": 1672727914632
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 A Walk to Remember.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1243,
+      "nonWhitespaceCharacterCount": 1042,
+      "createdDate": 1672625913186,
+      "modifiedDate": 1672727386277
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Breaking and Entering.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 245,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 1615,
+      "nonWhitespaceCharacterCount": 1360,
+      "createdDate": 1672625231389,
+      "modifiedDate": 1672727763575
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Close Calls.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 251,
+      "pageCount": 0.8366666666666667,
+      "characterCount": 1834,
+      "nonWhitespaceCharacterCount": 1569,
+      "createdDate": 1672626065480,
+      "modifiedDate": 1673133314161
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Arrival at Melima.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 244,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 1664,
+      "nonWhitespaceCharacterCount": 1408,
+      "createdDate": 1672620195399,
+      "modifiedDate": 1672727451653
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Mystery at Dim Water.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 207,
+      "pageCount": 0.69,
+      "characterCount": 1392,
+      "nonWhitespaceCharacterCount": 1170,
+      "createdDate": 1672618579812,
+      "modifiedDate": 1672727674572
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 3.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 137,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 985,
+      "nonWhitespaceCharacterCount": 840,
+      "createdDate": 1672617880741,
+      "modifiedDate": 1672727592598
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Curse of the River Goddess.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 156,
+      "pageCount": 0.52,
+      "characterCount": 1058,
+      "nonWhitespaceCharacterCount": 891,
+      "createdDate": 1672617798691,
+      "modifiedDate": 1672727718130
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 158,
+      "pageCount": 0.5266666666666666,
+      "characterCount": 1026,
+      "nonWhitespaceCharacterCount": 858,
+      "createdDate": 1672614135019,
+      "modifiedDate": 1672727542036
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 2.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 129,
+      "pageCount": 0.43,
+      "characterCount": 893,
+      "nonWhitespaceCharacterCount": 757,
+      "createdDate": 1672617507920,
+      "modifiedDate": 1672727568968
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 First Nights Out.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 127,
+      "pageCount": 0.42333333333333334,
+      "characterCount": 911,
+      "nonWhitespaceCharacterCount": 774,
+      "createdDate": 1672601453660,
+      "modifiedDate": 1672727820224
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 A New Crew.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 134,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 893,
+      "nonWhitespaceCharacterCount": 749,
+      "createdDate": 1672555305475,
+      "modifiedDate": 1672727618675
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Gathering Intel, Part 2.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 301,
+      "pageCount": 1.0033333333333334,
+      "characterCount": 2006,
+      "nonWhitespaceCharacterCount": 1692,
+      "createdDate": 1672599760050,
+      "modifiedDate": 1673165359658
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Gathering Intel, Part 1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 288,
+      "pageCount": 0.96,
+      "characterCount": 1824,
+      "nonWhitespaceCharacterCount": 1515,
+      "createdDate": 1672597187976,
+      "modifiedDate": 1675301031602
+    },
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 32,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 245,
+      "nonWhitespaceCharacterCount": 213,
+      "createdDate": 1672553771868,
+      "modifiedDate": 1673162957021
+    },
+    "_Bricks of Symbaroum/Campaign Notes/📓 Early Days.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 121,
+      "pageCount": 0.4033333333333333,
+      "characterCount": 828,
+      "nonWhitespaceCharacterCount": 699,
+      "createdDate": 1672450751119,
+      "modifiedDate": 1672727806912
+    },
+    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 557,
+      "pageCount": 1.8566666666666667,
+      "characterCount": 3507,
+      "nonWhitespaceCharacterCount": 2940,
+      "createdDate": 1672721803041,
+      "modifiedDate": 1675465121815
+    },
+    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Yndaros.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 880,
+      "pageCount": 2.933333333333333,
+      "characterCount": 5632,
+      "nonWhitespaceCharacterCount": 4716,
+      "createdDate": 1672721695170,
+      "modifiedDate": 1672724174137
+    },
+    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Thistle Hold.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 475,
+      "pageCount": 1.5833333333333333,
+      "characterCount": 3057,
+      "nonWhitespaceCharacterCount": 2570,
+      "createdDate": 1672122343849,
+      "modifiedDate": 1673165359874
+    },
+    "_Bricks of Symbaroum/Stories/Call of Business.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1809,
+      "pageCount": 6.03,
+      "characterCount": 11541,
+      "nonWhitespaceCharacterCount": 9695,
+      "createdDate": 1671865059920,
+      "modifiedDate": 1672731158466
     },
     "Factions/Beast Clan.md": {
       "isDirectory": false,
@@ -1582,16 +1942,6 @@
       "createdDate": 1672600730985,
       "modifiedDate": 1672611960897
     },
-    "Factions/Karabbadokks.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 57,
-      "pageCount": 0.19,
-      "characterCount": 337,
-      "nonWhitespaceCharacterCount": 280,
-      "createdDate": 1672122044064,
-      "modifiedDate": 1672122171937
-    },
     "Factions/Witches of Melima.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1601,6 +1951,16 @@
       "nonWhitespaceCharacterCount": 196,
       "createdDate": 1672386737378,
       "modifiedDate": 1673132658026
+    },
+    "Factions/Karabbadokks.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 337,
+      "nonWhitespaceCharacterCount": 280,
+      "createdDate": 1672122044064,
+      "modifiedDate": 1672122171937
     },
     "Factions/The Party.md": {
       "isDirectory": false,
@@ -1692,6 +2052,16 @@
       "createdDate": 1671839524243,
       "modifiedDate": 1672724055187
     },
+    "Factions/Dark Lords.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 31,
+      "nonWhitespaceCharacterCount": 24,
+      "createdDate": 1671781026533,
+      "modifiedDate": 1671941859284
+    },
     "Factions/Odaiova Clan.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1712,16 +2082,6 @@
       "createdDate": 1671838560733,
       "modifiedDate": 1672387365851
     },
-    "Factions/Dark Lords.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 7,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 31,
-      "nonWhitespaceCharacterCount": 24,
-      "createdDate": 1671781026533,
-      "modifiedDate": 1671941859284
-    },
     "Factions/Ordo Magica.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1731,366 +2091,6 @@
       "nonWhitespaceCharacterCount": 31,
       "createdDate": 1671775752130,
       "modifiedDate": 1671941796649
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 session3.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 40,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 307,
-      "nonWhitespaceCharacterCount": 257,
-      "createdDate": 1678933324831,
-      "modifiedDate": 1678933330070
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 179,
-      "pageCount": 0.5966666666666667,
-      "characterCount": 1339,
-      "nonWhitespaceCharacterCount": 1147,
-      "createdDate": 1675309770754,
-      "modifiedDate": 1678933349368
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 309,
-      "pageCount": 1.03,
-      "characterCount": 2104,
-      "nonWhitespaceCharacterCount": 1780,
-      "createdDate": 1675300063449,
-      "modifiedDate": 1675308949822
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 166,
-      "pageCount": 0.5533333333333333,
-      "characterCount": 1217,
-      "nonWhitespaceCharacterCount": 1036,
-      "createdDate": 1673495022272,
-      "modifiedDate": 1675308880531
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Exploring the Tower.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 309,
-      "pageCount": 1.03,
-      "characterCount": 2065,
-      "nonWhitespaceCharacterCount": 1739,
-      "createdDate": 1673130589101,
-      "modifiedDate": 1673498754471
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 339,
-      "pageCount": 1.13,
-      "characterCount": 2234,
-      "nonWhitespaceCharacterCount": 1878,
-      "createdDate": 1675159041311,
-      "modifiedDate": 1675309901246
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Hatching a Plan.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 199,
-      "pageCount": 0.6633333333333333,
-      "characterCount": 1425,
-      "nonWhitespaceCharacterCount": 1215,
-      "createdDate": 1672629154839,
-      "modifiedDate": 1673130630193
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Close Calls.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 251,
-      "pageCount": 0.8366666666666667,
-      "characterCount": 1834,
-      "nonWhitespaceCharacterCount": 1569,
-      "createdDate": 1672626065480,
-      "modifiedDate": 1673133314161
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Impromptu Exorcism.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 175,
-      "pageCount": 0.5833333333333334,
-      "characterCount": 1171,
-      "nonWhitespaceCharacterCount": 988,
-      "createdDate": 1672628992231,
-      "modifiedDate": 1672727914632
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 A Walk to Remember.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 188,
-      "pageCount": 0.6266666666666667,
-      "characterCount": 1243,
-      "nonWhitespaceCharacterCount": 1042,
-      "createdDate": 1672625913186,
-      "modifiedDate": 1672727386277
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Breaking and Entering.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 245,
-      "pageCount": 0.8166666666666667,
-      "characterCount": 1615,
-      "nonWhitespaceCharacterCount": 1360,
-      "createdDate": 1672625231389,
-      "modifiedDate": 1672727763575
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Arrival at Melima.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 244,
-      "pageCount": 0.8133333333333334,
-      "characterCount": 1664,
-      "nonWhitespaceCharacterCount": 1408,
-      "createdDate": 1672620195399,
-      "modifiedDate": 1672727451653
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Mystery at Dim Water.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 207,
-      "pageCount": 0.69,
-      "characterCount": 1392,
-      "nonWhitespaceCharacterCount": 1170,
-      "createdDate": 1672618579812,
-      "modifiedDate": 1672727674572
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 3.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 137,
-      "pageCount": 0.45666666666666667,
-      "characterCount": 985,
-      "nonWhitespaceCharacterCount": 840,
-      "createdDate": 1672617880741,
-      "modifiedDate": 1672727592598
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 1.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 158,
-      "pageCount": 0.5266666666666666,
-      "characterCount": 1026,
-      "nonWhitespaceCharacterCount": 858,
-      "createdDate": 1672614135019,
-      "modifiedDate": 1672727542036
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Curse of the River Goddess.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 156,
-      "pageCount": 0.52,
-      "characterCount": 1058,
-      "nonWhitespaceCharacterCount": 891,
-      "createdDate": 1672617798691,
-      "modifiedDate": 1672727718130
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 2.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 129,
-      "pageCount": 0.43,
-      "characterCount": 893,
-      "nonWhitespaceCharacterCount": 757,
-      "createdDate": 1672617507920,
-      "modifiedDate": 1672727568968
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 First Nights Out.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 127,
-      "pageCount": 0.42333333333333334,
-      "characterCount": 911,
-      "nonWhitespaceCharacterCount": 774,
-      "createdDate": 1672601453660,
-      "modifiedDate": 1672727820224
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Gathering Intel, Part 2.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 301,
-      "pageCount": 1.0033333333333334,
-      "characterCount": 2006,
-      "nonWhitespaceCharacterCount": 1692,
-      "createdDate": 1672599760050,
-      "modifiedDate": 1673165359658
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 A New Crew.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 134,
-      "pageCount": 0.44666666666666666,
-      "characterCount": 893,
-      "nonWhitespaceCharacterCount": 749,
-      "createdDate": 1672555305475,
-      "modifiedDate": 1672727618675
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Gathering Intel, Part 1.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 288,
-      "pageCount": 0.96,
-      "characterCount": 1824,
-      "nonWhitespaceCharacterCount": 1515,
-      "createdDate": 1672597187976,
-      "modifiedDate": 1675301031602
-    },
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 32,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 245,
-      "nonWhitespaceCharacterCount": 213,
-      "createdDate": 1672553771868,
-      "modifiedDate": 1673162957021
-    },
-    "_Bricks of Symbaroum/Campaign Notes/📓 Early Days.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 121,
-      "pageCount": 0.4033333333333333,
-      "characterCount": 828,
-      "nonWhitespaceCharacterCount": 699,
-      "createdDate": 1672450751119,
-      "modifiedDate": 1672727806912
-    },
-    "_Bricks of Symbaroum/Quests/📜 Get Aida-Eol back home.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 56,
-      "pageCount": 0.18666666666666668,
-      "characterCount": 373,
-      "nonWhitespaceCharacterCount": 314,
-      "createdDate": 1672618551201,
-      "modifiedDate": 1673500674062
-    },
-    "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 106,
-      "pageCount": 0.35333333333333333,
-      "characterCount": 712,
-      "nonWhitespaceCharacterCount": 599,
-      "createdDate": 1675161086319,
-      "modifiedDate": 1675316887893
-    },
-    "_Bricks of Symbaroum/Quests/📜 Tarzibczie Spies.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 151,
-      "pageCount": 0.5033333333333333,
-      "characterCount": 1057,
-      "nonWhitespaceCharacterCount": 899,
-      "createdDate": 1672614957034,
-      "modifiedDate": 1672629523025
-    },
-    "_Bricks of Symbaroum/Quests/📜 How undeath works.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 195,
-      "nonWhitespaceCharacterCount": 167,
-      "createdDate": 1672614204850,
-      "modifiedDate": 1672619292025
-    },
-    "_Bricks of Symbaroum/Quests/_incomplete.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 21,
-      "pageCount": 0.07,
-      "characterCount": 142,
-      "nonWhitespaceCharacterCount": 121,
-      "createdDate": 1672559605879,
-      "modifiedDate": 1672614907565
-    },
-    "_Bricks of Symbaroum/Quests/_complete.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 133,
-      "nonWhitespaceCharacterCount": 113,
-      "createdDate": 1672559644345,
-      "modifiedDate": 1672728176067
-    },
-    "_Bricks of Symbaroum/Quests/📜 Find the missing Templars.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 95,
-      "pageCount": 0.31666666666666665,
-      "characterCount": 587,
-      "nonWhitespaceCharacterCount": 490,
-      "createdDate": 1672559299404,
-      "modifiedDate": 1675161670842
-    },
-    "_Bricks of Symbaroum/Quests/📜 Lindworm Hunt.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 104,
-      "pageCount": 0.3466666666666667,
-      "characterCount": 605,
-      "nonWhitespaceCharacterCount": 499,
-      "createdDate": 1672558726330,
-      "modifiedDate": 1672559546885
-    },
-    "_Bricks of Symbaroum/Quests/📜 Find the Codex.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 105,
-      "pageCount": 0.35,
-      "characterCount": 675,
-      "nonWhitespaceCharacterCount": 568,
-      "createdDate": 1672557406596,
-      "modifiedDate": 1673500682842
-    },
-    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 557,
-      "pageCount": 1.8566666666666667,
-      "characterCount": 3507,
-      "nonWhitespaceCharacterCount": 2940,
-      "createdDate": 1672721803041,
-      "modifiedDate": 1675465121815
-    },
-    "_Bricks of Symbaroum/Stories/Call of Business.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1809,
-      "pageCount": 6.03,
-      "characterCount": 11541,
-      "nonWhitespaceCharacterCount": 9695,
-      "createdDate": 1671865059920,
-      "modifiedDate": 1672731158466
-    },
-    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Yndaros.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 880,
-      "pageCount": 2.933333333333333,
-      "characterCount": 5632,
-      "nonWhitespaceCharacterCount": 4716,
-      "createdDate": 1672721695170,
-      "modifiedDate": 1672724174137
-    },
-    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Thistle Hold.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 475,
-      "pageCount": 1.5833333333333333,
-      "characterCount": 3057,
-      "nonWhitespaceCharacterCount": 2570,
-      "createdDate": 1672122343849,
-      "modifiedDate": 1673165359874
     }
   }
 }
