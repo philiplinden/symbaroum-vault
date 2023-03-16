@@ -3,7 +3,7 @@ tags: reference
 ---
 # Campaign Session Notes
 ```dataview
-TABLE year, month, synopsis, players
+TABLE year, month, synopsis, players, date
 FROM #session AND "_Bricks of Symbaroum/Campaign Notes"
 SORT date ASC
 ```

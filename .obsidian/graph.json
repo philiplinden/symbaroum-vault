@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#reference -tag:#story",
+  "search": "-tag:#reference -tag:#story -tag:#session",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -90,11 +90,11 @@
   "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 0.751118644067797,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.197966101694915,
-  "repelStrength": 10.7281355932203,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.32133638605036696,
+  "scale": 0.3213363860503676,
   "close": true
 }

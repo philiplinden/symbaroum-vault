@@ -2,7 +2,7 @@
 tags: session
 date: 2023-02-01
 players: David, Abhra, Faris, Kellie
-synopsis: 
+synopsis: Master Vernam is flayed, but leaves some clues behind.
 year: 22
 month: 1
 ---
@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[📓 Knock Knock]]
 
 > [!example] Quests
 > [[📜 Find the Flayer]]
