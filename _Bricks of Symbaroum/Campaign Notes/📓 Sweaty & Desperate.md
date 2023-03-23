@@ -1,8 +1,8 @@
 ---
 tags: session
 date: 2023-03-22
-players: David, Drew, Abhra, Faris, Kellie
-synopsis: session 4
+players: David, Drew, Faris, Kellie
+synopsis: The crew finally picks up a fresh trail to find the Flayer.
 year: 22
 month: 1
 ---
@@ -24,3 +24,6 @@ WHERE
 > [[📜 Find the Flayer]]
 
 
+The crew inspected the scene of [[The Flayer]]’s latest victim — a stable boy. The crew talks to a witness and finds a blood trail. The crew discovers from the Medicus’s notes that all of the victims have been missing several specific glands. [[Baumelo]] shows up and helps the crew follow the trail to the [[Blue Moon]].
+
+[[Weston Sawyer|Weston]] eventually gets inside.

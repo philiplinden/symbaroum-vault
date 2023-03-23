@@ -31,35 +31,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "a608924f87377308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e59c074889821859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
               }
             }
           }
@@ -283,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -323,11 +296,11 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "e59c074889821859",
+  "active": "62a89aad9555a5a3",
   "lastOpenFiles": [
     "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
-    "People/Captain Marvello.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
+    "People/Captain Marvello.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
