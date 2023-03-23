@@ -33,12 +33,25 @@
             }
           },
           {
-            "id": "9d4c594ad4e0ab1f",
+            "id": "a608924f87377308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59c074889821859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5086555480957
+    "width": 335.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md"
               }
             }
           }
@@ -269,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -297,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,15 +323,17 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "9d4c594ad4e0ab1f",
+  "active": "e59c074889821859",
   "lastOpenFiles": [
     "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
+    "People/Captain Marvello.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "People/Player Characters/Weston Sawyer.md",
     "Weston.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
-    "People/Captain Marvello.md",
     "People/Burak O'Bema.md",
     "People/Deseba the Old.md",
     "People/Master Eufrynda.md",
@@ -333,7 +350,6 @@
     "People/Esbetha.md",
     "People/Tenid.md",
     "Places/Ambria/Thistle Hold/Park of the Elders.md",
-    "Places/Queen's Square.md",
-    "People/Rima.md"
+    "Places/Queen's Square.md"
   ]
 }
