@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[📓 Sweaty & Desperate]]
 
 > [!example] Quests
 > [[📜 Find the Flayer]]
@@ -30,7 +30,7 @@ The [[Termo]], [[Weston Sawyer|Weston]], [[Bartolom]], and [[Niho]] go to the [[
 
 [[Master Eufrynda|Eufrynda]] explains how *Blood Shrouding* works, and helps the crew discover that [[the flayer]] (disguised as [[Master Vernam|Vernam]]) went to the top floor of [[Ordo Tower]] and took a scroll explaining the *Break Link* ritual.
 
-As the crew is ready to leave the tower, [[Captain Marvello]]
+As the crew is ready to leave the tower, [[Captain Marvello]] shows up requesting help — there’s been another victim of [[The Flayer]].
 
 > **Blood Shrouding** (Sorcery)
 The mystic flays a dead person and dresses in its skin, one sliver at a time. After that, the mystic looks exactly like the dead person but has his own voice and his own eyes, which limits its uses. To trick an individual who was acquainted to the diseased and who talks to the mystic, a test against *Discreet←Vigilant* must be made. The effect lasts for 24 hours, then the dead skin falls off.
