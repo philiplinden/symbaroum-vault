@@ -31,8 +31,35 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "6073e271f4dde0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Player Characters/Andor Dawnsinger.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f461dae978af5687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Davokar/Jerak's Stinkhole.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5086555480957,
-    "collapsed": true
+    "width": 334.01103591918945
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -111,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "People/Player Characters/Andor Dawnsinger.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+                "file": "People/Player Characters/Andor Dawnsinger.md"
               }
             }
           }
@@ -256,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "People/Player Characters/Andor Dawnsinger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "People/Player Characters/Andor Dawnsinger.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,14 +322,16 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "62a89aad9555a5a3",
+  "active": "6073e271f4dde0f4",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Stories/A story by ChatGPT.md",
+    "Places/Davokar/Jerak's Stinkhole.md",
+    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
     "People/Captain Marvello.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
-    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "People/Player Characters/Weston Sawyer.md",
     "Weston.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
@@ -321,8 +349,6 @@
     "People/First Father Jeseebegai.md",
     "Places/Ambria/Thistle Hold/Vernam's Academy.md",
     "People/Esbetha.md",
-    "People/Tenid.md",
-    "Places/Ambria/Thistle Hold/Park of the Elders.md",
-    "Places/Queen's Square.md"
+    "People/Tenid.md"
   ]
 }
