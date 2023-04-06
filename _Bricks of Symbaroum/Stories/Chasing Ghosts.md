@@ -50,3 +50,55 @@ eventually he gets so worked up that he grabs [[anadea]] through the bars. she y
 [[anadea]] nearly makes it out. but [[Father Elfeno|elfeno]] is on her heels. he uses magic.
 
 it is ambiguous whether [[anadea]] makes it out. we cut here to preserve suspense.
+
+%% ending to the story from Bard
+Anadea took a deep breath and opened the door to Father Elfeno's study. The room was brightly lit, with rays of sun cutting through the musty air, thick with the scent of old parchment. Anadea's eyes adjusted to the light, and she saw Father Elfeno sitting at his desk, his head bent over a book.
+
+"Father Elfeno," Anadea said, her voice soft.
+
+Father Elfeno looked up from his book and smiled. "Anadea," he said. "What can I do for you?"
+
+"I need your help," Anadea said. "I've done something terrible, and I don't know what to do."
+
+Father Elfeno's smile faded. "What is it, Anadea?" he asked.
+
+Anadea took a deep breath. "I've been reading forbidden books," she said. "Books that are banned by the Sun Church."
+
+Father Elfeno's eyes widened. "Forbidden books?" he asked. "What kind of books?"
+
+"Books about the Dark Powers," Anadea said. "Books about the things that dwell in the Davokar Forest."
+
+Father Elfeno shook his head. "Anadea, you mustn't read those books," he said. "They are dangerous."
+
+"I know," Anadea said. "But I couldn't help myself. I needed to know the truth."
+
+"The truth is dangerous," Father Elfeno said. "It is better to live in ignorance."
+
+"But I can't live in ignorance," Anadea said. "I need to know what's out there."
+
+Father Elfeno sighed. "Very well," he said. "I will tell you what I know. But you must promise me that you will never tell anyone else."
+
+"I promise," Anadea said.
+
+Father Elfeno leaned forward and spoke in a low voice. "The Dark Powers are ancient and evil," he said. "They were banished from the world long ago, but they are always trying to return. They are the source of all the evil in the world."
+
+"What can we do to stop them?" Anadea asked.
+
+"We can't stop them," Father Elfeno said. "We can only hope to contain them. The Sun Church is the only thing that stands between the Dark Powers and the world."
+
+"But what if the Sun Church is not strong enough?" Anadea asked.
+
+"Then the world is doomed," Father Elfeno said.
+
+Anadea stood up. "I need to go," she said.
+
+"Where are you going?" Father Elfeno asked.
+
+"I'm going to the Davokar Forest," Anadea said. "I need to find out more about the Dark Powers."
+
+"No, Anadea," Father Elfeno said. "It's too dangerous."
+
+"I have to do this," Anadea said. "I'm the only one who can."
+
+Anadea turned and walked out of the study, leaving Father Elfeno sitting at his desk, his head in his hands.
+%%
