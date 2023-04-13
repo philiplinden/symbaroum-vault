@@ -1,3 +1,7 @@
+---
+tags: story
+---
+
 The group of adventurers has received a request from the nearby town of [[Thistle Hold]]. The villagers have reported strange happenings in the [[Davokar]] Forest and have asked for help in investigating. The group is informed that a group of loggers had gone missing while exploring a particularly dense area of the forest, and it is believed that they may have stumbled upon something dangerous.
 
 [[The party]] sets out into the depths of the forest, their eyes peeled for any signs of the missing loggers. As they journey deeper into the forest, the air grows thick with the stench of decay and rot. The smell becomes stronger as they approach a particularly dark and overgrown section of the forest, known as [[Jerak's Stinkhole|Jerak's Stink Hole]].
