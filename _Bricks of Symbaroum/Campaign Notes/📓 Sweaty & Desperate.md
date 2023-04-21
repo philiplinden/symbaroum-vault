@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> [[📓 apr 12]]
+> [[📓 Zweigles are People]]
 
 > [!example] Quests
 > [[📜 Find the Flayer]]
