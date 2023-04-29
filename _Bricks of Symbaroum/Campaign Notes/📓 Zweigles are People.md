@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> [[📓 the end]]
+> [[📓 Happy Little Accidents]]
 
 > [!example] Quests
 > [[📜 Find the Flayer]]
