@@ -46,6 +46,16 @@
             }
           },
           {
+            "id": "7033783fad136cee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
             "id": "d40c40b4c3c5be5b",
             "type": "leaf",
             "state": {
@@ -59,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,6 +123,14 @@
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "06964192f5e14ac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -322,7 +340,7 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "6073e271f4dde0f4",
+  "active": "7033783fad136cee",
   "lastOpenFiles": [
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
