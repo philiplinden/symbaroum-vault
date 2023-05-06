@@ -127,6 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,15 +235,23 @@
             }
           },
           {
-            "id": "28ee83e94cd027d9",
+            "id": "c08220152841635b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "8f926a307724597a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c192c3937e26db19",
@@ -254,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+              }
             }
           },
           {
@@ -279,6 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,6 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -315,7 +328,7 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "28ee83e94cd027d9",
+  "active": "8f926a307724597a",
   "lastOpenFiles": [
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
