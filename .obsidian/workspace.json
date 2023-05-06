@@ -33,29 +33,11 @@
             }
           },
           {
-            "id": "6073e271f4dde0f4",
+            "id": "5578cf4461dd8ce1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d40c40b4c3c5be5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -137,7 +119,7 @@
       {
         "id": "8c1cee5ed54c31c4",
         "type": "tabs",
-        "dimension": 45.64102564102564,
+        "dimension": 53.596287703016245,
         "children": [
           {
             "id": "f2d8412ecda53bfa",
@@ -145,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,6 +234,30 @@
             }
           },
           {
+            "id": "28ee83e94cd027d9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c192c3937e26db19",
+        "type": "tabs",
+        "dimension": 23.201856148491878,
+        "children": [
+          {
+            "id": "fd1c1dc8d6bb2313",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "916b0667a2cc4961",
             "type": "leaf",
             "state": {
@@ -260,29 +265,13 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "c192c3937e26db19",
-        "type": "tabs",
-        "dimension": 25.64102564102564,
-        "children": [
-          {
-            "id": "fd1c1dc8d6bb2313",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2caf1f288ba3b38e",
         "type": "tabs",
-        "dimension": 28.717948717948715,
+        "dimension": 23.201856148491878,
         "children": [
           {
             "id": "c3270eb62be32aa9",
@@ -290,7 +279,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,19 +295,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 753.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,12 +315,13 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "6073e271f4dde0f4",
+  "active": "28ee83e94cd027d9",
   "lastOpenFiles": [
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "People/The Flayer.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Stories/Call of Business.md",
     "Places/Davokar/Jerak's Stinkhole.md",
     "_Bricks of Symbaroum/Stories/Another story by Chat GPT.md",
@@ -356,7 +342,6 @@
     "Places/Ordo Tower.md",
     "conflict-files-obsidian-git.md",
     "People/Anadea.md",
-    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Thistle Hold.md",
-    "People/Brother Hank.md"
+    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Thistle Hold.md"
   ]
 }

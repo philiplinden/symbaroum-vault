@@ -1,7 +1,8 @@
 ---
 tags:
 - person
-aliases: []
+aliases:
+- Alahara
 ---
 
 See [[@Copper2.MarkOfTheBeast|Mark of the Beast]]

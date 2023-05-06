@@ -24,10 +24,10 @@ WHERE
 > [[📜 Find the Flayer]]
 
 
-The party went down stairs into the room where Alahara and Gorak were. Bart has a mental battle with the skull but ratatoullies it to be benign
-ja door gets the break link ritual book from the burning building and the crew draws 9 of 9 runes on the ground (in alaharas blood). alahara dies before starting the ritual chant (bawitdaba). Termo makes a path through the rubble big enough for a small child. gorak is almost saved but at the last moment the abonination bursts out of his flesh
+The crew went down stairs into the room where [[The Flayer|Alahara]] and Gorak were. Bart has a mental battle with the skull but ratatouilles it to be benign
+ja door gets the break link ritual book from the burning building and the crew draws 9 of 9 runes on the ground (in [[The Flayer|Alahara]]’s blood). [[The Flayer|Alahara]] dies before starting the ritual chant (bawitdaba). [[Termo]] makes a path through the rubble big enough for a small child. Gorak is almost saved but at the last moment the abomination bursts out of his flesh
 
 notes:
-- the skull is draped in underwear (stained) and vernam’s cloak
+- the skull is draped in underwear (stained) and [[Master Vernam|Vernam]]’s cloak
 - the building above has collapsed in flame
-- baumelo was trying to get out, ja door left without helping
+- [[Baumelo]] was trying to get out, ja door left without helping
