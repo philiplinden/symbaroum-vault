@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "0ecb68bf0d1be1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Player Characters/Andor Dawnsinger.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "74bff35482edd229",
             "type": "leaf",
             "pinned": true,
@@ -36,12 +49,17 @@
             "id": "5578cf4461dd8ce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Events/Halaran's Cataclysm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,14 +246,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5943143512528434,
+                  "scale": 0.5943143512528437,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "c08220152841635b",
+            "id": "f364be3537f2a77d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -243,15 +261,14 @@
             }
           },
           {
-            "id": "8f926a307724597a",
+            "id": "b7bcfbc6132ecd83",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c192c3937e26db19",
@@ -317,7 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 753.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,12 +345,13 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "8f926a307724597a",
+  "active": "f2d8412ecda53bfa",
   "lastOpenFiles": [
-    "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
-    "People/The Flayer.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "Events/Halaran's Cataclysm.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
+    "People/The Flayer.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
     "_Bricks of Symbaroum/Stories/Call of Business.md",
     "Places/Davokar/Jerak's Stinkhole.md",
@@ -354,7 +372,6 @@
     "People/Godalg.md",
     "Places/Ordo Tower.md",
     "conflict-files-obsidian-git.md",
-    "People/Anadea.md",
-    "_Bricks of Symbaroum/Stories/ideas/Meanwhile in Thistle Hold.md"
+    "People/Anadea.md"
   ]
 }

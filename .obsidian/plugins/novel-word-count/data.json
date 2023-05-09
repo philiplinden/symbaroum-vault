@@ -15,5 +15,39 @@
     "wordCountType": "SpaceDelimited",
     "pageCountType": "ByWords"
   },
-  "cachedCounts": {}
+  "cachedCounts": {
+    "Gods/Prios.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 302,
+      "nonWhitespaceCharacterCount": 242,
+      "createdDate": 1678942359843,
+      "modifiedDate": 1678942359843,
+      "sizeInBytes": 302
+    },
+    "Gods/Eox.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 461,
+      "nonWhitespaceCharacterCount": 377,
+      "createdDate": 1678942359843,
+      "modifiedDate": 1678942359843,
+      "sizeInBytes": 465
+    },
+    "Factions/Beast Clan.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 42,
+      "nonWhitespaceCharacterCount": 29,
+      "createdDate": 1678942359792,
+      "modifiedDate": 1678942359792,
+      "sizeInBytes": 42
+    }
+  }
 }
