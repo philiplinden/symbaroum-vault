@@ -186,11 +186,11 @@
       "noteCount": 1,
       "wordCount": 670,
       "pageCount": 2.2333333333333334,
-      "characterCount": 4033,
-      "nonWhitespaceCharacterCount": 3343,
+      "characterCount": 4037,
+      "nonWhitespaceCharacterCount": 3347,
       "createdDate": 1683621351758,
-      "modifiedDate": 1683684733905,
-      "sizeInBytes": 4057
+      "modifiedDate": 1683684955721,
+      "sizeInBytes": 4061
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md": {
       "isDirectory": false,
@@ -555,16 +555,27 @@
       "modifiedDate": 1678942360745,
       "sizeInBytes": 245
     },
-    "People/Eferneya.md": {
+    "People/Gorak.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 9,
       "pageCount": 0.03,
       "characterCount": 44,
       "nonWhitespaceCharacterCount": 34,
-      "createdDate": 1683684749849,
-      "modifiedDate": 1683684762945,
+      "createdDate": 1683686887334,
+      "modifiedDate": 1683686891361,
       "sizeInBytes": 44
+    },
+    "People/Eferneya.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 44,
+      "createdDate": 1683684749849,
+      "modifiedDate": 1683684800150,
+      "sizeInBytes": 56
     },
     "People/Gadramon.md": {
       "isDirectory": false,
