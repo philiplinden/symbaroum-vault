@@ -2,7 +2,8 @@
 tags:
 - person
 - human
-aliases: []
+aliases:
+- Marvello
 ---
 
 Captain of the [[Thistle Hold]] Town Guard.
