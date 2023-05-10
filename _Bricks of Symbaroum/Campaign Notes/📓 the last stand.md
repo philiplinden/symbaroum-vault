@@ -23,9 +23,15 @@ WHERE
 > [!example] Quests
 > [[📜 Find the Flayer]]
 
-
-- abom tries to kill everyone
-- at half health, tries to grab skull and flee to the forest
+- [[Gorak]] one shots [[Niho]].
+- [[Termo]] nearly destroys [[Hurian's Skull|Hurian’s Skull]]
+- [[Bartolom]] mind controls [[Gorak]] and makes it attack itself, it one-shot-kills itself.
+- [[Bartolom]] revives [[Niho]].
+- [[Termo]] subconsciously decides not to destroy the skull, the crew debates if it should…
+- [[Bartolom]] sneaks off and destroys [[Hurian's Skull]].
+- The spirit possesses [[Ja-door Freumage|Ja-door]].
+- [[Bartolom]] and [[Termo]] beef.
+- [[Weston Sawyer|Weston]] gathers the skull’s remains into a bag.
 
 ## The Bell Tolls
 When the crew emerges from the ruins, a lone bell is heard chiming. It is the alarm bell by the [[North Gate]] of the palisade.
@@ -46,6 +52,9 @@ As soon as the welcoming committee is assembled, the [[North Gate]] opens and [[
 
 The interpreter is ordered to welcome them to the Ambrian realm, whereby one of the witches nods in response and presents himself as [[Gadramon]], sent by [[Yeleta]], the Huldra of [[Karvosti]] (a character with the ability Loremaster knows that one of the Huldra’s closest helpers bears that same name). 
 
-After that, the interpreter is asked to learn why they have come. [[Gadramon]] responds with a counter-question: “Has the well spoken?” When no one seems to comprehend what the witch refers to, he sternly comments: “No answer is answer enough.” The witch then asks for passage into the town and when asked why he says that they are here to help and that ”the Huldra fears that a very potent source of corruption dwells at the heart of [[Thistle Hold]]”. More he cannot say. 
+After that, the interpreter is asked to learn why they have come. [[Gadramon]] responds with a counter-question: “Has the well spoken?” When no one seems to comprehend what the witch refers to, he sternly comments: “No answer is answer enough.” The witch then asks for passage into the town and when asked why he says that they are here to help and that “the Huldra fears that a very potent source of corruption dwells at the heart of [[Thistle Hold]]”. More he cannot say. 
 
 [[Gadramon]] claims that time is short and when [[Captain Marvello|Marvello]] states that he is not able to give them passage without the express permission of [[Lasifor Nightpitch|Mayor Nightpitch]], the witch stresses that such permission must be granted right now. In the meantime, he and [[Eferneya]] will return to the forest edge and wait.
+
+# IDEA
+[[Bartolom]] becomes the villian, drunk on the power of *Bend Will*

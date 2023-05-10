@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "cc0e4b48e8269029",
+            "id": "dedea3ddd61b4927",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,22 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "88251a71b3ff72ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md"
               }
             }
           },
@@ -284,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -324,17 +311,19 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "d99c34f232588d1f",
+  "active": "dedea3ddd61b4927",
   "lastOpenFiles": [
+    "People/Player Characters/Ja-door Freumage.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
-    "People/Gorak.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "Items/Hurian's Skull.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
+    "People/Gorak.md",
     "People/Eferneya.md",
     "People/Captain Marvello.md",
     "People/Gadramon.md",
     "Events/Halaran's Cataclysm.md",
     "Events/Attack of Eloan-Eo.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
     "People/The Flayer.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
@@ -349,8 +338,6 @@
     "People/Player Characters/Weston Sawyer.md",
     "Weston.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
-    "People/Burak O'Bema.md",
-    "People/Deseba the Old.md",
-    "People/Master Eufrynda.md"
+    "People/Burak O'Bema.md"
   ]
 }

@@ -184,13 +184,13 @@
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 670,
-      "pageCount": 2.2333333333333334,
-      "characterCount": 4037,
-      "nonWhitespaceCharacterCount": 3347,
+      "wordCount": 701,
+      "pageCount": 2.3366666666666664,
+      "characterCount": 4278,
+      "nonWhitespaceCharacterCount": 3557,
       "createdDate": 1683621351758,
-      "modifiedDate": 1683684955721,
-      "sizeInBytes": 4061
+      "modifiedDate": 1683690551673,
+      "sizeInBytes": 4304
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md": {
       "isDirectory": false,
@@ -263,11 +263,11 @@
       "noteCount": 1,
       "wordCount": 185,
       "pageCount": 0.6166666666666667,
-      "characterCount": 1143,
-      "nonWhitespaceCharacterCount": 949,
+      "characterCount": 1151,
+      "nonWhitespaceCharacterCount": 957,
       "createdDate": 1682043576701,
-      "modifiedDate": 1683684440582,
-      "sizeInBytes": 1151
+      "modifiedDate": 1683686918527,
+      "sizeInBytes": 1159
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Hatching a Plan.md": {
       "isDirectory": false,
@@ -558,13 +558,13 @@
     "People/Gorak.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9,
-      "pageCount": 0.03,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 34,
+      "wordCount": 11,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 44,
       "createdDate": 1683686887334,
-      "modifiedDate": 1683686891361,
-      "sizeInBytes": 44
+      "modifiedDate": 1683686902438,
+      "sizeInBytes": 56
     },
     "People/Eferneya.md": {
       "isDirectory": false,
@@ -1907,6 +1907,17 @@
       "createdDate": 1678942360733,
       "modifiedDate": 1678942360733,
       "sizeInBytes": 123
+    },
+    "Items/Hurian's Skull.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 23,
+      "nonWhitespaceCharacterCount": 16,
+      "createdDate": 1683690556011,
+      "modifiedDate": 1683690560577,
+      "sizeInBytes": 23
     },
     "Items/Zweigels.md": {
       "isDirectory": false,
