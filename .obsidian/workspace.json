@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Player Characters/Andor Dawnsinger.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,7 +253,7 @@
             }
           },
           {
-            "id": "f364be3537f2a77d",
+            "id": "bdc7222f199144b0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -261,14 +261,15 @@
             }
           },
           {
-            "id": "b7bcfbc6132ecd83",
+            "id": "519cf6b1a4f28d60",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c192c3937e26db19",
@@ -281,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md"
               }
             }
           },
@@ -307,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -345,8 +346,9 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "f2d8412ecda53bfa",
+  "active": "519cf6b1a4f28d60",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "Events/Halaran's Cataclysm.md",
@@ -371,7 +373,6 @@
     "People/Master Cornelio.md",
     "People/Godalg.md",
     "Places/Ordo Tower.md",
-    "conflict-files-obsidian-git.md",
-    "People/Anadea.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
