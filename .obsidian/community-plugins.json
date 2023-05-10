@@ -10,7 +10,6 @@
   "obsidian-icon-folder",
   "obsidian-pandoc",
   "obsidian-tidy-footnotes",
-  "ghost-fade-focus",
   "obsidian-smart-typography",
   "dataview",
   "obsidian-fountain",
@@ -26,6 +25,5 @@
   "heatmap-calendar",
   "obsidian-wordy",
   "tag-wrangler",
-  "obsidian-git",
-  "smart-connections"
+  "obsidian-git"
 ]
