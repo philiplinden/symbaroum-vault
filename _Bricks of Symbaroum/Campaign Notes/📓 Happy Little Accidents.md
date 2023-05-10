@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[📓 the last stand]]
 
 > [!example] Quests
 > [[📜 Find the Flayer]]
