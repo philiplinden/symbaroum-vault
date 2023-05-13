@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af746a0a7d411462",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,7 +321,7 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "dedea3ddd61b4927",
+  "active": "af746a0a7d411462",
   "lastOpenFiles": [
     "People/Player Characters/Ja-door Freumage.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
