@@ -47,6 +47,8 @@ Shortly after the characters have found their spot, loud creaking and crashing i
 
 Down in the square, the captain has watched the whole thing through a window and reached the conclusion that this is not an assault. Instead he starts putting together a delegation to walk out and meet with the witches.
 
+—END OF SESSION—
+
 ## A Warning
 As soon as the welcoming committee is assembled, the [[North Gate]] opens and [[Captain Marvello]] starts walking. The witches remain still, waiting on the backs of their [[colossi]]. The procession stops a few paces away and [[Captain Marvello|Marvello]] turns to his interpreter. If this is one of the player characters, he or she is left to handle the conversation with the witches – [[Captain Marvello|Marvello]] seems to understand what is said but is unable to converse in the barbarian tongue.
 
@@ -57,4 +59,4 @@ After that, the interpreter is asked to learn why they have come. [[Gadramon]] r
 [[Gadramon]] claims that time is short and when [[Captain Marvello|Marvello]] states that he is not able to give them passage without the express permission of [[Lasifor Nightpitch|Mayor Nightpitch]], the witch stresses that such permission must be granted right now. In the meantime, he and [[Eferneya]] will return to the forest edge and wait.
 
 # IDEA
-[[Bartolom]] becomes the villian, drunk on the power of *Bend Will*
+[[Bartolom]] joins [[Erlaber Ambreagos|Erlaber]]’s cult, drunk on the power of *Bend Will*

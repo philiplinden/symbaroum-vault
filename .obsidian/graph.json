@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#reference -tag:#story -tag:#session",
+  "search": "-tag:#reference -tag:#story",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -92,9 +92,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 10.0520833333333,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.22920135941749986,
+  "repelStrength": 4.35267028151229,
+  "linkStrength": 0.502785411869569,
+  "linkDistance": 255,
+  "scale": 0.229201359417501,
   "close": true
 }
