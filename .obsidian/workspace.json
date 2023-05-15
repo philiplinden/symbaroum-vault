@@ -33,30 +33,20 @@
             }
           },
           {
-            "id": "dedea3ddd61b4927",
+            "id": "6e2a941f0c026dc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "af746a0a7d411462",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md"
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md"
               }
             }
           },
@@ -281,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
+                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -321,7 +311,7 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "af746a0a7d411462",
+  "active": "6e2a941f0c026dc8",
   "lastOpenFiles": [
     "People/Player Characters/Ja-door Freumage.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",

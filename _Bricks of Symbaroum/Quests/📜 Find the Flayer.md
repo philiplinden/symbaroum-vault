@@ -1,7 +1,7 @@
 ---
 tags: quest
 active: true
-complete: false
+complete: true
 reward: 0
 ---
 
