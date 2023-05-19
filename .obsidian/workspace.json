@@ -31,22 +31,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "6e2a941f0c026dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
               }
             }
           },
@@ -271,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,8 +297,9 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "6e2a941f0c026dc8",
+  "active": "62a89aad9555a5a3",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
     "People/Player Characters/Ja-door Freumage.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
@@ -337,7 +324,6 @@
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
     "People/Player Characters/Weston Sawyer.md",
     "Weston.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
-    "People/Burak O'Bema.md"
+    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md"
   ]
 }
