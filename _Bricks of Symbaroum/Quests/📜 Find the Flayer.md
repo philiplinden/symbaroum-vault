@@ -1,7 +1,7 @@
 ---
 tags: quest
-active: true
-complete: false
+active: false
+complete: true
 reward: 0
 ---
 
@@ -23,3 +23,4 @@ per_person = party_cut / 5 # thaler per person
 
 [[Master Vernam|Vernam]] is found flayed in his office.
 
+The Flayer was discovered to be [[The Flayer|Alahara]], who was committing atrocities in order to prolong the life of her lover, [[Gorak]]. [[Gorak]] succumbed to the influence of [[Hurian's Skull]] and became an abomination.
