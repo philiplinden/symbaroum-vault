@@ -14,4 +14,4 @@ You have traveled the countryside of [[Ambria]] hoping to find answers, or at le
 You may have ended up south of the mountains for various reasons, but most likely as the traveling companion of Rageor, Magdala or Fenya. If you have any friends it is because they are outsiders or because they may have knowledge about the elves that once abandoned you to the humans.
 
 ### personal goal
-To become top cut-co salesperson of the year to earn a bonus that will fund my search for my lost family, either a professional investigator or time for me to just not work and travel
+To become top salesperson of the year for [[Cut-Co Knives]] to earn a bonus that will fund my search for my lost family, either a professional investigator or time for me to just not work and travel

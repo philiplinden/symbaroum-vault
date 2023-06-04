@@ -31,6 +31,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "7a80b0c0532a17c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Eferneya.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -119,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "People/Eferneya.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+                "file": "People/Eferneya.md"
               }
             }
           },
@@ -257,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "People/Eferneya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "People/Eferneya.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -297,17 +310,20 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "923705e96f27eeb0",
+  "active": "7a80b0c0532a17c6",
   "lastOpenFiles": [
-    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
+    "People/Eferneya.md",
+    "People/Player Characters/Niho.md",
+    "Items/Cut-Co Knives.md",
+    "Beasts/Dragoul.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
-    "conflict-files-obsidian-git.md",
+    "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
     "People/Player Characters/Ja-door Freumage.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
     "Items/Hurian's Skull.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
     "People/Gorak.md",
-    "People/Eferneya.md",
     "People/Captain Marvello.md",
     "People/Gadramon.md",
     "Events/Halaran's Cataclysm.md",
@@ -321,9 +337,6 @@
     "_Bricks of Symbaroum/Stories/A story by ChatGPT.md",
     "People/Player Characters/Andor Dawnsinger.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
-    "People/Player Characters/Weston Sawyer.md",
-    "Weston.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md"
+    "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md"
   ]
 }
