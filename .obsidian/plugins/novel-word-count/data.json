@@ -1127,6 +1127,138 @@
       "modifiedDate": 1684145446871,
       "sizeInBytes": 48
     },
+    "Items/Zweigels.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 178,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 221
+    },
+    "Items/Water of the Dusk.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 79,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 97
+    },
+    "Items/Three-Arrows Buckle.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 145,
+      "nonWhitespaceCharacterCount": 122,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 145
+    },
+    "Items/Sun Stone.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 329,
+      "nonWhitespaceCharacterCount": 261,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 329
+    },
+    "Items/Seer's Catalog.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 149,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 176
+    },
+    "Items/Khadvil.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 177,
+      "nonWhitespaceCharacterCount": 148,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 179
+    },
+    "Items/Iron Pact Ring.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 216,
+      "nonWhitespaceCharacterCount": 173,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 216
+    },
+    "Items/Ilanda's journal.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 317,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 375
+    },
+    "Items/Hurian's Skull.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 46,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 62
+    },
+    "Items/Dragonbone Comb.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 211,
+      "nonWhitespaceCharacterCount": 173,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 213
+    },
+    "Items/Cut-Co Knives.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 35,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 44
+    },
+    "Items/Codex Ambreagosa.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 161,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 1011,
+      "nonWhitespaceCharacterCount": 844,
+      "createdDate": 1684145446767,
+      "modifiedDate": 1684145446767,
+      "sizeInBytes": 1011
+    },
     "People/Yeleta.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1446,17 +1578,6 @@
       "modifiedDate": 1684145446771,
       "sizeInBytes": 161
     },
-    "People/Master Cornelio.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 104,
-      "nonWhitespaceCharacterCount": 86,
-      "createdDate": 1684145446771,
-      "modifiedDate": 1684145446771,
-      "sizeInBytes": 104
-    },
     "People/Master Alinard.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1467,6 +1588,17 @@
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 61
+    },
+    "People/Master Cornelio.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 86,
+      "createdDate": 1684145446771,
+      "modifiedDate": 1684145446771,
+      "sizeInBytes": 104
     },
     "People/Malrek.md": {
       "isDirectory": false,
@@ -1907,138 +2039,6 @@
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 91
-    },
-    "Items/Zweigels.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 41,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 178,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 221
-    },
-    "Items/Water of the Dusk.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 97,
-      "nonWhitespaceCharacterCount": 79,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 97
-    },
-    "Items/Three-Arrows Buckle.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 145,
-      "nonWhitespaceCharacterCount": 122,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 145
-    },
-    "Items/Sun Stone.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 63,
-      "pageCount": 0.21,
-      "characterCount": 329,
-      "nonWhitespaceCharacterCount": 261,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 329
-    },
-    "Items/Seer's Catalog.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 176,
-      "nonWhitespaceCharacterCount": 149,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 176
-    },
-    "Items/Khadvil.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 177,
-      "nonWhitespaceCharacterCount": 148,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 179
-    },
-    "Items/Iron Pact Ring.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 216,
-      "nonWhitespaceCharacterCount": 173,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 216
-    },
-    "Items/Ilanda's journal.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 52,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 369,
-      "nonWhitespaceCharacterCount": 317,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 375
-    },
-    "Items/Hurian's Skull.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 58,
-      "nonWhitespaceCharacterCount": 46,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 62
-    },
-    "Items/Dragonbone Comb.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 36,
-      "pageCount": 0.12,
-      "characterCount": 211,
-      "nonWhitespaceCharacterCount": 173,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 213
-    },
-    "Items/Cut-Co Knives.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 35,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 44
-    },
-    "Items/Codex Ambreagosa.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 161,
-      "pageCount": 0.5366666666666666,
-      "characterCount": 1011,
-      "nonWhitespaceCharacterCount": 844,
-      "createdDate": 1684145446767,
-      "modifiedDate": 1684145446767,
-      "sizeInBytes": 1011
     },
     "Gods/Prios.md": {
       "isDirectory": false,
