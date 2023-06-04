@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "74bff35482edd229",
+            "id": "10a5f537b3394f03",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -31,22 +31,9 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b0660cb1f2903b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,9 +119,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -143,7 +130,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": true,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#place",
@@ -234,7 +221,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5943143512528437,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -247,8 +234,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2caf1f288ba3b38e",
@@ -261,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
               }
             }
           },
@@ -271,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,10 +297,11 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "b0660cb1f2903b89",
+  "active": "923705e96f27eeb0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "conflict-files-obsidian-git.md",
     "People/Player Characters/Ja-door Freumage.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
     "Items/Hurian's Skull.md",
@@ -335,7 +322,6 @@
     "People/Player Characters/Andor Dawnsinger.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
     "People/Player Characters/Weston Sawyer.md",
     "Weston.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md"
