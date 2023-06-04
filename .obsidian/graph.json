@@ -1,22 +1,100 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-tag:#reference -tag:#story -tag:#session",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#place",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#faction",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#person",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#player-character",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#god",
+      "color": {
+        "a": 1,
+        "rgb": 6422474
+      }
+    },
+    {
+      "query": "tag:#story",
+      "color": {
+        "a": 1,
+        "rgb": 2449857
+      }
+    },
+    {
+      "query": "tag:#event",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#beast",
+      "color": {
+        "a": 1,
+        "rgb": 1991199
+      }
+    },
+    {
+      "query": "tag:#reference",
+      "color": {
+        "a": 1,
+        "rgb": 12105912
+      }
+    },
+    {
+      "query": "tag:#session",
+      "color": {
+        "a": 1,
+        "rgb": 46079
+      }
+    },
+    {
+      "query": "tag:#item",
+      "color": {
+        "a": 1,
+        "rgb": 16702352
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 0.751118644067797,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0,
+  "repelStrength": 10.0520833333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6554983534946917,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.3703325159790875,
+  "close": true
 }
