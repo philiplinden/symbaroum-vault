@@ -31,19 +31,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "7a80b0c0532a17c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Eferneya.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -132,7 +119,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Eferneya.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,9 +245,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People/Eferneya.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,7 +254,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Eferneya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +270,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Eferneya.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -310,10 +292,10 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "7a80b0c0532a17c6",
+  "active": "10a5f537b3394f03",
   "lastOpenFiles": [
-    "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
     "People/Eferneya.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
     "People/Player Characters/Niho.md",
     "Items/Cut-Co Knives.md",
     "Beasts/Dragoul.md",
