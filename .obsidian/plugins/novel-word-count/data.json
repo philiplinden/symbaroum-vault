@@ -12,6 +12,7 @@
     "debugMode": false,
     "wordsPerPage": 300,
     "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
     "wordCountType": "SpaceDelimited",
     "pageCountType": "ByWords"
   },
@@ -23,6 +24,8 @@
       "pageCount": 2.933333333333333,
       "characterCount": 5632,
       "nonWhitespaceCharacterCount": 4716,
+      "linkCount": 64,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 5643
@@ -34,6 +37,8 @@
       "pageCount": 1.5833333333333333,
       "characterCount": 3057,
       "nonWhitespaceCharacterCount": 2570,
+      "linkCount": 55,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 3067
@@ -45,6 +50,8 @@
       "pageCount": 5.066666666666666,
       "characterCount": 9224,
       "nonWhitespaceCharacterCount": 7658,
+      "linkCount": 66,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 9282
@@ -56,6 +63,8 @@
       "pageCount": 6.03,
       "characterCount": 11541,
       "nonWhitespaceCharacterCount": 9695,
+      "linkCount": 58,
+      "embedCount": 7,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 11751
@@ -67,6 +76,8 @@
       "pageCount": 1.32,
       "characterCount": 2524,
       "nonWhitespaceCharacterCount": 2122,
+      "linkCount": 19,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 2524
@@ -78,6 +89,8 @@
       "pageCount": 2.9466666666666668,
       "characterCount": 5468,
       "nonWhitespaceCharacterCount": 4566,
+      "linkCount": 27,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 5468
@@ -89,6 +102,8 @@
       "pageCount": 0.5033333333333333,
       "characterCount": 1057,
       "nonWhitespaceCharacterCount": 899,
+      "linkCount": 24,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1063
@@ -100,6 +115,8 @@
       "pageCount": 0.3466666666666667,
       "characterCount": 605,
       "nonWhitespaceCharacterCount": 499,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 605
@@ -111,6 +128,8 @@
       "pageCount": 0.08333333333333333,
       "characterCount": 195,
       "nonWhitespaceCharacterCount": 167,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 195
@@ -122,6 +141,8 @@
       "pageCount": 0.18666666666666668,
       "characterCount": 373,
       "nonWhitespaceCharacterCount": 314,
+      "linkCount": 7,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 373
@@ -133,6 +154,8 @@
       "pageCount": 0.31666666666666665,
       "characterCount": 587,
       "nonWhitespaceCharacterCount": 490,
+      "linkCount": 8,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 587
@@ -144,6 +167,8 @@
       "pageCount": 0.4666666666666667,
       "characterCount": 937,
       "nonWhitespaceCharacterCount": 791,
+      "linkCount": 15,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684146673611,
       "sizeInBytes": 939
@@ -155,6 +180,8 @@
       "pageCount": 0.35,
       "characterCount": 675,
       "nonWhitespaceCharacterCount": 568,
+      "linkCount": 8,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 677
@@ -166,6 +193,8 @@
       "pageCount": 0.07,
       "characterCount": 142,
       "nonWhitespaceCharacterCount": 121,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 142
@@ -177,6 +206,8 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 133,
       "nonWhitespaceCharacterCount": 113,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 133
@@ -184,13 +215,15 @@
     "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 737,
-      "pageCount": 2.4566666666666666,
-      "characterCount": 4547,
-      "nonWhitespaceCharacterCount": 3790,
-      "createdDate": 1684145447031,
-      "modifiedDate": 1684145447031,
-      "sizeInBytes": 4577
+      "wordCount": 741,
+      "pageCount": 2.47,
+      "characterCount": 4588,
+      "nonWhitespaceCharacterCount": 3826,
+      "linkCount": 40,
+      "embedCount": 0,
+      "createdDate": 1685893801591,
+      "modifiedDate": 1685893801591,
+      "sizeInBytes": 4624
     },
     "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md": {
       "isDirectory": false,
@@ -199,6 +232,8 @@
       "pageCount": 0.5133333333333333,
       "characterCount": 975,
       "nonWhitespaceCharacterCount": 810,
+      "linkCount": 8,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 979
@@ -210,6 +245,8 @@
       "pageCount": 1.13,
       "characterCount": 2234,
       "nonWhitespaceCharacterCount": 1878,
+      "linkCount": 34,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 2252
@@ -221,6 +258,8 @@
       "pageCount": 0.4,
       "characterCount": 774,
       "nonWhitespaceCharacterCount": 646,
+      "linkCount": 6,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 784
@@ -232,6 +271,8 @@
       "pageCount": 0.69,
       "characterCount": 1392,
       "nonWhitespaceCharacterCount": 1170,
+      "linkCount": 27,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1400
@@ -243,6 +284,8 @@
       "pageCount": 1.14,
       "characterCount": 2106,
       "nonWhitespaceCharacterCount": 1750,
+      "linkCount": 15,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 2119
@@ -254,6 +297,8 @@
       "pageCount": 0.5833333333333334,
       "characterCount": 1171,
       "nonWhitespaceCharacterCount": 988,
+      "linkCount": 17,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1177
@@ -265,6 +310,8 @@
       "pageCount": 0.6633333333333333,
       "characterCount": 1425,
       "nonWhitespaceCharacterCount": 1215,
+      "linkCount": 29,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1441
@@ -276,6 +323,8 @@
       "pageCount": 0.6166666666666667,
       "characterCount": 1151,
       "nonWhitespaceCharacterCount": 957,
+      "linkCount": 10,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1159
@@ -287,6 +336,8 @@
       "pageCount": 1.0033333333333334,
       "characterCount": 2006,
       "nonWhitespaceCharacterCount": 1692,
+      "linkCount": 34,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 2020
@@ -298,6 +349,8 @@
       "pageCount": 0.96,
       "characterCount": 1824,
       "nonWhitespaceCharacterCount": 1515,
+      "linkCount": 24,
+      "embedCount": 2,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1840
@@ -309,6 +362,8 @@
       "pageCount": 0.42333333333333334,
       "characterCount": 911,
       "nonWhitespaceCharacterCount": 774,
+      "linkCount": 10,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 917
@@ -320,6 +375,8 @@
       "pageCount": 0.5533333333333333,
       "characterCount": 1217,
       "nonWhitespaceCharacterCount": 1036,
+      "linkCount": 21,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1223
@@ -331,6 +388,8 @@
       "pageCount": 1.03,
       "characterCount": 2065,
       "nonWhitespaceCharacterCount": 1739,
+      "linkCount": 30,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 2075
@@ -342,6 +401,8 @@
       "pageCount": 0.4033333333333333,
       "characterCount": 828,
       "nonWhitespaceCharacterCount": 699,
+      "linkCount": 12,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 836
@@ -353,6 +414,8 @@
       "pageCount": 0.63,
       "characterCount": 1396,
       "nonWhitespaceCharacterCount": 1195,
+      "linkCount": 22,
+      "embedCount": 2,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1408
@@ -364,6 +427,8 @@
       "pageCount": 0.52,
       "characterCount": 1058,
       "nonWhitespaceCharacterCount": 891,
+      "linkCount": 12,
+      "embedCount": 1,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1064
@@ -375,6 +440,8 @@
       "pageCount": 0.8366666666666667,
       "characterCount": 1834,
       "nonWhitespaceCharacterCount": 1569,
+      "linkCount": 36,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1844
@@ -386,6 +453,8 @@
       "pageCount": 1.03,
       "characterCount": 2104,
       "nonWhitespaceCharacterCount": 1780,
+      "linkCount": 31,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 2114
@@ -397,6 +466,8 @@
       "pageCount": 0.8166666666666667,
       "characterCount": 1615,
       "nonWhitespaceCharacterCount": 1360,
+      "linkCount": 20,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1627
@@ -408,6 +479,8 @@
       "pageCount": 0.45666666666666667,
       "characterCount": 985,
       "nonWhitespaceCharacterCount": 840,
+      "linkCount": 17,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 995
@@ -419,6 +492,8 @@
       "pageCount": 0.43,
       "characterCount": 893,
       "nonWhitespaceCharacterCount": 757,
+      "linkCount": 13,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 903
@@ -430,6 +505,8 @@
       "pageCount": 0.5266666666666666,
       "characterCount": 1026,
       "nonWhitespaceCharacterCount": 858,
+      "linkCount": 13,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1030
@@ -441,6 +518,8 @@
       "pageCount": 0.8133333333333334,
       "characterCount": 1664,
       "nonWhitespaceCharacterCount": 1408,
+      "linkCount": 27,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1672
@@ -452,6 +531,8 @@
       "pageCount": 0.6266666666666667,
       "characterCount": 1243,
       "nonWhitespaceCharacterCount": 1042,
+      "linkCount": 16,
+      "embedCount": 1,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 1249
@@ -463,6 +544,8 @@
       "pageCount": 0.44666666666666666,
       "characterCount": 893,
       "nonWhitespaceCharacterCount": 749,
+      "linkCount": 10,
+      "embedCount": 0,
       "createdDate": 1684145447031,
       "modifiedDate": 1684145447031,
       "sizeInBytes": 897
@@ -474,6 +557,8 @@
       "pageCount": 0.11,
       "characterCount": 251,
       "nonWhitespaceCharacterCount": 218,
+      "linkCount": 0,
+      "embedCount": 2,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 251
@@ -485,6 +570,8 @@
       "pageCount": 0.26,
       "characterCount": 618,
       "nonWhitespaceCharacterCount": 529,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 620
@@ -496,6 +583,8 @@
       "pageCount": 0.30333333333333334,
       "characterCount": 631,
       "nonWhitespaceCharacterCount": 534,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 633
@@ -507,6 +596,8 @@
       "pageCount": 0.16666666666666666,
       "characterCount": 417,
       "nonWhitespaceCharacterCount": 365,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 417
@@ -518,6 +609,8 @@
       "pageCount": 0.16666666666666666,
       "characterCount": 421,
       "nonWhitespaceCharacterCount": 369,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 421
@@ -529,6 +622,8 @@
       "pageCount": 0.09333333333333334,
       "characterCount": 231,
       "nonWhitespaceCharacterCount": 200,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 231
@@ -540,6 +635,8 @@
       "pageCount": 0.10666666666666667,
       "characterCount": 257,
       "nonWhitespaceCharacterCount": 222,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 257
@@ -551,6 +648,8 @@
       "pageCount": 0.09333333333333334,
       "characterCount": 233,
       "nonWhitespaceCharacterCount": 203,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145447003,
       "modifiedDate": 1684145447003,
       "sizeInBytes": 233
@@ -562,6 +661,8 @@
       "pageCount": 0.06333333333333334,
       "characterCount": 152,
       "nonWhitespaceCharacterCount": 132,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 152
@@ -573,6 +674,8 @@
       "pageCount": 0.06333333333333334,
       "characterCount": 154,
       "nonWhitespaceCharacterCount": 134,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 154
@@ -584,6 +687,8 @@
       "pageCount": 0.05333333333333334,
       "characterCount": 129,
       "nonWhitespaceCharacterCount": 114,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 129
@@ -595,6 +700,8 @@
       "pageCount": 0.043333333333333335,
       "characterCount": 116,
       "nonWhitespaceCharacterCount": 102,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 116
@@ -606,6 +713,8 @@
       "pageCount": 0.05,
       "characterCount": 125,
       "nonWhitespaceCharacterCount": 109,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 125
@@ -617,6 +726,8 @@
       "pageCount": 0.05,
       "characterCount": 131,
       "nonWhitespaceCharacterCount": 115,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 131
@@ -628,6 +739,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 103,
       "nonWhitespaceCharacterCount": 91,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 103
@@ -639,6 +752,8 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 144,
       "nonWhitespaceCharacterCount": 123,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 144
@@ -650,6 +765,8 @@
       "pageCount": 0.043333333333333335,
       "characterCount": 132,
       "nonWhitespaceCharacterCount": 118,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 132
@@ -661,6 +778,8 @@
       "pageCount": 0.04,
       "characterCount": 115,
       "nonWhitespaceCharacterCount": 102,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446999,
       "modifiedDate": 1684145446999,
       "sizeInBytes": 115
@@ -672,6 +791,8 @@
       "pageCount": 0.14666666666666667,
       "characterCount": 307,
       "nonWhitespaceCharacterCount": 262,
+      "linkCount": 4,
+      "embedCount": 1,
       "createdDate": 1684145446907,
       "modifiedDate": 1684145446907,
       "sizeInBytes": 313
@@ -683,6 +804,8 @@
       "pageCount": 0.9033333333333333,
       "characterCount": 1603,
       "nonWhitespaceCharacterCount": 1330,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 1607
@@ -694,6 +817,8 @@
       "pageCount": 0.07,
       "characterCount": 171,
       "nonWhitespaceCharacterCount": 150,
+      "linkCount": 2,
+      "embedCount": 2,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 171
@@ -705,6 +830,8 @@
       "pageCount": 0.22,
       "characterCount": 483,
       "nonWhitespaceCharacterCount": 414,
+      "linkCount": 6,
+      "embedCount": 2,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 483
@@ -716,6 +843,8 @@
       "pageCount": 0.10333333333333333,
       "characterCount": 163,
       "nonWhitespaceCharacterCount": 132,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 164
@@ -727,6 +856,8 @@
       "pageCount": 0.14666666666666667,
       "characterCount": 252,
       "nonWhitespaceCharacterCount": 207,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 256
@@ -738,6 +869,8 @@
       "pageCount": 0.056666666666666664,
       "characterCount": 104,
       "nonWhitespaceCharacterCount": 87,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 104
@@ -749,6 +882,8 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 118,
       "nonWhitespaceCharacterCount": 98,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 118
@@ -760,6 +895,8 @@
       "pageCount": 0.14,
       "characterCount": 277,
       "nonWhitespaceCharacterCount": 233,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446883,
       "modifiedDate": 1684145446883,
       "sizeInBytes": 277
@@ -771,6 +908,8 @@
       "pageCount": 0.1,
       "characterCount": 245,
       "nonWhitespaceCharacterCount": 213,
+      "linkCount": 1,
+      "embedCount": 3,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 245
@@ -782,6 +921,8 @@
       "pageCount": 0.10333333333333333,
       "characterCount": 184,
       "nonWhitespaceCharacterCount": 154,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 184
@@ -793,6 +934,8 @@
       "pageCount": 0.14666666666666667,
       "characterCount": 318,
       "nonWhitespaceCharacterCount": 269,
+      "linkCount": 2,
+      "embedCount": 2,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 318
@@ -804,6 +947,8 @@
       "pageCount": 0.12666666666666668,
       "characterCount": 253,
       "nonWhitespaceCharacterCount": 214,
+      "linkCount": 5,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 253
@@ -815,6 +960,8 @@
       "pageCount": 0.07333333333333333,
       "characterCount": 137,
       "nonWhitespaceCharacterCount": 114,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 137
@@ -826,6 +973,8 @@
       "pageCount": 0.056666666666666664,
       "characterCount": 100,
       "nonWhitespaceCharacterCount": 82,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 102
@@ -837,6 +986,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 51,
       "nonWhitespaceCharacterCount": 40,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 51
@@ -848,6 +999,8 @@
       "pageCount": 0.12666666666666668,
       "characterCount": 242,
       "nonWhitespaceCharacterCount": 203,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 250
@@ -859,6 +1012,8 @@
       "pageCount": 0.08,
       "characterCount": 139,
       "nonWhitespaceCharacterCount": 114,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 139
@@ -870,6 +1025,8 @@
       "pageCount": 0.19666666666666666,
       "characterCount": 370,
       "nonWhitespaceCharacterCount": 309,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 370
@@ -881,6 +1038,8 @@
       "pageCount": 0.08,
       "characterCount": 199,
       "nonWhitespaceCharacterCount": 172,
+      "linkCount": 0,
+      "embedCount": 1,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 199
@@ -892,6 +1051,8 @@
       "pageCount": 2.6333333333333333,
       "characterCount": 4821,
       "nonWhitespaceCharacterCount": 4001,
+      "linkCount": 28,
+      "embedCount": 2,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 4852
@@ -903,6 +1064,8 @@
       "pageCount": 0.023333333333333334,
       "characterCount": 32,
       "nonWhitespaceCharacterCount": 25,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 32
@@ -914,6 +1077,8 @@
       "pageCount": 0.49333333333333335,
       "characterCount": 917,
       "nonWhitespaceCharacterCount": 769,
+      "linkCount": 2,
+      "embedCount": 1,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 925
@@ -925,6 +1090,8 @@
       "pageCount": 1.4433333333333334,
       "characterCount": 2707,
       "nonWhitespaceCharacterCount": 2265,
+      "linkCount": 18,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 2713
@@ -936,6 +1103,8 @@
       "pageCount": 0.3566666666666667,
       "characterCount": 671,
       "nonWhitespaceCharacterCount": 564,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 677
@@ -947,6 +1116,8 @@
       "pageCount": 1.28,
       "characterCount": 2385,
       "nonWhitespaceCharacterCount": 2000,
+      "linkCount": 5,
+      "embedCount": 2,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 2405
@@ -958,6 +1129,8 @@
       "pageCount": 0.05,
       "characterCount": 95,
       "nonWhitespaceCharacterCount": 79,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 95
@@ -969,6 +1142,8 @@
       "pageCount": 0.22,
       "characterCount": 402,
       "nonWhitespaceCharacterCount": 336,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 406
@@ -980,6 +1155,8 @@
       "pageCount": 0.08666666666666667,
       "characterCount": 159,
       "nonWhitespaceCharacterCount": 132,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 161
@@ -991,6 +1168,8 @@
       "pageCount": 0.09666666666666666,
       "characterCount": 197,
       "nonWhitespaceCharacterCount": 167,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 197
@@ -1002,6 +1181,8 @@
       "pageCount": 0.043333333333333335,
       "characterCount": 82,
       "nonWhitespaceCharacterCount": 69,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 82
@@ -1013,6 +1194,8 @@
       "pageCount": 0.06,
       "characterCount": 106,
       "nonWhitespaceCharacterCount": 88,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 106
@@ -1024,6 +1207,8 @@
       "pageCount": 0.05,
       "characterCount": 92,
       "nonWhitespaceCharacterCount": 77,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 92
@@ -1035,6 +1220,8 @@
       "pageCount": 0.35,
       "characterCount": 664,
       "nonWhitespaceCharacterCount": 557,
+      "linkCount": 7,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 666
@@ -1046,6 +1233,8 @@
       "pageCount": 0.06,
       "characterCount": 112,
       "nonWhitespaceCharacterCount": 94,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 112
@@ -1057,6 +1246,8 @@
       "pageCount": 0.08333333333333333,
       "characterCount": 189,
       "nonWhitespaceCharacterCount": 164,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 189
@@ -1068,6 +1259,8 @@
       "pageCount": 0.07,
       "characterCount": 153,
       "nonWhitespaceCharacterCount": 130,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 153
@@ -1079,6 +1272,8 @@
       "pageCount": 0.05333333333333334,
       "characterCount": 112,
       "nonWhitespaceCharacterCount": 96,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 112
@@ -1090,6 +1285,8 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 157,
       "nonWhitespaceCharacterCount": 137,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 159
@@ -1101,6 +1298,8 @@
       "pageCount": 0.043333333333333335,
       "characterCount": 73,
       "nonWhitespaceCharacterCount": 61,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 73
@@ -1112,6 +1311,8 @@
       "pageCount": 0.05333333333333334,
       "characterCount": 109,
       "nonWhitespaceCharacterCount": 93,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 109
@@ -1123,6 +1324,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 48,
       "nonWhitespaceCharacterCount": 38,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446871,
       "modifiedDate": 1684145446871,
       "sizeInBytes": 48
@@ -1134,6 +1337,8 @@
       "pageCount": 0.13666666666666666,
       "characterCount": 221,
       "nonWhitespaceCharacterCount": 178,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 221
@@ -1145,6 +1350,8 @@
       "pageCount": 0.06,
       "characterCount": 97,
       "nonWhitespaceCharacterCount": 79,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 97
@@ -1156,6 +1363,8 @@
       "pageCount": 0.07333333333333333,
       "characterCount": 145,
       "nonWhitespaceCharacterCount": 122,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 145
@@ -1167,6 +1376,8 @@
       "pageCount": 0.21,
       "characterCount": 329,
       "nonWhitespaceCharacterCount": 261,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 329
@@ -1178,6 +1389,8 @@
       "pageCount": 0.09,
       "characterCount": 176,
       "nonWhitespaceCharacterCount": 149,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 176
@@ -1189,6 +1402,8 @@
       "pageCount": 0.09,
       "characterCount": 177,
       "nonWhitespaceCharacterCount": 148,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 179
@@ -1200,6 +1415,8 @@
       "pageCount": 0.13,
       "characterCount": 216,
       "nonWhitespaceCharacterCount": 173,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 216
@@ -1211,6 +1428,8 @@
       "pageCount": 0.17333333333333334,
       "characterCount": 369,
       "nonWhitespaceCharacterCount": 317,
+      "linkCount": 6,
+      "embedCount": 1,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 375
@@ -1222,6 +1441,8 @@
       "pageCount": 0.03333333333333333,
       "characterCount": 58,
       "nonWhitespaceCharacterCount": 46,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 62
@@ -1233,6 +1454,8 @@
       "pageCount": 0.12,
       "characterCount": 211,
       "nonWhitespaceCharacterCount": 173,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 213
@@ -1244,6 +1467,8 @@
       "pageCount": 0.02666666666666667,
       "characterCount": 44,
       "nonWhitespaceCharacterCount": 35,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 44
@@ -1255,6 +1480,8 @@
       "pageCount": 0.5366666666666666,
       "characterCount": 1011,
       "nonWhitespaceCharacterCount": 844,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 1011
@@ -1266,6 +1493,8 @@
       "pageCount": 0.18333333333333332,
       "characterCount": 349,
       "nonWhitespaceCharacterCount": 294,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 349
@@ -1277,6 +1506,8 @@
       "pageCount": 0.08666666666666667,
       "characterCount": 189,
       "nonWhitespaceCharacterCount": 162,
+      "linkCount": 3,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 191
@@ -1288,6 +1519,8 @@
       "pageCount": 0.14666666666666667,
       "characterCount": 272,
       "nonWhitespaceCharacterCount": 223,
+      "linkCount": 5,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 278
@@ -1299,6 +1532,8 @@
       "pageCount": 0.15666666666666668,
       "characterCount": 305,
       "nonWhitespaceCharacterCount": 257,
+      "linkCount": 4,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 305
@@ -1310,6 +1545,8 @@
       "pageCount": 0.06333333333333334,
       "characterCount": 117,
       "nonWhitespaceCharacterCount": 98,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 117
@@ -1321,6 +1558,8 @@
       "pageCount": 0.043333333333333335,
       "characterCount": 92,
       "nonWhitespaceCharacterCount": 79,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 92
@@ -1332,6 +1571,8 @@
       "pageCount": 0.17666666666666667,
       "characterCount": 359,
       "nonWhitespaceCharacterCount": 303,
+      "linkCount": 5,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 363
@@ -1343,6 +1584,8 @@
       "pageCount": 0.33666666666666667,
       "characterCount": 594,
       "nonWhitespaceCharacterCount": 493,
+      "linkCount": 5,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 599
@@ -1354,6 +1597,8 @@
       "pageCount": 0.03,
       "characterCount": 41,
       "nonWhitespaceCharacterCount": 32,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 41
@@ -1365,6 +1610,8 @@
       "pageCount": 0.07666666666666666,
       "characterCount": 147,
       "nonWhitespaceCharacterCount": 122,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 147
@@ -1376,6 +1623,8 @@
       "pageCount": 0.10333333333333333,
       "characterCount": 194,
       "nonWhitespaceCharacterCount": 163,
+      "linkCount": 2,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 194
@@ -1387,6 +1636,8 @@
       "pageCount": 1.0733333333333333,
       "characterCount": 1999,
       "nonWhitespaceCharacterCount": 1668,
+      "linkCount": 4,
+      "embedCount": 3,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 2003
@@ -1398,6 +1649,8 @@
       "pageCount": 0.13666666666666666,
       "characterCount": 230,
       "nonWhitespaceCharacterCount": 187,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 230
@@ -1409,6 +1662,8 @@
       "pageCount": 1.64,
       "characterCount": 3229,
       "nonWhitespaceCharacterCount": 2706,
+      "linkCount": 7,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 3230
@@ -1420,6 +1675,8 @@
       "pageCount": 0.13,
       "characterCount": 216,
       "nonWhitespaceCharacterCount": 177,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 216
@@ -1431,6 +1688,8 @@
       "pageCount": 0.72,
       "characterCount": 1220,
       "nonWhitespaceCharacterCount": 999,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 1230
@@ -1442,6 +1701,8 @@
       "pageCount": 0.13,
       "characterCount": 275,
       "nonWhitespaceCharacterCount": 236,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 275
@@ -1453,6 +1714,8 @@
       "pageCount": 0.04,
       "characterCount": 71,
       "nonWhitespaceCharacterCount": 60,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 71
@@ -1460,13 +1723,15 @@
     "People/Player Characters/Ja-door Freumage.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 170,
-      "pageCount": 0.5666666666666667,
-      "characterCount": 983,
-      "nonWhitespaceCharacterCount": 810,
-      "createdDate": 1684145446771,
-      "modifiedDate": 1684145446771,
-      "sizeInBytes": 983
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1096,
+      "nonWhitespaceCharacterCount": 904,
+      "linkCount": 5,
+      "embedCount": 0,
+      "createdDate": 1685893801591,
+      "modifiedDate": 1685893801591,
+      "sizeInBytes": 1098
     },
     "People/Player Characters/Bartolom.md": {
       "isDirectory": false,
@@ -1475,6 +1740,8 @@
       "pageCount": 0.5333333333333333,
       "characterCount": 932,
       "nonWhitespaceCharacterCount": 770,
+      "linkCount": 10,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 938
@@ -1486,6 +1753,8 @@
       "pageCount": 0.14666666666666667,
       "characterCount": 289,
       "nonWhitespaceCharacterCount": 241,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 289
@@ -1497,6 +1766,8 @@
       "pageCount": 0.26,
       "characterCount": 463,
       "nonWhitespaceCharacterCount": 384,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 465
@@ -1508,6 +1779,8 @@
       "pageCount": 0.10333333333333333,
       "characterCount": 198,
       "nonWhitespaceCharacterCount": 165,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 198
@@ -1519,6 +1792,8 @@
       "pageCount": 0.09666666666666666,
       "characterCount": 210,
       "nonWhitespaceCharacterCount": 179,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 210
@@ -1530,6 +1805,8 @@
       "pageCount": 0.13333333333333333,
       "characterCount": 246,
       "nonWhitespaceCharacterCount": 203,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 246
@@ -1541,6 +1818,8 @@
       "pageCount": 0.07333333333333333,
       "characterCount": 149,
       "nonWhitespaceCharacterCount": 126,
+      "linkCount": 1,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 149
@@ -1552,6 +1831,8 @@
       "pageCount": 0.4,
       "characterCount": 709,
       "nonWhitespaceCharacterCount": 588,
+      "linkCount": 4,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 710
@@ -1563,6 +1844,8 @@
       "pageCount": 0.5966666666666667,
       "characterCount": 1057,
       "nonWhitespaceCharacterCount": 875,
+      "linkCount": 10,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 1065
@@ -1574,6 +1857,8 @@
       "pageCount": 0.08333333333333333,
       "characterCount": 157,
       "nonWhitespaceCharacterCount": 130,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 161
@@ -1585,6 +1870,8 @@
       "pageCount": 0.04,
       "characterCount": 61,
       "nonWhitespaceCharacterCount": 50,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 61
@@ -1596,6 +1883,8 @@
       "pageCount": 0.06,
       "characterCount": 104,
       "nonWhitespaceCharacterCount": 86,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 104
@@ -1607,6 +1896,8 @@
       "pageCount": 0.03,
       "characterCount": 41,
       "nonWhitespaceCharacterCount": 32,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 41
@@ -1618,6 +1909,8 @@
       "pageCount": 0.10333333333333333,
       "characterCount": 220,
       "nonWhitespaceCharacterCount": 189,
+      "linkCount": 4,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 224
@@ -1629,6 +1922,8 @@
       "pageCount": 0.2733333333333333,
       "characterCount": 465,
       "nonWhitespaceCharacterCount": 382,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 465
@@ -1640,6 +1935,8 @@
       "pageCount": 0.05,
       "characterCount": 101,
       "nonWhitespaceCharacterCount": 86,
+      "linkCount": 1,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 101
@@ -1651,6 +1948,8 @@
       "pageCount": 0.11666666666666667,
       "characterCount": 173,
       "nonWhitespaceCharacterCount": 139,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 173
@@ -1662,6 +1961,8 @@
       "pageCount": 0.10666666666666667,
       "characterCount": 176,
       "nonWhitespaceCharacterCount": 143,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 176
@@ -1673,6 +1974,8 @@
       "pageCount": 0.07,
       "characterCount": 140,
       "nonWhitespaceCharacterCount": 118,
+      "linkCount": 1,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 140
@@ -1684,6 +1987,8 @@
       "pageCount": 0.29,
       "characterCount": 580,
       "nonWhitespaceCharacterCount": 490,
+      "linkCount": 4,
+      "embedCount": 3,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 582
@@ -1695,6 +2000,8 @@
       "pageCount": 0.21333333333333335,
       "characterCount": 439,
       "nonWhitespaceCharacterCount": 371,
+      "linkCount": 5,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 441
@@ -1706,6 +2013,8 @@
       "pageCount": 0.4033333333333333,
       "characterCount": 740,
       "nonWhitespaceCharacterCount": 620,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 748
@@ -1717,6 +2026,8 @@
       "pageCount": 0.3,
       "characterCount": 554,
       "nonWhitespaceCharacterCount": 462,
+      "linkCount": 9,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 564
@@ -1728,6 +2039,8 @@
       "pageCount": 0.18,
       "characterCount": 346,
       "nonWhitespaceCharacterCount": 290,
+      "linkCount": 5,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 346
@@ -1739,6 +2052,8 @@
       "pageCount": 0.04,
       "characterCount": 85,
       "nonWhitespaceCharacterCount": 73,
+      "linkCount": 0,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 85
@@ -1750,6 +2065,8 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 109,
       "nonWhitespaceCharacterCount": 89,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 109
@@ -1761,6 +2078,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 56,
       "nonWhitespaceCharacterCount": 44,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 56
@@ -1772,6 +2091,8 @@
       "pageCount": 0.056666666666666664,
       "characterCount": 98,
       "nonWhitespaceCharacterCount": 81,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 98
@@ -1783,6 +2104,8 @@
       "pageCount": 0.08,
       "characterCount": 152,
       "nonWhitespaceCharacterCount": 127,
+      "linkCount": 1,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 152
@@ -1794,6 +2117,8 @@
       "pageCount": 0.05333333333333334,
       "characterCount": 112,
       "nonWhitespaceCharacterCount": 95,
+      "linkCount": 1,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 112
@@ -1805,6 +2130,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 56,
       "nonWhitespaceCharacterCount": 44,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 56
@@ -1816,6 +2143,8 @@
       "pageCount": 0.14666666666666667,
       "characterCount": 309,
       "nonWhitespaceCharacterCount": 264,
+      "linkCount": 3,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 313
@@ -1827,6 +2156,8 @@
       "pageCount": 0.10333333333333333,
       "characterCount": 190,
       "nonWhitespaceCharacterCount": 157,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 190
@@ -1838,6 +2169,8 @@
       "pageCount": 0.07666666666666666,
       "characterCount": 165,
       "nonWhitespaceCharacterCount": 140,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 165
@@ -1849,6 +2182,8 @@
       "pageCount": 0.27666666666666667,
       "characterCount": 481,
       "nonWhitespaceCharacterCount": 399,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 491
@@ -1860,6 +2195,8 @@
       "pageCount": 0.08666666666666667,
       "characterCount": 157,
       "nonWhitespaceCharacterCount": 131,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 157
@@ -1871,6 +2208,8 @@
       "pageCount": 0.12333333333333334,
       "characterCount": 256,
       "nonWhitespaceCharacterCount": 217,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 258
@@ -1882,6 +2221,8 @@
       "pageCount": 0.9433333333333334,
       "characterCount": 1670,
       "nonWhitespaceCharacterCount": 1386,
+      "linkCount": 6,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 1674
@@ -1893,6 +2234,8 @@
       "pageCount": 0.17,
       "characterCount": 315,
       "nonWhitespaceCharacterCount": 263,
+      "linkCount": 6,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 315
@@ -1904,6 +2247,8 @@
       "pageCount": 0.08,
       "characterCount": 144,
       "nonWhitespaceCharacterCount": 121,
+      "linkCount": 1,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 144
@@ -1915,6 +2260,8 @@
       "pageCount": 0.82,
       "characterCount": 1415,
       "nonWhitespaceCharacterCount": 1165,
+      "linkCount": 8,
+      "embedCount": 2,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 1422
@@ -1926,6 +2273,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 56,
       "nonWhitespaceCharacterCount": 44,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 56
@@ -1937,6 +2286,8 @@
       "pageCount": 0.07666666666666666,
       "characterCount": 143,
       "nonWhitespaceCharacterCount": 119,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 143
@@ -1948,6 +2299,8 @@
       "pageCount": 0.21,
       "characterCount": 436,
       "nonWhitespaceCharacterCount": 370,
+      "linkCount": 7,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 438
@@ -1959,6 +2312,8 @@
       "pageCount": 0.056666666666666664,
       "characterCount": 96,
       "nonWhitespaceCharacterCount": 78,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 96
@@ -1970,6 +2325,8 @@
       "pageCount": 0.09333333333333334,
       "characterCount": 185,
       "nonWhitespaceCharacterCount": 156,
+      "linkCount": 2,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 185
@@ -1981,6 +2338,8 @@
       "pageCount": 0.07666666666666666,
       "characterCount": 146,
       "nonWhitespaceCharacterCount": 122,
+      "linkCount": 2,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 146
@@ -1992,6 +2351,8 @@
       "pageCount": 0.14333333333333334,
       "characterCount": 283,
       "nonWhitespaceCharacterCount": 239,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 287
@@ -2003,6 +2364,8 @@
       "pageCount": 0.2966666666666667,
       "characterCount": 585,
       "nonWhitespaceCharacterCount": 493,
+      "linkCount": 4,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 593
@@ -2014,6 +2377,8 @@
       "pageCount": 0.08333333333333333,
       "characterCount": 139,
       "nonWhitespaceCharacterCount": 115,
+      "linkCount": 2,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 139
@@ -2025,6 +2390,8 @@
       "pageCount": 1.01,
       "characterCount": 1803,
       "nonWhitespaceCharacterCount": 1496,
+      "linkCount": 8,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 1816
@@ -2036,6 +2403,8 @@
       "pageCount": 0.04666666666666667,
       "characterCount": 91,
       "nonWhitespaceCharacterCount": 77,
+      "linkCount": 0,
+      "embedCount": 1,
       "createdDate": 1684145446771,
       "modifiedDate": 1684145446771,
       "sizeInBytes": 91
@@ -2047,6 +2416,8 @@
       "pageCount": 0.15,
       "characterCount": 287,
       "nonWhitespaceCharacterCount": 242,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 287
@@ -2058,6 +2429,8 @@
       "pageCount": 0.23666666666666666,
       "characterCount": 449,
       "nonWhitespaceCharacterCount": 377,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 453
@@ -2069,6 +2442,8 @@
       "pageCount": 0.13666666666666666,
       "characterCount": 238,
       "nonWhitespaceCharacterCount": 196,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 242
@@ -2080,6 +2455,8 @@
       "pageCount": 0.12333333333333334,
       "characterCount": 212,
       "nonWhitespaceCharacterCount": 175,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 212
@@ -2091,6 +2468,8 @@
       "pageCount": 0.17333333333333334,
       "characterCount": 340,
       "nonWhitespaceCharacterCount": 287,
+      "linkCount": 3,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 340
@@ -2102,6 +2481,8 @@
       "pageCount": 0.11666666666666667,
       "characterCount": 235,
       "nonWhitespaceCharacterCount": 199,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 235
@@ -2113,6 +2494,8 @@
       "pageCount": 0.1,
       "characterCount": 200,
       "nonWhitespaceCharacterCount": 169,
+      "linkCount": 7,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 200
@@ -2124,6 +2507,8 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 52,
       "nonWhitespaceCharacterCount": 41,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 52
@@ -2135,6 +2520,8 @@
       "pageCount": 0.29333333333333333,
       "characterCount": 647,
       "nonWhitespaceCharacterCount": 555,
+      "linkCount": 8,
+      "embedCount": 1,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 651
@@ -2146,6 +2533,8 @@
       "pageCount": 0.12666666666666668,
       "characterCount": 259,
       "nonWhitespaceCharacterCount": 219,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 263
@@ -2157,6 +2546,8 @@
       "pageCount": 0.22333333333333333,
       "characterCount": 457,
       "nonWhitespaceCharacterCount": 390,
+      "linkCount": 1,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 459
@@ -2168,6 +2559,8 @@
       "pageCount": 1.42,
       "characterCount": 2771,
       "nonWhitespaceCharacterCount": 2342,
+      "linkCount": 9,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 2805
@@ -2179,6 +2572,8 @@
       "pageCount": 0.03,
       "characterCount": 39,
       "nonWhitespaceCharacterCount": 31,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 39
@@ -2190,6 +2585,8 @@
       "pageCount": 0.3433333333333333,
       "characterCount": 627,
       "nonWhitespaceCharacterCount": 523,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 627
@@ -2201,6 +2598,8 @@
       "pageCount": 0.26,
       "characterCount": 470,
       "nonWhitespaceCharacterCount": 391,
+      "linkCount": 5,
+      "embedCount": 1,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 470
@@ -2212,6 +2611,8 @@
       "pageCount": 0.32666666666666666,
       "characterCount": 607,
       "nonWhitespaceCharacterCount": 508,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 609
@@ -2223,6 +2624,8 @@
       "pageCount": 0.19,
       "characterCount": 337,
       "nonWhitespaceCharacterCount": 280,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 339
@@ -2234,6 +2637,8 @@
       "pageCount": 0.3,
       "characterCount": 545,
       "nonWhitespaceCharacterCount": 451,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 547
@@ -2245,6 +2650,8 @@
       "pageCount": 0.87,
       "characterCount": 1537,
       "nonWhitespaceCharacterCount": 1275,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 1543
@@ -2256,6 +2663,8 @@
       "pageCount": 0.023333333333333334,
       "characterCount": 31,
       "nonWhitespaceCharacterCount": 24,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 31
@@ -2267,6 +2676,8 @@
       "pageCount": 0.023333333333333334,
       "characterCount": 37,
       "nonWhitespaceCharacterCount": 29,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 37
@@ -2278,6 +2689,8 @@
       "pageCount": 0.07333333333333333,
       "characterCount": 128,
       "nonWhitespaceCharacterCount": 105,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446767,
       "modifiedDate": 1684145446767,
       "sizeInBytes": 128
@@ -2289,6 +2702,8 @@
       "pageCount": 1.1933333333333334,
       "characterCount": 2324,
       "nonWhitespaceCharacterCount": 1963,
+      "linkCount": 20,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 2340
@@ -2300,6 +2715,8 @@
       "pageCount": 0.30333333333333334,
       "characterCount": 545,
       "nonWhitespaceCharacterCount": 454,
+      "linkCount": 10,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 545
@@ -2311,6 +2728,8 @@
       "pageCount": 0.73,
       "characterCount": 1453,
       "nonWhitespaceCharacterCount": 1231,
+      "linkCount": 11,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 1471
@@ -2322,6 +2741,8 @@
       "pageCount": 0.4766666666666667,
       "characterCount": 972,
       "nonWhitespaceCharacterCount": 825,
+      "linkCount": 14,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 972
@@ -2333,6 +2754,8 @@
       "pageCount": 0.7866666666666666,
       "characterCount": 1492,
       "nonWhitespaceCharacterCount": 1253,
+      "linkCount": 11,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 1498
@@ -2344,6 +2767,8 @@
       "pageCount": 0.05,
       "characterCount": 121,
       "nonWhitespaceCharacterCount": 105,
+      "linkCount": 0,
+      "embedCount": 2,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 121
@@ -2355,6 +2780,8 @@
       "pageCount": 1.17,
       "characterCount": 2016,
       "nonWhitespaceCharacterCount": 1665,
+      "linkCount": 16,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 2030
@@ -2366,6 +2793,8 @@
       "pageCount": 0.71,
       "characterCount": 1222,
       "nonWhitespaceCharacterCount": 1008,
+      "linkCount": 4,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 1226
@@ -2377,6 +2806,8 @@
       "pageCount": 0.71,
       "characterCount": 1309,
       "nonWhitespaceCharacterCount": 1094,
+      "linkCount": 11,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 1322
@@ -2388,6 +2819,8 @@
       "pageCount": 0.9633333333333334,
       "characterCount": 1829,
       "nonWhitespaceCharacterCount": 1536,
+      "linkCount": 7,
+      "embedCount": 0,
       "createdDate": 1684145446707,
       "modifiedDate": 1684145446707,
       "sizeInBytes": 1849
@@ -2399,6 +2832,8 @@
       "pageCount": 0.03,
       "characterCount": 40,
       "nonWhitespaceCharacterCount": 31,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 40
@@ -2410,6 +2845,8 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 156,
       "nonWhitespaceCharacterCount": 137,
+      "linkCount": 1,
+      "embedCount": 2,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 156
@@ -2421,6 +2858,8 @@
       "pageCount": 0.03,
       "characterCount": 41,
       "nonWhitespaceCharacterCount": 32,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 41
@@ -2432,6 +2871,8 @@
       "pageCount": 0.08,
       "characterCount": 164,
       "nonWhitespaceCharacterCount": 139,
+      "linkCount": 2,
+      "embedCount": 1,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 164
@@ -2443,6 +2884,8 @@
       "pageCount": 0.1,
       "characterCount": 172,
       "nonWhitespaceCharacterCount": 139,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 172
@@ -2454,6 +2897,8 @@
       "pageCount": 0.03333333333333333,
       "characterCount": 51,
       "nonWhitespaceCharacterCount": 41,
+      "linkCount": 0,
+      "embedCount": 0,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 51
@@ -2465,6 +2910,8 @@
       "pageCount": 0.5166666666666667,
       "characterCount": 884,
       "nonWhitespaceCharacterCount": 728,
+      "linkCount": 2,
+      "embedCount": 0,
       "createdDate": 1684145446699,
       "modifiedDate": 1684145446699,
       "sizeInBytes": 886
