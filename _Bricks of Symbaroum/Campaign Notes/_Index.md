@@ -2,10 +2,24 @@
 tags: reference
 ---
 # Campaign Session Notes
-```dataview
-TABLE year, month, synopsis, players, date
-FROM #session AND "_Bricks of Symbaroum/Campaign Notes"
-SORT date ASC
+```dataviewjs
+let pages = dv.pages('"_Bricks of Symbaroum/Campaign Notes"');
+
+for (let group of pages.groupBy(b => b.file.folder)) {
+	var arc = group.key.match(/([^\/]*)\/*$/)[1]
+	dv.header(3, arc); 
+	dv.table(["session", "synopsis", "players", "date"], 
+		group.rows
+			.sort(k => k.date, 'asc')
+			.map(k => [
+				k.file.link,
+				k.synopsis,
+				k.players,
+				k.date
+			]
+		)
+	);
+}
 ```
 ***
 # Quests
