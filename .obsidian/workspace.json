@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "74bff35482edd229",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "62a89aad9555a5a3",
             "type": "leaf",
             "pinned": true,
@@ -19,16 +29,6 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "10a5f537b3394f03",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
               "pinned": true
             }
           }
@@ -119,8 +119,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -129,7 +130,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": true,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#place",
@@ -220,7 +221,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5943143512528437,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -245,7 +246,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+              }
             }
           },
           {
@@ -254,6 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,6 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -292,33 +297,39 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "10a5f537b3394f03",
+  "active": "62a89aad9555a5a3",
   "lastOpenFiles": [
-    "People/Eferneya.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
-    "People/Player Characters/Niho.md",
-    "Items/Cut-Co Knives.md",
-    "Beasts/Dragoul.md",
+    "_Bricks of Symbaroum/Quests/_incomplete.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
-    "_Bricks of Symbaroum/Quests/📜 Find the Flayer.md",
-    "People/Player Characters/Ja-door Freumage.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 The Last Stand.md",
-    "Items/Hurian's Skull.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
-    "People/Gorak.md",
-    "People/Captain Marvello.md",
-    "People/Gadramon.md",
-    "Events/Halaran's Cataclysm.md",
-    "Events/Attack of Eloan-Eo.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
-    "People/The Flayer.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
-    "_Bricks of Symbaroum/Stories/Call of Business.md",
-    "Places/Davokar/Jerak's Stinkhole.md",
     "_Bricks of Symbaroum/Stories/Another story by Chat GPT.md",
     "_Bricks of Symbaroum/Stories/A story by ChatGPT.md",
-    "People/Player Characters/Andor Dawnsinger.md",
-    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
-    "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md"
+    "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Zweigles are People.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Sweaty & Desperate.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Mystery at Dim Water.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Knock Knock.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Impromptu Exorcism.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Hatching a Plan.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Happy Little Accidents.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Gathering Intel, Part 2.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Gathering Intel, Part 1.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 First Nights Out.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Fire in the Hole.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Exploring the Tower.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Early Days.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Curse of the River Goddess.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Close Calls.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Calm Before the Storm.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Breaking and Entering.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 3.md",
+    "_Bricks of Symbaroum/Campaign Notes/📓 Beach Episode - Part 2.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - The Bell Tolls",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast",
+    "_Bricks of Symbaroum/Campaign Notes/Prologue - The Gathering Storm/Part 1",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm",
+    "Templates/Scripts/treeview.js",
+    "Templates/Scripts"
   ]
 }
