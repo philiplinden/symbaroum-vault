@@ -5,3 +5,5 @@ desktop.ini
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
+.obsidian/workspace.json
+.obsidian/plugins/novel-word-count/data.json
