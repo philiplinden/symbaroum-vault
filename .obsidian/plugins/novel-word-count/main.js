@@ -97,6 +97,7 @@ var CountType;
   CountType2["Character"] = "character";
   CountType2["Link"] = "link";
   CountType2["Embed"] = "embed";
+  CountType2["Alias"] = "alias";
   CountType2["Created"] = "created";
   CountType2["Modified"] = "modified";
   CountType2["FileSize"] = "filesize";
@@ -110,6 +111,7 @@ var countTypeDisplayStrings = {
   [CountType.Character]: "Character Count",
   [CountType.Link]: "Link Count",
   [CountType.Embed]: "Embed Count",
+  [CountType.Alias]: "First Alias",
   [CountType.Created]: "Created Date",
   [CountType.Modified]: "Last Updated Date",
   [CountType.FileSize]: "File Size"
@@ -123,6 +125,7 @@ var countTypes = [
   CountType.Character,
   CountType.Link,
   CountType.Embed,
+  CountType.Alias,
   CountType.Created,
   CountType.Modified,
   CountType.FileSize
@@ -208,6 +211,7 @@ var FileHelper = class {
       nonWhitespaceCharacterCount: 0,
       linkCount: 0,
       embedCount: 0,
+      aliases: null,
       createdDate: 0,
       modifiedDate: 0,
       sizeInBytes: 0
@@ -276,6 +280,7 @@ var FileHelper = class {
       nonWhitespaceCharacterCount: 0,
       linkCount: 0,
       embedCount: 0,
+      aliases: [],
       createdDate: file.stat.ctime,
       modifiedDate: file.stat.mtime,
       sizeInBytes: file.stat.size
@@ -307,7 +312,8 @@ var FileHelper = class {
       characterCount,
       nonWhitespaceCharacterCount,
       linkCount: this.countLinks(metadata),
-      embedCount: this.countEmbeds(metadata)
+      embedCount: this.countEmbeds(metadata),
+      aliases: (0, import_obsidian.parseFrontMatterAliases)(metadata.frontmatter)
     });
   }
   shouldCountFile(metadata) {
@@ -539,6 +545,11 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
         return abbreviateDescriptions ? `${counts.linkCount.toLocaleString()}x` : getPluralizedCount("link", counts.linkCount);
       case CountType.Embed:
         return abbreviateDescriptions ? `${counts.embedCount.toLocaleString()}em` : getPluralizedCount("embed", counts.embedCount);
+      case CountType.Alias:
+        if (!counts.aliases || !Array.isArray(counts.aliases) || !counts.aliases.length) {
+          return null;
+        }
+        return abbreviateDescriptions ? `${counts.aliases[0]}` : `alias: ${counts.aliases[0]}${counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""}`;
       case CountType.Created:
         if (counts.createdDate === 0) {
           return "";
