@@ -2,7 +2,7 @@
 tags: session
 date: 2023-05-09
 players: David, Drew, Abhra, Faris, Kellie
-synopsis: 
+synopsis: The flayer is vanquished and the copper crown is destroyed.
 year: 22
 month: 1
 ---
