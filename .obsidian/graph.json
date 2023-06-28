@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-tag:#reference -tag:#story -tag:#session",
+  "collapse-filter": true,
+  "search": "-tag:#reference -tag:#ai",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -95,6 +95,6 @@
   "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.479878051452571,
+  "scale": 0.9700576261000943,
   "close": true
 }

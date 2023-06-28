@@ -1,5 +1,5 @@
 ---
-tags: story
+tags: story, ai
 ---
 In the [[Sun Temple]] of [[Thistle Hold]], [[Brother Hank]]'s sermons were legendary, but not for the reasons he imagined. Oblivious to his lack of oratory skills, he reveled in his own verbosity, believing himself to be a master of the spoken word. His long-winded sermons were peppered with tangents, meandering anecdotes, and obscure references that left the congregation bewildered.
 

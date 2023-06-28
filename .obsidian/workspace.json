@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "9789d1a2ba8708da",
+            "id": "0dc8b2036fdb8d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.01103591918945
+    "width": 369.5
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,7 +143,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": true,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#place",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,8 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,19 +309,21 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "9789d1a2ba8708da",
+  "active": "0dc8b2036fdb8d4f",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "_Bricks of Symbaroum/Stories/A story by ChatGPT.md",
+    "Items/Three-Arrows Buckle.md",
+    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+    "_Bricks of Symbaroum/Stories/Another story by Chat GPT.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 The Last Stand.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 Happy Little Accidents.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 Zweigles are People.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 Disturbing Findings.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 Early Days.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm",
     "_Bricks of Symbaroum/Quests/_incomplete.md",
-    "_Bricks of Symbaroum/Stories/Another story by Chat GPT.md",
-    "_Bricks of Symbaroum/Stories/A story by ChatGPT.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 the last stand.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 The Start of Something New.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 Sweaty & Desperate.md",
@@ -338,8 +339,6 @@
     "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 Curse of the River Goddess.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 Close Calls.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast/📓 Calm Before the Storm.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 Breaking and Entering.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 Beach Episode - Part 3.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - The Bell Tolls",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 2 - Mark of the Beast",
     "_Bricks of Symbaroum/Campaign Notes/Prologue - The Gathering Storm/Part 1",
