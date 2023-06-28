@@ -18,5 +18,6 @@
     "downscalePercent": 86
   },
   "promptDelete": false,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "readableLineLength": true
 }

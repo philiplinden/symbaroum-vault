@@ -1,5 +1,5 @@
 ---
-tags: story
+tags: story, ai
 ---
 
 The group of adventurers has received a request from the nearby town of [[Thistle Hold]]. The villagers have reported strange happenings in the [[Davokar]] Forest and have asked for help in investigating. The group is informed that a group of loggers had gone missing while exploring a particularly dense area of the forest, and it is believed that they may have stumbled upon something dangerous.
