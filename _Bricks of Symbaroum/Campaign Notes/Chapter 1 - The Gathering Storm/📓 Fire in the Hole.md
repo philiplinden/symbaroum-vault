@@ -32,7 +32,7 @@ WHERE
 
 [[The Party]] evacuates the tower and waits.
 
-[[Lafarda's Tower]] explodes and collapses. [[Anadea]]’s sarcophagus is destroyed. [[Witches of Melima]] are not upset.
+[[Lafarda's Tower]] explodes and collapses. [[Aloéna]]’s sarcophagus is destroyed. [[Witches of Melima]] are not upset.
 
 [[Vanial-Lo]] and [[Aida-Eol]] disembark from the [[The River Maiden]] and leave for their home enclave. They leave before [[Trobela]] and [[Eran Kalfas|Eran]] discover them.
 
