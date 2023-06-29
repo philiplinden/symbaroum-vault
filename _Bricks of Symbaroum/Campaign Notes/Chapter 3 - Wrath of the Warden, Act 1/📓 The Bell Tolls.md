@@ -43,3 +43,5 @@ A commotion interrupts mealtime:
 > After that, the interpreter is asked to learn why they have come. [[Gadramon]] responds with a counter-question: “Has the well spoken?” When no one seems to comprehend what the witch refers to, he sternly comments: “No answer is answer enough.” The witch then asks for passage into the town and when asked why he says that they are here to help and that “the Huldra fears that a very potent source of corruption dwells at the heart of [[Thistle Hold]]”. More he cannot say. 
 > 
 > [[Gadramon]] claims that time is short and when [[Captain Marvello|Marvello]] states that he is not able to give them passage without the express permission of [[Lasifor Nightpitch|Mayor Nightpitch]], the witch stresses that such permission must be granted right now. In the meantime, he and [[Eferneya]] will return to the forest edge and wait.
+
+THe team tentatively names themselves _The Bridge_, or _Red Rockets_ (_Team Rocket_ for short)
