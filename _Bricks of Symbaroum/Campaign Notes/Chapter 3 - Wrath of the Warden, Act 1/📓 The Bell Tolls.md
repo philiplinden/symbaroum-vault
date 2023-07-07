@@ -44,4 +44,11 @@ A commotion interrupts mealtime:
 > 
 > [[Gadramon]] claims that time is short and when [[Captain Marvello|Marvello]] states that he is not able to give them passage without the express permission of [[Lasifor Nightpitch|Mayor Nightpitch]], the witch stresses that such permission must be granted right now. In the meantime, he and [[Eferneya]] will return to the forest edge and wait.
 
-THe team tentatively names themselves _The Bridge_, or _Red Rockets_ (_Team Rocket_ for short)
+[[The Party]] tentatively names themselves _The Bridge_, or _Red Rockets_ (_Team Rocket_ for short).
+
+- [[Smellia]] acts as an interpreter for [[Captain Marvello|Marvello]].
+- [[Gadramon]] and [[Eferneya]] warn about the bell.
+	- Later, [[Kerido]] covertly approaches them alone and finds more info about how there is corruption and how the bell works.
+	- [[Kerido]]’s status with [[Yeleta]] is improved
+
+Sinkhole emerges!
