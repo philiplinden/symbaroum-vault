@@ -21,7 +21,7 @@ WHERE
 > 
 
 > [!example] Quests
-> 
+> [[📜 Wrath of the Warden]]
 
 ## meanwhile…
 

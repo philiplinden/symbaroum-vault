@@ -15,3 +15,5 @@ Ja-door is an undead Wizard who has been long been part of the [[Ordo Magica]]. 
 Ja-door originally died because he was buried alive by mistake.
 
 During [[📓 The Last Stand]], Ja-door was possessed by the spirit of [[Hurian's Skull]] after it was destroyed.
+
+Ja-door is uniquely adept at aging cheese.
