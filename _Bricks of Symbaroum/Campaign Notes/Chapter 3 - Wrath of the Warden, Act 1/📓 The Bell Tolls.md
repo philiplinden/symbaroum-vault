@@ -18,7 +18,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[📓 fight club]]
 
 > [!example] Quests
 > [[📜 Wrath of the Warden]]
