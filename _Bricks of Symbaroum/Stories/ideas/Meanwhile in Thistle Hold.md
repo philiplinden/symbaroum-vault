@@ -22,7 +22,7 @@ tags: reference
 [[Sun Temple]]
 [[Father Elfeno]]
 [[Brother Hank]]
-[[Father Sarvola]]
+[[Sarvola Bargomol]]
 [[Malrek]]
 [[Lasifor Nightpitch|Mayor Nightpitch]]
 [[Twilight Friars]]
@@ -32,14 +32,14 @@ tags: reference
 ## Plot
 Show what [[Anadea]] has been up to while [[The Party]] has been away.
 She covertly reads forbidden texts in [[Father Elfeno]]’s study within [[Sun Temple]].
-Bits and pieces of drama with [[Father Sarvola]], set up why [[Deseba the Old|Deseba]] wants to protect him?
+Bits and pieces of drama with [[Sarvola Bargomol]], set up why [[Deseba the Old|Deseba]] wants to protect him?
 
 Hearing voices, [[Anadea]] hides.
 Show an interaction between [[Lasifor Nightpitch|Mayor Nightpitch]], high ranking members of the [[Sun Church]], [[Twilight Friars|Black Cloaks]], etc. where they debate the value in continuing a search for the crazy ramblings of a blighted monster hunter.
 - [[Lasifor Nightpitch|Mayor Nightpitch]] knows that if what [[Malrek]] says is true, all of [[Thistle Hold]] is in danger.
 - [[Twilight Friars|Black Cloaks]] want to take [[Malrek]] to the monastery to study his blight.
 - [[Sun Church]] want to find the headquarters of the [[Iron Pact]] (and destroy it).
-- [[Ordo Magica]] want to study geography of possible tunnel network, the underworld, and possible unknown barbarian clans.
+- [[Ordo Magica]] want to study geography of possible tunnel network, the [[underworld]], and possible unknown barbarian clans.
 
 The thought of sneaking into the dungeon to speak with [[Malrek]] is too much for [[Anadea]] to resist…
 

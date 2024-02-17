@@ -30,7 +30,7 @@ The crew went to [[Vernam's Academy|Vernam’s Academy]] and discovered he had b
 ![[vernam's letter to party.pdf]]
 
 [[Weston Sawyer|Weston]] finds [[Vernam's Academy|Vernam’s Academy]] [[Iron Pact Ring]].
-[[Bartolom]] discovers that [[the flayer]] used *Blood Shrouding* to assume his identity. The pile of skin below the corpse was brown hair elf.
+[[Bartolom]] discovers that [[Alahara]] used *Blood Shrouding* to assume his identity. The pile of skin below the corpse was brown hair elf.
 
 [[Niho]] found [[Master Vernam|Vernam]]’s letter to [[Lasifor Nightpitch|Mayor Nightpitch]], soaked in blood. [[Termo]] uses *Illusory Correction* to clean it off.
 ![[vernam's less bloody letter to nightpitch.pdf]]

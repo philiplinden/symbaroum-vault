@@ -1,10 +1,14 @@
 ---
 tags:
-- player-character
-- person
-- human
-aliases: []
+  - "#person"
+  - "#player-character"
+aliases: 
 player: Faris
+origin: human
+faction:
+  - ambrian
+  - ordo-magica
+player-character: true
 ---
 
 You are a novice in [[Ordo Magica]], [[Ambria]]’s biggest and most influential order of wizardry. When all others journeyed north you and your master stayed in [[Alberetor]] to study the dying earth, although you wanted nothing more than to tag along in search for the truth behind rumors about [[Davokar]]’s herbs and the magic of barbarian witches.

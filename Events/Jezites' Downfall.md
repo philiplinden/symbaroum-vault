@@ -6,7 +6,7 @@ year: 10
 month: 9
 ---
 
-[[@Throne1.ThistleHoldWrath|Wrath of the Warden]], p.12
+[[Throne of Thorns 1 - Wrath of the Warden|Wrath of the Warden]], p.12
 
 Everyone knows that Ambrian forces utterly defeated the barbarian warlord [[Haloban]] and his clan after a short siege in year 10. It is also commonly known that the Ambrian force captured [[Haloban]] alive and brought him back to [[Yndaros]] where he hung by the neck until dead; and that the Ambrian assault totally annihilated clan [[Jezora Clan]]. Aside from that, there are some discrepancies in the stories.
 

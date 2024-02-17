@@ -33,7 +33,6 @@ Yndaros today is built on the well-preserved ruins of the city-state [[Lindaros]
 	- The chieftain's oldest daughter refused to submit. She eloped to the mountains along with 200 Kadizans.
 	- The rest of the clan stayed and were put to work (as prisoners of war) transforming the city into a palace fit for [[Queen Korinthia]].
 
-[[@Rules.GamemasterGuide]],  p. 41
 > Few ever speak of the seven years that passed before [[Queen Korinthia]] arrived at her new [[Ambria|promised land]]. Everyone knows it was a dark time – a time of poverty, danger and endless exhaustion; a time of slavers; a time of death. The suffering was of course necessary, inevitable even, and the blame for the misery lies entirely on the moldering shoulders of the [[Dark Lords]]. But the Queen’s people prefer to remember the victories and triumphs, rather than the necessary evil that occurred in between.
 
 ## Year 7
@@ -59,8 +58,8 @@ Elves live dangerously in Yndaros. Not that many of its citizens have personally
 Naturally, no one dares lay a hand on [[Elori]] and his aides, as he is clearly on good terms with the [[Queen Korinthia|Queen of Ambria]]. But other elves (and changelings who in the haze of intoxication are mistaken for elves) have since become a greater target for [[Yndaros|Yndarian]] suspicion, loathing and aggression. The expression “a dead elf is a good elf” can be heard in public spaces throughout the city.
 
 ## Religious beliefs
-%% [[@Throne3.YndarosDarkestStar]], page 29 %%
-In Yndaros, [[Prios]] is ever present. His spirit watches over family dinners, court proceedings, business transactions, solemn ceremonies, births and deaths, and the people must all praise *“[[Prios]], the One”* in good times and in bad. The city’s residents still live as much in the shadow of war as they do in the radiance of triumph, and none are allowed to forget who brought victory to the Ambrians during [[the Great War]]. Guilt, gratitude and duty are recurring themes, preached by the First Theurg as well as his eminent liturgs – the Ambrian people have a long way to go before [[Prios]] has regained his strength; darkness must be vanquished, the wilds must be cleansed, and the gifts of the One must be harvested and cultivated. And these themes are undoubtedly being given a more prominent role with each passing year.
+%% [[Throne of Thorns 3 - Darkest Star]], page 29 %%
+In Yndaros, [[Prios]] is ever present. His spirit watches over family dinners, court proceedings, business transactions, solemn ceremonies, births and deaths, and the people must all praise *“[[Prios]], the One”* in good times and in bad. The city’s residents still live as much in the shadow of war as they do in the radiance of triumph, and none are allowed to forget who brought victory to the Ambrians during [[The Great War]]. Guilt, gratitude and duty are recurring themes, preached by the First Theurg as well as his eminent liturgs – the Ambrian people have a long way to go before [[Prios]] has regained his strength; darkness must be vanquished, the wilds must be cleansed, and the gifts of the One must be harvested and cultivated. And these themes are undoubtedly being given a more prominent role with each passing year.
 
 # Points of Interest
 ```dataview

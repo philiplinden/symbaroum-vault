@@ -5,6 +5,7 @@ tags:
 - ambrian
 aliases:
 - Promised Land
+region: "[[Ambria]]"
 ---
 
 #map ![[Kingdom_of_Ambria.png]]

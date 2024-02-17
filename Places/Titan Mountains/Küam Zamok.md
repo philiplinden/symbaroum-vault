@@ -1,9 +1,8 @@
 ---
 tags:
-- place
-- region
-- city
-- dwarf
+  - place
+  - city
+  - dwarf
 ---
 
 Küam Zamok is the ancestral home of #dwarf clans.

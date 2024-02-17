@@ -53,7 +53,7 @@ Returns to the [[Knights of the Dying Sun|Templar]] training grounds.
 - Visits [[Ordo Magica Library|the library]] to learn more about the connection between elves and changelings
 
 ### [[Khargon Tarzibczie|Khargon]]
-Tracks down [[Gadramei]] to learn more about what he owes.
+Tracks down [[Gadramei Ilstaler]] to learn more about what he owes.
 - Seeks to find out how the [[Tibzibsee|Tarzibczie]] family is involved.
 - Contacts his family to confront or negotiate about the reason for hiring [[📜 Tarzibczie Spies]].
 - Visits [[Ordo Magica Library|the library]] to learn more about alchemy.

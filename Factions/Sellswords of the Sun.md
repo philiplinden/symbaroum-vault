@@ -9,7 +9,7 @@ Composed mostly of failed fortune hunters, discharged guardsmen/soldiers, and cr
 
 HQ is located in *Nevada* block of [[Thistle Hold]].
 
-![[Pasted image 20230101142152.png]]
+![[sellsword_of_the_sun.jpeg]]![[Pasted image 20230101142152.png]]
 
 **Members:**
 - [[Dolani]]

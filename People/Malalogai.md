@@ -6,6 +6,6 @@ tags:
 aliases: []
 ---
 Member of the [[Twilight Friars|Black Cloaks]].
-[[Sun Church]] “consul” to [[Gadramei]], seeking intel on [[Iron Pact]] activity.
+[[Sun Church]] “consul” to [[Gadramei Ilstaler]], seeking intel on [[Iron Pact]] activity.
 
 ![[Pasted image 20230101145907.png]]

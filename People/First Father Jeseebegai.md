@@ -10,4 +10,4 @@ The First Father even wants barbarian witches to appear as allied to evil.
 
 Leader of [[Sun Church]].
 
-Antagonist to [[Father Sarvola]].
+Antagonist to [[Sarvola Bargomol]].

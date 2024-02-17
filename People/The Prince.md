@@ -4,5 +4,6 @@ tags:
 - pseudonym
 ---
 
-Puppet master of [[Erlaber Ambreagos]].
-Perhaps the same person as [[Uncle Sam]]?
+Puppet master of [[Erlaber Ambreagos]], and an anonymity alias. Member of 
+
+True identity is [[Agramai Kalfas]].
