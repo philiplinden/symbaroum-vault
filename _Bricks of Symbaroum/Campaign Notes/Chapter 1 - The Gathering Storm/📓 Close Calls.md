@@ -32,13 +32,13 @@ The crowd begins to sway in favor of [[Burak O'Bema|Burak]].
 [[Trobela]], chased by [[Eran Kalfas]] (possessed) and two [[Dragoul]]s, reaches [[The Party]]. [[Kerido]] intercepts the action as well.
 
 [[The Party]] and [[Burak O'Bema|Burak]] put their disagreement on hold and fend off the monsters.
-The [[Nightmare]] leaves [[Eran Kalfas|Eran]] and possesses [[Smellia|Smellie]], leaving him mortally wounded and helpless.
+The [[Nightmare (monster)]] leaves [[Eran Kalfas|Eran]] and possesses [[Smellia|Smellie]], leaving him mortally wounded and helpless.
 
 [[Trobela]] stabilizes [[Eran Kalfas|Eran]].
 
-[[The Party]] and [[Burak O'Bema|Burak]] defeat the [[Dragoul]]s, but can’t shake the [[Nightmare]] from [[Smellia]].
+[[The Party]] and [[Burak O'Bema|Burak]] defeat the [[Dragoul]]s, but can’t shake the [[Nightmare (monster)]] from [[Smellia]].
 
-[[Smellia]] resists possession by fighting *Ronald Frump*, an incarnation of everyone she hates, within her mind’s eye. She does not regain control, but she does not allow the [[Nightmare]] to control her body.
+[[Smellia]] resists possession by fighting *Ronald Frump*, an incarnation of everyone she hates, within her mind’s eye. She does not regain control, but she does not allow the [[Nightmare (monster)]] to control her body.
 
 [[Burak O'Bema|Burak]] tries to get a cheap-shot on [[The Party]] but surrenders within an inch of death. [[The Party]] spares him in exchange for the information he has about the [[📜 Lindworm Hunt]].
 

@@ -4,3 +4,4 @@ tags:
 - human
 - ambrian
 ---
+![[orai.jpeg]]

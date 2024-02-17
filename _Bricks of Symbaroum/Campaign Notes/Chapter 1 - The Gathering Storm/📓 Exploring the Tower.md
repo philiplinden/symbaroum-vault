@@ -39,7 +39,7 @@ Lightning strikes the copper rod, numbing the rest of [[Andor Dawnsinger|Andor]]
 
 [[Trobela]] leads the group to the basement where she escaped. There was a dry well that she climbed up, but it looks like it is now filled with water! [[Artek Alzerek|Artek]] sees through the illusion and climbs down into the well, having been turned invisible by [[Kerido]].
 
-[[Artek Alzerek|Artek]] explores the [[Tunnels Beneath Lafarda's Tower|tunnels beneath Lafarda’s Tower]] and nearly gets found by [[Dragoul]] scouts that are searching the [[Lindworm Tunnels]] for [[Trobela]]. He explores the south end and luckily is still invisible or else he would have been seen by a famished Rage Troll that made camp beneath the tower.
+[[Artek Alzerek|Artek]] explores the [[Places/Ambria/Thistle Hold/Tunnels Beneath Lafarda's Tower|tunnels beneath Lafarda’s Tower]] and nearly gets found by [[Dragoul]] scouts that are searching the [[Lindworm Tunnels]] for [[Trobela]]. He explores the south end and luckily is still invisible or else he would have been seen by a famished Rage Troll that made camp beneath the tower.
 
 The troll butchers a dead [[Dragoul]] for food.
 

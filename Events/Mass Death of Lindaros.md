@@ -7,7 +7,7 @@ year: -200
 season: null
 ---
 
-[[@Throne3.YndarosDarkestStar|The Darkest Star]], p.13
+[[Throne of Thorns 3 - Darkest Star|The Darkest Star]], p.13
 
 Archivists from [[Ordo Magica]] speculate that the reason for such rapid collapse of the city-state and (apparently) total decline of the population was due to an epidemic of a mysterious *bleeding disease*. The clergy holds that [[Lindaros|Lindarians]] were punished by [[Prios]] for living in arrogance and slothfulness, and thus purged from the land.
 

@@ -1,9 +1,0 @@
-{
-  "citationExportFormat": "csl-json",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "References",
-  "literatureNoteContentTemplate": "---\ntags:\n- reference\naliases:\n- {{title}}\n- {{titleShort}}\n---\n[Open in Zotero]({{zoteroSelectURI}})\n\n{{abstract}}",
-  "markdownCitationTemplate": "[[@{{citekey}}|{{titleShort}}]]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "References/Symbaroum.json"
-}

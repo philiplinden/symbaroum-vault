@@ -1,13 +1,13 @@
 ---
 tags:
-- person
-- human
-- ambrian
-- nobility
+  - person
+  - human
+  - ambrian
+  - nobility
 aliases:
-- Herakleo
+  - Herakleo
+  - Key Master
 ---
-[[@Throne3.YndarosDarkestStar]], page 28
 > Though [[Yndaros]] is formally run from the Key Master Seat, it is common knowledge that Herakleo Attio and his colleagues are working in the Queen’s shadow – at the end of the day, everything they do requires [[Queen Korinthia|Korinthia]]’s implicit or explicit approval. It would therefore be unfair to blame the Key Master for the increasingly harsh rhetoric and measures used against displeasing elements.
 >
 > Herakleo oversees and coordinates the administration at the Key Master Seat, but all major decisions are made in consultation with the leaders of its other branches, or at the top – by the Queen and her council.

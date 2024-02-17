@@ -14,7 +14,7 @@ In fact the codex is a ~~tome~~ of forbidden ancient magic, written in the days 
 
 The codex was eventually confiscated by a Symbarian noble, [[Na-Ethikel Ambreagos]], who used its power to assemble an undead army.
 
-The codex describes ancient magics that [[Erlaber Ambreagos]] intends to use for foul means. See [[@Throne1.ThistleHoldWrath]].
+The codex describes ancient magics that [[Erlaber Ambreagos]] intends to use for foul means. See [[Throne of Thorns 1 - Wrath of the Warden]].
 
 The codex is believed to be a *book* or *tome*, but it is in fact a magical pearl imbued with the memories and emotions of the Ambreagos clan.
 

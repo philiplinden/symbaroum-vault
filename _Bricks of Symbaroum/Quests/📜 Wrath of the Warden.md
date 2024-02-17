@@ -1,19 +1,20 @@
 ---
-tags: quest
-active: false
+tags:
+  - quest
+active: true
 complete: false
 reward: 0
 ---
+[[Errata - 2024-01-08]]
+```ad-example
+title: Sessions
+collapse: open
 
-## Info
-**Objectives:** 
-**Stakeholders:** 
-**Reward:**  0 thaler
-```math
-reward = 0 # thaler
-boss_cut = 0.25 # percent
-party_cut = reward * (1 - boss_cut)
-per_person = party_cut / 5 # thaler per person
+```dataview
+LIST
+FROM #session
+WHERE contains(file.folder, "Wrath of the Warden")
+SORT date ASC
 ```
 
-## Progress & Updates
+# GM Notes

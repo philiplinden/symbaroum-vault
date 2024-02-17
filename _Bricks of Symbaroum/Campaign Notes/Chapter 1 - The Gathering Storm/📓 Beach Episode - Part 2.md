@@ -23,10 +23,10 @@ WHERE
 > [!example] Quests
 > [[📜 Tarzibczie Spies]], [[📜 Get Aida-Eol back home]]
 
-[[Khargon Tarzibczie|Khargon]] speaks one-on-one with [[Gadramei]].
-He calls [[Gadramei]]’s bluff and reveals that he is not actually a spy of the Queen, but rather a mercenary hired by [[Tibzibsee]].
+[[Khargon Tarzibczie|Khargon]] speaks one-on-one with [[Gadramei Ilstaler]].
+He calls [[Gadramei Ilstaler]]’s bluff and reveals that he is not actually a spy of the Queen, but rather a mercenary hired by [[Tibzibsee]].
 
-[[Khargon Tarzibczie|Khargon]] cuts a deal with [[Gadramei]]:
+[[Khargon Tarzibczie|Khargon]] cuts a deal with [[Gadramei Ilstaler]]:
 - Let [[Aida-Eol]] go.
 - Don’t tell anyone about meeting.
 - Maybe work together in the future, such as making deals exchanging intel.

@@ -7,7 +7,7 @@ month: 6
 ---
 ---
 
-[[@Throne3.YndarosDarkestStar]], page 25
+[[Throne of Thorns 3 - Darkest Star]], page 25
 
 Ever since [[Queen Korinthia]]’s decree to establish a guild system was enacted in year 19, all craftsmen in [[Yndaros]] have worked within a strict hierarchy.
 

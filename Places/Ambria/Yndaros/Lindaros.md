@@ -39,4 +39,4 @@ Much of today’s [[Yndaros]] consists of restored and expanded structures from 
 
 It is clear that, eventually, they all perished due to a terrible bleeding disease (*See [[Mass Death of Lindaros]])*.[^1] 
 
-[^1]: In Year 16, there was an outbreak of the *Blood Spray Disease* in [[Thistle Hold]], killing 500-1000 humans. The origin of the disease was never found, but rumors abound. A direct connection has not been made between the *Blood Spray Disease* and the fall of Lindaros. *See: [[@Throne1.ThistleHoldWrath]] p. 13-14*
+[^1]: In Year 16, there was an outbreak of the *Blood Spray Disease* in [[Thistle Hold]], killing 500-1000 humans. The origin of the disease was never found, but rumors abound. A direct connection has not been made between the *Blood Spray Disease* and the fall of Lindaros. *See: [[Throne of Thorns 1 - Wrath of the Warden]] p. 13-14*

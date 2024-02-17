@@ -32,7 +32,7 @@ WHERE
 [[Aida-Eol]] gets drunk, so [[Smellia|Smellie]] ushers him back to the [[The River Maiden]].
 [[Kerido]] is led to the coven of [[Witches of Melima]] by [[Kora]].
 
-[[Khargon Tarzibczie|Khargon]] approaches [[Mira]] to discuss [[Gadramei]] while [[Andor Dawnsinger|Andor]] spies from the tavern roof. Nothing fruitful comes from the conversation except that the connection is now established.
+[[Khargon Tarzibczie|Khargon]] approaches [[Mira]] to discuss [[Gadramei Ilstaler]] while [[Andor Dawnsinger|Andor]] spies from the tavern roof. Nothing fruitful comes from the conversation except that the connection is now established.
 [[Mira]] makes a derogatory comment about elves and it sets [[Andor Dawnsinger|Andor]] off. He charges [[Mira]] but she deftly counters and nearly cuts off his ear (claiming that they sell for a good price on the black market). [[Khargon Tarzibczie|Khargon]] pays her off.
 
 [[Artek Alzerek|Artek]] quietly tails [[Burak O'Bema]] from the tavern to a barn that doubles as a cock-fighting ring and gambling den. He sneaks inside and is confronted by [[Burak O'Bema|Burak]], who admits to being a monster hunter and claims to be hunting the *elder sow* (to [[Artek Alzerek|Artek]]’s disappointment).

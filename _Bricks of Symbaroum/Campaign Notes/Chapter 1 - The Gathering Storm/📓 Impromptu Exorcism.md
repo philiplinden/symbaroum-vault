@@ -27,10 +27,10 @@ WHERE
 
 [[The Party]] convinces the captain of [[The River Maiden]] to remain in port another day.
 
-[[Trobela]] begins an exorcism to rid [[Smellia|Smellie]] of the [[Nightmare]].
+[[Trobela]] begins an exorcism to rid [[Smellia|Smellie]] of the [[Nightmare (monster)]].
 - [[Burak O'Bema|Burak]] initially begins to help, but gets in another argument with
 - [[Smellia|Smellie]] is placed in an ice bath.
 - [[Kerido]] uses *Message* to call give her mental strength.
-- After several hours of ritual, the exorcism removes the [[Nightmare]] from her body.
+- After several hours of ritual, the exorcism removes the [[Nightmare (monster)]] from her body.
 - [[Andor Dawnsinger|Andor]] and [[Artek Alzerek|Artek]] seize the opportunity to kill the hell out of it.
 - [[Smellia]] is free.

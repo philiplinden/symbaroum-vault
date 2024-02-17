@@ -1,0 +1,7 @@
+---
+tags:
+- person
+- human
+aliases: []
+---
+

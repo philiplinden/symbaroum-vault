@@ -28,7 +28,7 @@ WHERE
 
 [[Kerido]] requests [[Khargon Tarzibczie|Khargon]] join them at the tower with his explosives.
 
-[[Khargon Tarzibczie|Khargon]] goes down the well into the [[Tunnels Beneath Lafarda's Tower]] and sets all of his explosives, with a long fuse.
+[[Khargon Tarzibczie|Khargon]] goes down the well into the [[Places/Ambria/Thistle Hold/Tunnels Beneath Lafarda's Tower]] and sets all of his explosives, with a long fuse.
 
 [[The Party]] evacuates the tower and waits.
 

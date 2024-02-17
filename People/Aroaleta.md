@@ -9,6 +9,6 @@ Well known barbarian mystic of long ago. The true history of Aroaleta’s life i
 
 [[Witches of Melima]] worship Aroaleta directly, and [[Girind]] is likely a direct descendant.
 
-Aroaleta is laid to rest in a sarcophagus in the [[Tunnels Beneath Lafarda's Tower|tunnels beneath Lafarda’s Tower]].
+Aroaleta is laid to rest in a sarcophagus in the [[Places/Ambria/Thistle Hold/Tunnels Beneath Lafarda's Tower|tunnels beneath Lafarda’s Tower]].
 
 ![[Pasted image 20230101185731.png]]

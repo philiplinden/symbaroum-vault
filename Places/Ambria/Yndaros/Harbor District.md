@@ -1,7 +1,7 @@
 ---
 tags:
-- place
-- neighborhood
+  - place
+  - point-of-interest
 ---
 ![[yndaros-triumph-plaza.png|Trade continues as the vessels headed for the Islet are boarded – an evening like any other by the harbor of Yndaros.]]
 ![[yndaros-districts.webp]]

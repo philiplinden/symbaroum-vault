@@ -23,7 +23,7 @@ WHERE
 > [!example] Quests
 > [[📜 Tarzibczie Spies]], [[📜 Get Aida-Eol back home]]
 
-A tense scene as [[Khargon Tarzibczie|Khargon]] confers privately with [[Gadramei]].
+A tense scene as [[Khargon Tarzibczie|Khargon]] confers privately with [[Gadramei Ilstaler]].
 [[Ivar]] attempts to interrogate [[Aida-Eol]] (in elvish) but is unsuccessful.
 [[Malalogai]] says nothing but has an imposing presence. He fails to detect [[Kerido]]’s undeath.
 

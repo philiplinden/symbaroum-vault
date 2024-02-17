@@ -29,6 +29,6 @@ They take some time to relax.
 
 [[Kerido]] walks along the bottom of the lake and finds an amulet. The amulet derives its power from [[Eox]], who briefly appears before [[Kerido]] in a vision.
 
-[[Aida-Eol]] scampers onto the beach from the forest, trailed by [[Gadramei]], [[Ivar]], and [[Malalogai]]. [[Khargon Tarzibczie|Khargon]] shoots a flare from his firetube into the sky.
+[[Aida-Eol]] scampers onto the beach from the forest, trailed by [[Gadramei Ilstaler]], [[Ivar]], and [[Malalogai]]. [[Khargon Tarzibczie|Khargon]] shoots a flare from his firetube into the sky.
 
 A boat sailing along the north side of the lake ([[The River Maiden]]) changes course after seeing the flare and heads to the beach.
