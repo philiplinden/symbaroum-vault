@@ -115,7 +115,7 @@ spheres instead of rings. Moreover, everyone feels how the
 surges bring with them an instant nausea that inspires dark
 thoughts and murderous impulses.
 
-Erlaber transforms into the _Prince of the Abyss_
+[[Erlaber Ambreagos|Erlaber]] transforms into the _Prince of the Abyss_
 ![[Pasted image 20240213220510.png]]![[Pasted image 20240213230326.png]]
 
 ### Phase IV
