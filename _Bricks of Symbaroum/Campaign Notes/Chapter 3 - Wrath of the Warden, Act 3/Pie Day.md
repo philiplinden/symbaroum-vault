@@ -24,7 +24,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> [[showdown]]
+> [[Sgt. Pepper's Bleeding Hearts Cult Band]]
 
 > [!example] Quests
 > [[📜 Wrath of the Warden]]
