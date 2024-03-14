@@ -24,7 +24,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[showdown]]
 
 > [!example] Quests
 > [[📜 Wrath of the Warden]]
@@ -61,3 +61,7 @@ When [[the party]] is discovered, it takes 2-4 rounds to cast a spell that opens
 
 When [[Desidera]] sees that [[Erlaber Ambreagos|Erlaber]] has fled, she casts an evil version of _Magic Circle_ that teleports her to circle in [[Ordo Tower]]. It takes 1 full round of concentration to complete.
 ![[Pasted image 20240213003101.png]]
+### Escape 
+A ritual is used with [[Codex Ambreagosa]] (consuming the item) and opens a portal to the [[Crystal Isle]] through the [[Yonderworld]]. This ritual causes all in the vicinity to suffer loads of corruption, and temporarily stunned which ends up turning about half of the cultists into blight beasts.
+
+[[Erlaber Ambreagos|Erlaber]] and [[Manaloum]] escape through the portal. It closes behind them.
