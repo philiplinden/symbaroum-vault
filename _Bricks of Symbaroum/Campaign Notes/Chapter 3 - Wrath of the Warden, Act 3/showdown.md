@@ -1,13 +1,14 @@
 ---
-class: session
+class:
+  - session
 tags:
   - "#session"
-players: 
-date: ""
+players: David, Drew, Abhra, Kellie
+date: 2024-03-13
 synopsis: 
 month: 
 year: 
-fields: []
+fields: 
 version: "2.0"
 ---
 
@@ -28,17 +29,26 @@ WHERE
 > [!example] Quests
 > 
 
-### Escape 
-A ritual is used with [[Codex Ambreagosa]] (consuming the item) and opens a portal to the [[Crystal Isle]] through the [[Yonderworld]]. This ritual causes all in the vicinity to suffer loads of corruption, and temporarily stunned which ends up turning about half of the cultists into blight beasts.
 
-[[Erlaber Ambreagos|Erlaber]] and [[Manaloum]] escape through the portal. It closes behind them.
+# GM Notes
+![[Erlaber Ambreagos#^2114cb]]
+![[Yonderworld#Undeath is inverted with life]]
+
+### Yonderworld Chase
+Basically "the upside down" but with eons of weathering and erosion, and everything withered away into corrupted ash.
+
+[[Yonderworld]] version of thistle hold:
+- looks like the [[Jezora Clan|jezite]] citadel?
+- in the distance you can see the inverse of the ravine made by the cataclysm
 
 → If the players enter the [[Yonderworld]], there is a battle.
 	[[Erlaber Ambreagos|Erlaber]] continues to flee while his subordinates stall [[the party]]. Monsters hostile to both groups cause trouble.
 → If the players do not go to the [[Yonderworld]], set a timer for 3 "loose rounds" where players can act in any order. Each round takes 5 mins or so.
 	At the end of the timer, the ritual begins whether or not the players are there. (See [[#Showdown vs Erlaber]]). After one 5 min round, [[#Phase II]] is complete. [[#Phase III]] takes another 5 min round to complete. After two "loose rounds", the transformation is complete.
 ### Siege
-[[Na-Ethikel Ambreagos|Na-Ethikel]]'s Horde attempts to siege [[Thistle Hold]] from the north. [[Na-Ethikel Ambreagos|Na-Ethikel]] was headed to the Hold to recover [[Codex Ambreagosa]]. When it is destroyed, he seeks to destroy [[Erlaber Ambreagos|Erlaber]] or absorb power of the [[crystal isle]] for himself if [[Erlaber Ambreagos|Erlaber]] is already dead.
+[[Na-Ethikel Ambreagos|Na-Ethikel]]'s Horde attempts to siege [[Thistle Hold]] from the north. [[Na-Ethikel Ambreagos|Na-Ethikel]] was headed to the Hold to recover [[Codex Ambreagosa]]. When it is destroyed, he seeks to destroy [[Erlaber Ambreagos|Erlaber]] or absorb power of the [[crystal isle]] for himself if [[Erlaber Ambreagos|Erlaber]] is already dead. 
+
+[[Na-Ethikel Ambreagos|Na-Ethikel]]'s ultimate goal is to permanently open a portal to the [[Yonderworld]] in order to have unlimited rule over the overworld with an endless undead army.
 
 [[Iron Pact]] elf warriors attack the horde, but do not go out of their way to protect [[Thistle Hold]]. They wish to eliminate the corrupt threat, but don't care if Ambrians are worse off. The horde is hundreds, maybe thousands strong.
 
@@ -89,7 +99,7 @@ spheres instead of rings. Moreover, everyone feels how the
 surges bring with them an instant nausea that inspires dark
 thoughts and murderous impulses.
 
-Erlaber transforms into the _Prince of the Abyss_
+[[Erlaber Ambreagos|Erlaber]] transforms into the _Prince of the Abyss_
 ![[Pasted image 20240213220510.png]]![[Pasted image 20240213230326.png]]
 
 ### Phase IV

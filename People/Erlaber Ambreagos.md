@@ -8,6 +8,10 @@ aliases:
 ---
 **Note:** Not actually related to Ambreagos bloodline.
 
+## motivation
+Erlaber holds onto a childlike resentment of [[Ambria]] from the war. He thinks that the Ambrian army didn't give a shit about his family and let them die. He saw [[Dark Lords]] bring back from the dead and that got him on the quest. He has been carried away on revenge and lust for power under the influence of [[The Prince]], who has brainwashed him into doing this, when if you take a step back he is better off aiding in the quest to understand undeath.  ^2114cb
+
+## canon backstory
 [[Throne of Thorns 1 - Wrath of the Warden|Wrath of the Warden]], p. 81
 > Erlaber is the sole survivor of a lesser but still noble house who ruled a barony bordering the realm of the [[Dark Lords]]. His father, Baron Oramei Haaras, saw the enemy mount in strength and eventually began to study the practices which gave them such power. When the attack came, Oramei immediately surrendered and was welcomed into the dark fellowship of the Lords. But when that happened, the six-year old Erlaber had already been forced to leave the residence, by his older brother Herek. They barely survived the war as nameless vagabonds; Erlaber’s hate for his brother and admiration for his father growing with each passing day.
 > 

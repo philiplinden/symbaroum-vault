@@ -12,3 +12,4 @@ Master of [[Ordo Magica]].
 
 Huge knockers.
 ![[Eufrynda.png]]
+![[Pasted image 20240306220013.png]]
