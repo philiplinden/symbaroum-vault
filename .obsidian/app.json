@@ -1,0 +1,22 @@
+{
+  "spellcheck": true,
+  "autoPairBrackets": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./_attachments",
+  "userIgnoreFilters": [
+    "/_attachments/",
+    "/_exports/",
+    "References/",
+    "Templates/",
+    "/desktop.ini/"
+  ],
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 86
+  },
+  "promptDelete": false,
+  "showUnsupportedFiles": false
+}

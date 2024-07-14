@@ -1,4 +1,8 @@
 .DS_Store
 desktop.ini
 .trash/
-.obsidian
+.obsidian/plugins/
+!.obsidian/plugins/*/data.json
+!.obsidian/plugins/*/main.js
+!.obsidian/plugins/*/styles.css
+!.obsidian/plugins/*/manifest.json
