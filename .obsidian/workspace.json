@@ -132,6 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,7 +268,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md"
+              }
             }
           }
         ]
@@ -283,6 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,6 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -318,18 +323,19 @@
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-wordy:Wordy view": false
+      "obsidian-wordy:Wordy view": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a01260efe5e26560",
+  "active": "f0f080aa4285da3e",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "People/Master Vernam.md",
     "People/Lasifor Nightpitch.md",
     "People/_attachments/Pasted image 20230315204814.png",
     "_Bricks of Symbaroum/Campaign Notes/📓 session3.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 Disturbing Findings.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 alternate group session 3.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 A Walk to Remember.md",
     "_Bricks of Symbaroum/Campaign Notes/📓 The Start of Something New.md",
