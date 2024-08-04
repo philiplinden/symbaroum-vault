@@ -36,13 +36,8 @@
             "id": "f0f080aa4285da3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -132,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,9 +262,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -286,7 +278,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +294,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -329,8 +319,8 @@
   },
   "active": "f0f080aa4285da3e",
   "lastOpenFiles": [
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "People/Master Vernam.md",
     "People/Lasifor Nightpitch.md",
     "People/_attachments/Pasted image 20230315204814.png",
