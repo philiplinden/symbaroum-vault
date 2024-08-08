@@ -44,7 +44,7 @@ Tips off [[Uncle Sam]] (through back channels)
 Finds [[Ordo Magica Library|the library]] and archives of the [[Ordo Magica]].
 - Searching for history of the area near [[Thistle Hold]] and [[Blooming Vale]], especially in Symbaroum.
 - Seeking details about the Ambreagos lineage, including details about [[Na-Ethikel Ambreagos]] and [[Erlaber Ambreagos]].
-- Looking for more information on [[📜 How undeath works]]
+- Looking for more information on [[📜 How Kerido Became Undead]]
 
 ### [[Andor Dawnsinger|Andor]]
 Returns to the [[Knights of the Dying Sun|Templar]] training grounds.

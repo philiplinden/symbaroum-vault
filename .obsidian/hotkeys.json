@@ -65,7 +65,9 @@
         "Mod"
       ],
       "key": "O"
-    },
+    }
+  ],
+  "omnisearch:show-modal": [
     {
       "modifiers": [
         "Shift"

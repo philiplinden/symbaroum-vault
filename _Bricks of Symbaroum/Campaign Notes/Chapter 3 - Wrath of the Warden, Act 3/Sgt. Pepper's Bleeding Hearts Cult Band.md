@@ -4,7 +4,7 @@ class:
 tags:
   - "#session"
 players: 
-date: ""
+date: 2024-02-15
 synopsis: 
 month: 3
 year: 22
@@ -31,11 +31,11 @@ WHERE
 
 # Notes
 - party kills all but a couple mercs and cultists
-	- kerido used suggestion to tell one of the surviving mercs from sellswords of sun to warn Sarvola and Bailiff in the Mission of what is happening here.
-	- one cultist escaped to the basement and warned erlaber
-- erlaber opened the yonderworld portal
+	- [[kerido]] used suggestion to tell one of the surviving mercs from sellswords of sun to warn Sarvola and Bailiff in the Mission of what is happening here.
+	- one cultist escaped to the basement and warned [[Erlaber Ambreagos|erlaber]]
+- [[Erlaber Ambreagos|erlaber]] opened the [[yonderworld]] portal
 - half of the tannery (1st level) completely collapsed
-- erlaber escapes through the portal
+- [[Erlaber Ambreagos|erlaber]] escapes through the portal
 # GM Notes
 
 Autumn has begun in earnest. Dark thunderclouds are rolling in from the west.
