@@ -12,12 +12,14 @@
   "dataview",
   "obsidian-timeline",
   "obsidian-plugin-update-tracker",
-  "cm-typewriter-scroll-obsidian",
   "templater-obsidian",
   "novel-word-count",
   "numerals",
   "sync-graph-settings",
   "obsidian-wordy",
   "tag-wrangler",
-  "obsidian-git"
+  "obsidian-git",
+  "metadata-menu",
+  "omnisearch",
+  "settings-search"
 ]

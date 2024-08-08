@@ -4,7 +4,7 @@ tags:
   - undead
   - corrupted
 ---
-The Yonderworld is thought to be a mist-shrouded wasteland, possible to mistake for the Spirit World, yet vastly different: its nature is corruption. Its fauna consists of abominations, from small Blight Spawns to ancient Blight Beasts of immense power. As stated by [[Katrandama]], the Yonderworld is the world from which humankind fled to this one – an idea that very few mystics are prepared to accept and the Curia has deemed to be contentious and heretical; the humans came over the eastern sea from another continent, fleeing from idol worshippers and sun haters – at least according to the official stands of the [[Sun Church]].
+The Yonderworld is thought to be a mist-shrouded wasteland, possible to mistake for the [[Spirit World]], yet vastly different: its nature is corruption. Its fauna consists of abominations, from small Blight Spawns to ancient Blight Beasts of immense power. As stated by [[Katrandama]], the Yonderworld is the world from which humankind fled to this one – an idea that very few mystics are prepared to accept and the Curia has deemed to be contentious and heretical; the humans came over the eastern sea from another continent, fleeing from idol worshippers and sun haters – at least according to the official stands of the [[Sun Church]].
 
 ![[Pasted image 20231129215951.png]]
 ## Travel is faster

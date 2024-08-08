@@ -26,7 +26,7 @@ WHERE
 
 > [!example] Quests
 > [[📜 Wrath of the Warden]]
-> [[📜 How undeath works]]
+> [[📜 How Kerido Became Undead]]
 
 # notes
 [[Smellia]] and [[Andor Dawnsinger|Andor]] heal [[Anadea]] to consciousness. [[Anadea]]'s wounds are:
