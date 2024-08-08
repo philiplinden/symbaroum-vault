@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -/scratch pad.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scratch.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -/scratch pad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scratch.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -/scratch pad.md"
               }
             }
           }
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scratch.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -/scratch pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scratch.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -/scratch pad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -322,7 +322,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,6 +338,9 @@
   },
   "active": "e7c7c7b523d9c20f",
   "lastOpenFiles": [
+    "scratch.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -/scratch pad.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 -",
     "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
     "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "People/Master Vernam.md",
