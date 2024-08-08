@@ -11,4 +11,4 @@ Adventuring journal belonging to [[Ilanda]].
 > Find [[Jaro, the Bartender|Jaro]] at the [[Salons of Symbaroum|Salons]]
 > Get book, [[Girind]], Keeper
 > The Rod of Light and Darkness
-> Possibly [[📜 How undeath works|true awakening from death]]
+> Possibly [[📜 How Kerido Became Undead|true awakening from death]]
