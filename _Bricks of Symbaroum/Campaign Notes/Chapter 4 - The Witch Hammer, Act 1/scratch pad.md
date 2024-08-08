@@ -7,3 +7,8 @@ player preferences
 - don’t *avoid* the main quest, but don’t bee-line for it
 - continue from level 6 (diff chars ok, respec ok)
 
+plot
+- the army mentioned in witch hammer is the same one that fends off the undead force.
+- draw from gamemaster’s guide for side quests
+- draw from character backstories for side quests
+	- [[Kerido]] is still seeking [[📜 How Kerido Became Undead]] along the way to the next main quest objective

@@ -21,7 +21,7 @@ WHERE
 > [[📓 Close Calls]]
 
 > [!example] Quests
->  [[📜 How undeath works]], [[📜 Find the Codex]]
+>  [[📜 How Kerido Became Undead]], [[📜 Find the Codex]]
 
 [[Kerido]] is led to the coven of the [[Witches of Melima]] by [[Kora]].
 
