@@ -2,7 +2,7 @@
 tags:
   - reference
 ---
-https://fal.ai/models/fal-ai/flux-pro
+AI art generator (a good one!) https://fal.ai/models/fal-ai/flux-pro
 
 ![[knight_portrait.png]]![[mgurley_young_handsome_stern_man_in_priestly_robes_and_travelli_a2e183b5-165d-43fa-a9c5-0bd5c10beda5.png]]
 
