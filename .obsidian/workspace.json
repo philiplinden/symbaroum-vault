@@ -33,11 +33,16 @@
             }
           },
           {
-            "id": "b9f403671cd8b872",
+            "id": "46a15ed8b04e2f1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "scratch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -116,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "scratch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,20 +257,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+                "file": "scratch.md"
               }
-            }
-          },
-          {
-            "id": "76de4b2524e6b070",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "c192c3937e26db19",
@@ -278,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+                "file": "scratch.md"
               }
             }
           }
@@ -295,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "scratch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -326,19 +323,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-wordy:Wordy view": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b9f403671cd8b872",
+  "active": "46a15ed8b04e2f1b",
   "lastOpenFiles": [
     "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
     "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/showdown.md",
