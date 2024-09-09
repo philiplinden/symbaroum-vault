@@ -1,10 +1,11 @@
 ---
 tags:
-- player-character
-- changeling
-- ambrian
+  - player-character
+  - changeling
+  - ambrian
+  - person
 aliases:
-- Andor
+  - Andor
 player: David
 ---
 

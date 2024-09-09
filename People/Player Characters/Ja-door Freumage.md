@@ -1,10 +1,11 @@
 ---
 tags:
-- player-character
-- human
-- undead
+  - player-character
+  - human
+  - undead
+  - person
 aliases:
-- Ja-door
+  - Ja-door
 player: Abhra
 ---
 

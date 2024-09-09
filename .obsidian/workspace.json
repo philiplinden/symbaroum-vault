@@ -33,16 +33,11 @@
             }
           },
           {
-            "id": "e7c7c7b523d9c20f",
+            "id": "b9f403671cd8b872",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -75,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,9 +245,27 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "8ccc98fd61e18588",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
+              }
+            }
+          },
+          {
+            "id": "76de4b2524e6b070",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "c192c3937e26db19",
@@ -265,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md"
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
               }
             }
           }
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,14 +312,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -314,6 +326,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
@@ -325,8 +338,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7c7c7b523d9c20f",
+  "active": "b9f403671cd8b872",
   "lastOpenFiles": [
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/showdown.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/Sgt. Pepper's Bleeding Hearts Cult Band.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/Pie Day.md",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "Templates/new-session.md",
+    "People/Player Characters/Broad pod Eightmeterslong.md",
+    "People/Player Characters/Andor Dawnsinger.md",
+    "People/Player Characters/Artek Alzerek.md",
+    "People/Player Characters/Bartolom.md",
+    "People/Player Characters/Ja-door Freumage.md",
+    "People/Player Characters/Kerido.md",
+    "People/Player Characters/Khargon Tarzibczie.md",
+    "People/Player Characters/Niho.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908221005.png",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220956.png",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220945.png",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220936.png",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220928.png",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments",
     "scratch.md",
     "Homepage.md",
     "References/Books/RoS_TheThroneOfThorns1_BETA.pdf",
@@ -338,13 +371,9 @@
     "References/Books/Symbaroum_Secrets_of_Yndaros.pdf",
     "References/Books/Symbaroum_Secrets_of_Yndaros.pdf.crdownload",
     "References/Books/Symbaroum_Ruins_of_Symbar.pdf",
-    "References/Books/Symbaroum_Ruins_of_Symbar.pdf.crdownload",
     "index.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/Sgt. Pepper's Bleeding Hearts Cult Band.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
     "Lore/Other Worlds and the Origin of Humans.md",
     "Lore/Physiology of Undead Revenants.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
     "Lore/How Undeath Works.md",
     "Events/Life and Undeath of Na-Ethikel.md",
     "Places/Yonderworld.md",
@@ -352,17 +381,6 @@
     "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 A Walk to Remember.md",
     "People/Na-Ethikel Ambreagos.md",
     "Places/Spirit World.md",
-    "Places/Underworld.md",
-    "Templates/new-place.md",
-    "_Bricks of Symbaroum/Errata/Errata - 2024-01-08.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 2/War Room.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/Pie Day.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/showdown.md",
-    "People/Player Characters/Kerido.md",
-    "_Bricks of Symbaroum/Stories/Chasing Ghosts.md",
-    "People/Master Vernam.md",
-    "People/Lasifor Nightpitch.md",
-    "People/_attachments/Pasted image 20230315204814.png",
-    "_Bricks of Symbaroum/Campaign Notes/📓 session3.md"
+    "People/_attachments/Pasted image 20230315204814.png"
   ]
 }

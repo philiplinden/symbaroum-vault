@@ -1,8 +1,10 @@
 ---
 tags:
-- player-character
-- dwarf
-aliases: Artek
+  - player-character
+  - dwarf
+  - person
+aliases:
+  - Artek
 player: Faris
 ---
 
