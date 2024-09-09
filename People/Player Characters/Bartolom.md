@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#person"
   - "#player-character"
+  - person
 aliases: 
 player: Faris
 origin: human

@@ -3,7 +3,7 @@
   "search": "-tag:#reference -tag:#story",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -95,6 +95,6 @@
   "repelStrength": 10.7281355932203,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.22920135941749922,
+  "scale": 0.3213363860503674,
   "close": true
 }

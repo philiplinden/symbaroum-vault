@@ -5,9 +5,9 @@ tags:
   - "#session"
 players: David, Drew, Abhra, Kellie
 date: 2024-03-13
-synopsis: 
-month: 
-year: 
+synopsis: Erlaber meets his end.
+month: 3
+year: 22
 fields: 
 version: "2.0"
 ---

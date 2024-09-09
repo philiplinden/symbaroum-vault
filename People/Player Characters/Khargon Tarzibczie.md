@@ -1,9 +1,11 @@
 ---
 tags:
-- player-character
-- dwarf
-- ambrian
-aliases: Khargon
+  - player-character
+  - dwarf
+  - ambrian
+  - person
+aliases:
+  - Khargon
 player: Abhra
 ---
 
