@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#808080",
+    "recentlyUsedIcons": [
+      "🗓",
+      "🖨",
+      "📔",
+      "📖",
+      "📚"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "native",
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "lucideIconPackType": "native"
+  },
+  "_Bricks of Symbaroum/Campaign Notes": "📓",
+  "_Bricks of Symbaroum/Stories": "📖",
+  "_Bricks of Symbaroum/Quests": "📜",
+  "_Bricks of Symbaroum/Campaign Notes/_Index.md": "📔",
+  "Events/_timeline.md": "🗓"
+}
