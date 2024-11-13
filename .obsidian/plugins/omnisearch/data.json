@@ -1,7 +1,9 @@
 {
   "useCache": true,
   "hideExcluded": false,
-  "downrankedFoldersFilters": [],
+  "downrankedFoldersFilters": [
+    ""
+  ],
   "ignoreDiacritics": true,
   "ignoreArabicDiacritics": false,
   "indexedFileTypes": [],
@@ -16,6 +18,7 @@
   "vimLikeNavigationShortcut": false,
   "ribbonIcon": true,
   "showExcerpt": true,
+  "maxEmbeds": 5,
   "renderLineReturnInExcerpts": true,
   "showCreateButton": false,
   "highlight": true,

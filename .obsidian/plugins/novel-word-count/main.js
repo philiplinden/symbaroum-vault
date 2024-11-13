@@ -349,6 +349,16 @@ var DEFAULT_SETTINGS = {
   folderPipeSeparator: "|",
   folderAbbreviateDescriptions: false,
   folderAlignment: "inline" /* Inline */,
+  // ROOT
+  showSameCountsOnRoot: true,
+  rootCountType: "word" /* Word */,
+  rootCountTypeSuffix: "w",
+  rootCountType2: "none" /* None */,
+  rootCountType2Suffix: "",
+  rootCountType3: "none" /* None */,
+  rootCountType3Suffix: "",
+  rootPipeSeparator: "|",
+  rootAbbreviateDescriptions: false,
   // ADVANCED
   showAdvanced: false,
   wordsPerMinute: 265,
@@ -375,6 +385,7 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
     containerEl.empty();
     this.renderNoteSettings(containerEl);
     this.renderFolderSettings(containerEl);
+    this.renderRootSettings(containerEl);
     this.renderAdvancedSettings(containerEl);
     this.renderReanalyzeButton(containerEl);
     this.renderDonationButton(containerEl);
@@ -560,6 +571,76 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
           await this.plugin.updateDisplayedCounts();
         });
       });
+    }
+  }
+  renderRootSettings(containerEl) {
+    this.renderSeparator(containerEl);
+    new import_obsidian2.Setting(containerEl).setHeading().setName("Root: Same data as Notes").addToggle(
+      (toggle) => toggle.setValue(this.plugin.settings.showSameCountsOnRoot).onChange(async (value) => {
+        this.plugin.settings.showSameCountsOnRoot = value;
+        await this.plugin.saveSettings();
+        this.display();
+        await this.plugin.updateDisplayedCounts();
+      })
+    );
+    if (!this.plugin.settings.showSameCountsOnRoot) {
+      this.renderCountTypeSetting(containerEl, {
+        name: "1st data type to show",
+        oldCountType: this.plugin.settings.rootCountType,
+        setNewCountType: (value) => {
+          this.plugin.settings.rootCountType = value;
+          this.plugin.settings.rootCountTypeSuffix = COUNT_TYPE_DEFAULT_SHORT_SUFFIXES[this.plugin.settings.rootCountType];
+        }
+      });
+      this.renderCustomFormatSetting(containerEl, {
+        countType: this.plugin.settings.rootCountType,
+        oldSuffix: this.plugin.settings.rootCountTypeSuffix,
+        setNewSuffix: (value) => this.plugin.settings.rootCountTypeSuffix = value
+      });
+      this.renderCountTypeSetting(containerEl, {
+        name: "2nd data type to show",
+        oldCountType: this.plugin.settings.rootCountType2,
+        setNewCountType: (value) => {
+          this.plugin.settings.rootCountType2 = value;
+          this.plugin.settings.rootCountType2Suffix = COUNT_TYPE_DEFAULT_SHORT_SUFFIXES[this.plugin.settings.rootCountType2];
+        }
+      });
+      this.renderCustomFormatSetting(containerEl, {
+        countType: this.plugin.settings.rootCountType2,
+        oldSuffix: this.plugin.settings.rootCountType2Suffix,
+        setNewSuffix: (value) => this.plugin.settings.rootCountType2Suffix = value
+      });
+      this.renderCountTypeSetting(containerEl, {
+        name: "3rd data type to show",
+        oldCountType: this.plugin.settings.rootCountType3,
+        setNewCountType: (value) => {
+          this.plugin.settings.rootCountType3 = value;
+          this.plugin.settings.rootCountType3Suffix = COUNT_TYPE_DEFAULT_SHORT_SUFFIXES[this.plugin.settings.rootCountType3];
+        }
+      });
+      this.renderCustomFormatSetting(containerEl, {
+        countType: this.plugin.settings.rootCountType3,
+        oldSuffix: this.plugin.settings.rootCountType3Suffix,
+        setNewSuffix: (value) => this.plugin.settings.rootCountType3Suffix = value
+      });
+      if (this.plugin.settings.useAdvancedFormatting) {
+        new import_obsidian2.Setting(containerEl).setName("Data type separator").addText(
+          (text) => text.setValue(this.plugin.settings.rootPipeSeparator).onChange(async (value) => {
+            this.plugin.settings.rootPipeSeparator = value;
+            await this.plugin.saveSettings();
+            await this.plugin.updateDisplayedCounts();
+          })
+        );
+      }
+      if (!this.plugin.settings.useAdvancedFormatting) {
+        new import_obsidian2.Setting(containerEl).setName("Abbreviate descriptions").addToggle(
+          (toggle) => toggle.setValue(this.plugin.settings.rootAbbreviateDescriptions).onChange(async (value) => {
+            this.plugin.settings.rootAbbreviateDescriptions = value;
+            await this.plugin.saveSettings();
+            await this.plugin.updateDisplayedCounts();
+          })
+        );
+      }
     }
   }
   renderAdvancedSettings(containerEl) {
@@ -899,7 +980,7 @@ var FileHelper = class {
   }
   async getAllFileCounts(cancellationToken) {
     const debugEnd = this.debugHelper.debugStart("getAllFileCounts");
-    let files = this.vault.getFiles();
+    const files = this.vault.getFiles();
     if (typeof this.plugin.settings.includeDirectories === "string" && this.plugin.settings.includeDirectories.trim() !== "*" && this.plugin.settings.includeDirectories.trim() !== "") {
       const allMatchers = this.plugin.settings.includeDirectories.trim().split(",").map((matcher) => matcher.trim());
       const includeMatchers = allMatchers.filter(
@@ -937,7 +1018,7 @@ var FileHelper = class {
     const childPaths = this.getChildPaths(counts, path);
     const directoryDefault = {
       isCountable: false,
-      isDirectory: true,
+      targetNodeType: this.isRoot(path) ? "root" /* Root */ : "directory" /* Directory */,
       noteCount: 0,
       wordCount: 0,
       wordCountTowardGoal: 0,
@@ -957,7 +1038,7 @@ var FileHelper = class {
       const childCount = this.getCachedDataForPath(counts, childPath);
       return {
         isCountable: total.isCountable || childCount.isCountable,
-        isDirectory: true,
+        targetNodeType: total.targetNodeType,
         noteCount: total.noteCount + childCount.noteCount,
         linkCount: total.linkCount + childCount.linkCount,
         embedCount: total.embedCount + childCount.embedCount,
@@ -1009,6 +1090,9 @@ var FileHelper = class {
     );
     return childPaths;
   }
+  isRoot(path) {
+    return !path || path === "/";
+  }
   removeCounts(counts, path) {
     delete counts[path];
   }
@@ -1019,7 +1103,7 @@ var FileHelper = class {
     const shouldCountFile = this.shouldCountFile(file, metadata);
     counts[file.path] = {
       isCountable: shouldCountFile,
-      isDirectory: false,
+      targetNodeType: "file" /* File */,
       noteCount: 0,
       wordCount: 0,
       wordCountTowardGoal: 0,
@@ -1209,20 +1293,10 @@ var NodeLabelHelper = class {
     return this.plugin.settings;
   }
   getNodeLabel(counts) {
-    const countTypes = counts.isDirectory && !this.settings.showSameCountsOnFolders ? [
-      this.getCountTypeWithSuffix(
-        this.settings.folderCountType,
-        this.settings.folderCountTypeSuffix
-      ),
-      this.getCountTypeWithSuffix(
-        this.settings.folderCountType2,
-        this.settings.folderCountType2Suffix
-      ),
-      this.getCountTypeWithSuffix(
-        this.settings.folderCountType3,
-        this.settings.folderCountType3Suffix
-      )
-    ] : [
+    let countTypes;
+    let abbreviateDescriptions;
+    let separator;
+    const noteCountTypes = [
       this.getCountTypeWithSuffix(
         this.settings.countType,
         this.settings.countTypeSuffix,
@@ -1239,8 +1313,63 @@ var NodeLabelHelper = class {
         this.settings.frontmatterKey3
       )
     ];
-    const abbreviateDescriptions = counts.isDirectory && !this.settings.showSameCountsOnFolders ? this.settings.folderAbbreviateDescriptions : this.settings.abbreviateDescriptions;
-    const separator = !this.settings.useAdvancedFormatting ? "|" : counts.isDirectory && !this.settings.showSameCountsOnFolders ? this.settings.folderPipeSeparator : this.settings.pipeSeparator;
+    const noteAbbreviateDescriptions = this.settings.abbreviateDescriptions;
+    const noteSeparator = this.settings.useAdvancedFormatting ? this.settings.pipeSeparator : "|";
+    switch (counts.targetNodeType) {
+      case "root" /* Root */:
+        if (this.settings.showSameCountsOnRoot) {
+          countTypes = noteCountTypes;
+          abbreviateDescriptions = noteAbbreviateDescriptions;
+          separator = noteSeparator;
+          break;
+        }
+        countTypes = [
+          this.getCountTypeWithSuffix(
+            this.settings.rootCountType,
+            this.settings.rootCountTypeSuffix
+          ),
+          this.getCountTypeWithSuffix(
+            this.settings.rootCountType2,
+            this.settings.rootCountType2Suffix
+          ),
+          this.getCountTypeWithSuffix(
+            this.settings.rootCountType3,
+            this.settings.rootCountType3Suffix
+          )
+        ];
+        abbreviateDescriptions = this.settings.rootAbbreviateDescriptions;
+        separator = this.settings.useAdvancedFormatting ? this.settings.rootPipeSeparator : noteSeparator;
+        break;
+      case "directory" /* Directory */:
+        if (this.settings.showSameCountsOnFolders) {
+          countTypes = noteCountTypes;
+          abbreviateDescriptions = noteAbbreviateDescriptions;
+          separator = noteSeparator;
+          break;
+        }
+        countTypes = [
+          this.getCountTypeWithSuffix(
+            this.settings.folderCountType,
+            this.settings.folderCountTypeSuffix
+          ),
+          this.getCountTypeWithSuffix(
+            this.settings.folderCountType2,
+            this.settings.folderCountType2Suffix
+          ),
+          this.getCountTypeWithSuffix(
+            this.settings.folderCountType3,
+            this.settings.folderCountType3Suffix
+          )
+        ];
+        abbreviateDescriptions = this.settings.folderAbbreviateDescriptions;
+        separator = this.settings.useAdvancedFormatting ? this.settings.folderPipeSeparator : noteSeparator;
+        break;
+      default:
+        countTypes = noteCountTypes;
+        abbreviateDescriptions = noteAbbreviateDescriptions;
+        separator = noteSeparator;
+        break;
+    }
     return countTypes.filter((ct) => ct.countType !== "none" /* None */).map(
       (ct) => this.getDataTypeLabel(
         counts,
@@ -1299,7 +1428,7 @@ var NodeLabelHelper = class {
           abbreviateDescriptions,
           overrideSuffix
         });
-      case "percentgoal" /* PercentGoal */:
+      case "percentgoal" /* PercentGoal */: {
         if (counts.wordGoal <= 0) {
           return null;
         }
@@ -1308,6 +1437,7 @@ var NodeLabelHelper = class {
         const defaultSuffix = abbreviateDescriptions ? "%" : `% of ${NumberFormatDefault.format(counts.wordGoal)}`;
         const suffix = overrideSuffix != null ? overrideSuffix : defaultSuffix;
         return `${percent}${suffix}`;
+      }
       case "note" /* Note */:
         return this.getBasicCountString({
           count: NumberFormatDefault.format(counts.noteCount),
@@ -1316,7 +1446,7 @@ var NodeLabelHelper = class {
           abbreviateDescriptions,
           overrideSuffix
         });
-      case "character" /* Character */:
+      case "character" /* Character */: {
         const characterCount = this.settings.characterCountType === "ExcludeWhitespace" /* ExcludeWhitespace */ ? counts.nonWhitespaceCharacterCount : counts.characterCount;
         return this.getBasicCountString({
           count: NumberFormatDefault.format(characterCount),
@@ -1325,6 +1455,7 @@ var NodeLabelHelper = class {
           abbreviateDescriptions,
           overrideSuffix
         });
+      }
       case "readtime" /* ReadTime */:
         return this.readTimeHelper.formatReadTime(
           counts.readingTimeInMinutes,
@@ -1357,7 +1488,7 @@ var NodeLabelHelper = class {
           return null;
         }
         return abbreviateDescriptions ? `${counts.aliases[0]}` : `alias: ${counts.aliases[0]}${counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""}`;
-      case "created" /* Created */:
+      case "created" /* Created */: {
         if (counts.createdDate === 0) {
           return null;
         }
@@ -1366,7 +1497,8 @@ var NodeLabelHelper = class {
           return `${cDate}${overrideSuffix}`;
         }
         return abbreviateDescriptions ? `${cDate}/c` : `Created ${cDate}`;
-      case "modified" /* Modified */:
+      }
+      case "modified" /* Modified */: {
         if (counts.modifiedDate === 0) {
           return null;
         }
@@ -1375,12 +1507,13 @@ var NodeLabelHelper = class {
           return `${uDate}${overrideSuffix}`;
         }
         return abbreviateDescriptions ? `${uDate}/u` : `Updated ${uDate}`;
+      }
       case "filesize" /* FileSize */:
         return this.fileSizeHelper.formatFileSize(
           counts.sizeInBytes,
           abbreviateDescriptions
         );
-      case "frontmatterKey" /* FrontmatterKey */:
+      case "frontmatterKey" /* FrontmatterKey */: {
         if (!frontmatterKey) {
           return null;
         }
@@ -1392,6 +1525,7 @@ var NodeLabelHelper = class {
           return `${value}${overrideSuffix}`;
         }
         return value;
+      }
     }
     return null;
   }

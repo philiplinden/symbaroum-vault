@@ -13,7 +13,7 @@ version: "2.0"
 
 ```ad-done
 title: Previous
-collapse: open
+collapse: closed
 ```dataview
 LIST
 WHERE 
@@ -25,6 +25,5 @@ WHERE
 > [!NOTE] Next
 > 
 
-> [!example] Quests
-> 
+
 

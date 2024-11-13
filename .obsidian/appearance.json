@@ -1,7 +1,7 @@
 {
   "accentColor": "#4e77d4",
-  "cssTheme": "🔔 Chime",
-  "theme": "moonstone",
+  "cssTheme": "Typewriter",
+  "theme": "system",
   "baseFontSize": 17,
   "nativeMenus": false,
   "baseFontSizeAction": true,

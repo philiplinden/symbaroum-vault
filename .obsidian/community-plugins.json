@@ -22,5 +22,6 @@
   "metadata-menu",
   "omnisearch",
   "settings-search",
-  "quickadd"
+  "quickadd",
+  "link-headers-directly"
 ]
