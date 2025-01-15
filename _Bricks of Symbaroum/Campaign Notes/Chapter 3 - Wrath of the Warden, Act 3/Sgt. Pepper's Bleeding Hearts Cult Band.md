@@ -24,7 +24,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> [[showdown]]
+> [[Off Yonder]]
 
 > [!example] Quests
 > [[📜 Wrath of the Warden]]

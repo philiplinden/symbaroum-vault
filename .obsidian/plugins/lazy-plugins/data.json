@@ -1,0 +1,97 @@
+{
+  "dualConfigs": true,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian-admonition": {
+        "startupType": "instant"
+      },
+      "table-editor-obsidian": {
+        "startupType": "disabled"
+      },
+      "click-clack": {
+        "startupType": "disabled"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "obsidian-focus-mode": {
+        "startupType": "instant"
+      },
+      "obsidian-footnotes": {
+        "startupType": "instant"
+      },
+      "ghost-fade-focus": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "iconic": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "disabled"
+      },
+      "link-headers-directly": {
+        "startupType": "instant"
+      },
+      "longform": {
+        "startupType": "long"
+      },
+      "metadata-menu": {
+        "startupType": "short"
+      },
+      "novel-word-count": {
+        "startupType": "long"
+      },
+      "numerals": {
+        "startupType": "short"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "obsidian-plugin-update-tracker": {
+        "startupType": "long"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "obsidian-reading-time": {
+        "startupType": "long"
+      },
+      "settings-search": {
+        "startupType": "instant"
+      },
+      "obsidian-smart-typography": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "sync-graph-settings": {
+        "startupType": "long"
+      },
+      "tag-wrangler": {
+        "startupType": "short"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-tidy-footnotes": {
+        "startupType": "instant"
+      },
+      "obsidian-timeline": {
+        "startupType": "disabled"
+      },
+      "obsidian-wordy": {
+        "startupType": "long"
+      }
+    }
+  }
+}

@@ -24,7 +24,7 @@ WHERE
 ```
 
 > [!NOTE] Next
-> 
+> [[As the Dust Settles]]
 
 > [!example] Quests
 > 
