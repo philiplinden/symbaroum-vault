@@ -15,5 +15,6 @@ Related: [[Kerido]], [[📜 How Kerido Became Undead]]
 - Don’t sweat, but may form condensation if in a humid environment and rapid change in temperature. 
 - Body temperature equalizes to ambient.
 - Steams up in cold situations like glasses fogging.
-- Semi hydrophobic
-- Bleed when injured, but not a lot
+- Semi hydrophobic.
+- Bleed when injured, but not a lot.
+- Does not blink.

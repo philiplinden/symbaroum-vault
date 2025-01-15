@@ -19,7 +19,9 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "_Index"
             }
           },
           {
@@ -29,15 +31,24 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "b9f403671cd8b872",
+            "id": "7ff0bb807ecb854f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "next time"
             }
           }
         ],
@@ -61,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +89,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,22 +99,26 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "131bce6010b53252",
+            "id": "710cfa5f541aabba",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.5086555480957
+    "width": 417.5
   },
   "right": {
     "id": "10150c992341bc5e",
@@ -116,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +239,9 @@
                   "scale": 0.36288736930121407,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of next time"
             }
           },
           {
@@ -232,7 +253,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -243,7 +266,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -252,20 +277,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
-              }
-            }
-          },
-          {
-            "id": "76de4b2524e6b070",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for next time"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c192c3937e26db19",
@@ -278,8 +296,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md"
-              }
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of next time"
             }
           }
         ]
@@ -295,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +323,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for next time"
             }
           },
           {
@@ -312,21 +334,23 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+                "file": "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from next time"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
       "switcher:Open quick switcher": true,
@@ -335,52 +359,57 @@
       "obsidian-wordy:Wordy view": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "b9f403671cd8b872",
+  "active": "7ff0bb807ecb854f",
   "lastOpenFiles": [
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/scratch pad.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/showdown.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/Sgt. Pepper's Bleeding Hearts Cult Band.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 3 - Wrath of the Warden, Act 3/Pie Day.md",
-    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
-    "Templates/new-session.md",
-    "People/Player Characters/Broad pod Eightmeterslong.md",
-    "People/Player Characters/Andor Dawnsinger.md",
-    "People/Player Characters/Artek Alzerek.md",
-    "People/Player Characters/Bartolom.md",
-    "People/Player Characters/Ja-door Freumage.md",
-    "People/Player Characters/Kerido.md",
-    "People/Player Characters/Khargon Tarzibczie.md",
-    "People/Player Characters/Niho.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908221005.png",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220956.png",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220945.png",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220936.png",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20240908220928.png",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments",
+    "Templates/Classes/person.md",
+    "Templates/Classes/item.md",
+    "Templates/Classes/god.md",
+    "Templates/Classes/faction.md",
+    "Templates/Classes/event.md",
+    "Templates/Classes/default.md",
+    "Templates/Classes/city.md",
+    "Templates/Classes/beast.md",
     "scratch.md",
-    "Homepage.md",
+    "index.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/Back to Business.md",
+    "People/Brother Hank.md",
+    "People/Bugga.md",
+    "People/Captain Marvello.md",
+    "People/Crueljaw.md",
+    "People/Dekamelo.md",
+    "People/Deseba the Old.md",
+    "People/Anadea.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md",
+    "People/Hot Pot.md",
+    "People/Micah O'Malley.md",
+    "_attachments/Pasted image 20241211230142.png",
+    "People/Luke Shepard.md",
+    "_attachments/Pasted image 20241211230120.png",
+    "People/Pop Pop.md",
+    "_attachments/Pasted image 20241211225159.png",
+    "_attachments/Pasted image 20241211224833.png",
+    "People/Callum West.md",
+    "_attachments/Pasted image 20241211224811.png",
+    "_attachments/Pasted image 20241211224554.png",
+    "_attachments/Pasted image 20241211224304.png",
+    "_Bricks of Symbaroum/Campaign Notes/_Index.md",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments/Pasted image 20241211223648.png",
+    "People/Garrett Cordo.md",
+    "_attachments/Pasted image 20241211223258.png",
+    "_attachments/Pasted image 20241211222819.png",
+    "References/Books/Symbaroum_Ruins_of_Symbar.pdf",
+    "References/Books/Ruins_of_Symbaroum_Gamemasters_Guide.pdf",
+    "References/Books/Ruins_of_Symbaroum_The_Throne_of_Thorns_1.pdf",
+    "References/Books/Ruins_of_Symbaroum_Bestiary.pdf",
+    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/_attachments",
     "References/Books/RoS_TheThroneOfThorns1_BETA.pdf",
     "References/Books/RoS_TheWorldOfSymbaroum_BETA.pdf",
-    "References/Books/Ruins_of_Symbaroum_The_Throne_of_Thorns_1.pdf",
     "References/Books/Ruins_of_Symbaroum_The_Throne_of_Thorns_1.pdf.crdownload",
     "References/Books/Ruins_of_Symbaroum_The_World_of_Symbaroum.pdf",
-    "References/Books/Ruins_of_Symbaroum_The_World_of_Symbaroum.pdf.crdownload",
-    "References/Books/Symbaroum_Secrets_of_Yndaros.pdf",
-    "References/Books/Symbaroum_Secrets_of_Yndaros.pdf.crdownload",
-    "References/Books/Symbaroum_Ruins_of_Symbar.pdf",
-    "index.md",
-    "Lore/Other Worlds and the Origin of Humans.md",
-    "Lore/Physiology of Undead Revenants.md",
-    "Lore/How Undeath Works.md",
-    "Events/Life and Undeath of Na-Ethikel.md",
-    "Places/Yonderworld.md",
-    "_Bricks of Symbaroum/Quests/📜 How Kerido Became Undead.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 1 - The Gathering Storm/📓 A Walk to Remember.md",
-    "People/Na-Ethikel Ambreagos.md",
-    "Places/Spirit World.md",
-    "People/_attachments/Pasted image 20230315204814.png"
+    "References/Books/Ruins_of_Symbaroum_The_World_of_Symbaroum.pdf.crdownload"
   ]
 }

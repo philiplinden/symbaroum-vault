@@ -28,5 +28,8 @@
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "Appearance-dark@@accent-color-override-dark": false,
-  "chime-theme@@theme-settings": "theme-novelist"
+  "chime-theme@@theme-settings": "theme-novelist",
+  "fancy-a-story@@fas-opposite-bg": false,
+  "fancy-a-story@@theme-variant-light": "fas-silver-light",
+  "fancy-a-story@@theme-variant-dark": "fas-swamp"
 }

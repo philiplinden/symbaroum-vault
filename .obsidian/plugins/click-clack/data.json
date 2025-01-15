@@ -1,0 +1,16 @@
+{
+  "version": "version1",
+  "enabled": false,
+  "activeScheme": {
+    "id": "default",
+    "caption": "Default",
+    "sounds": {
+      "key": "",
+      "key2": "",
+      "space": "",
+      "enter": "",
+      "delete": ""
+    }
+  },
+  "volumn": 100
+}
