@@ -674,7 +674,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1723099940151,
-      "modifiedDate": 1723099940151,
+      "modifiedDate": 1736903721292,
       "sizeInBytes": 312,
       "sessionStart": {
         "noteCount": 1,
@@ -10560,15 +10560,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.12,
-      "characterCount": 195,
+      "characterCount": 196,
       "nonWhitespaceCharacterCount": 159,
       "readingTimeInMinutes": 0.13584905660377358,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1720992557073,
-      "modifiedDate": 1731562368329,
-      "sizeInBytes": 284,
+      "modifiedDate": 1736903577764,
+      "sizeInBytes": 99,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12,
@@ -11496,15 +11496,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.01,
-      "characterCount": 37,
+      "characterCount": 38,
       "nonWhitespaceCharacterCount": 34,
       "readingTimeInMinutes": 0.011320754716981131,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1733972442385,
-      "modifiedDate": 1733972736998,
-      "sizeInBytes": 158,
+      "modifiedDate": 1736903713510,
+      "sizeInBytes": 168,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -11763,41 +11763,6 @@
           "changeling"
         ],
         "aliases": []
-      }
-    },
-    "People/Garrett Cordo.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733974397676,
-      "modifiedDate": 1733974397741,
-      "sizeInBytes": 87,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "person"
-        ],
-        "origin": null,
-        "faction": null,
-        "player-character": null,
-        "occupation": null,
-        "demeanor": null
       }
     },
     "People/Grand Master Seldonio.md": {
@@ -12310,38 +12275,6 @@
         ]
       }
     },
-    "People/Elmendra.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 75,
-      "nonWhitespaceCharacterCount": 64,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1731205539561,
-      "modifiedDate": 1731205576855,
-      "sizeInBytes": 123,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 75,
-        "nonWhitespaceCharacterCount": 64
-      },
-      "frontmatter": {
-        "tags": [
-          "person",
-          "human",
-          "corrupted"
-        ]
-      }
-    },
     "People/Eneáno.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12511,43 +12444,6 @@
         "aliases": []
       }
     },
-    "People/Bugga.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 34,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1733972774614,
-      "modifiedDate": 1733972869886,
-      "sizeInBytes": 137,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 37,
-        "nonWhitespaceCharacterCount": 34
-      },
-      "frontmatter": {
-        "tags": [
-          "person"
-        ],
-        "origin": "ogre",
-        "faction": [
-          "Odaiova"
-        ],
-        "player-character": null,
-        "occupation": null,
-        "demeanor": null
-      }
-    },
     "People/Desidera.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12576,37 +12472,6 @@
         "tags": [
           "person",
           "changeling"
-        ]
-      }
-    },
-    "People/Crueljaw.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 89,
-      "nonWhitespaceCharacterCount": 77,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1731204763182,
-      "modifiedDate": 1731383176517,
-      "sizeInBytes": 122,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 89,
-        "nonWhitespaceCharacterCount": 77
-      },
-      "frontmatter": {
-        "tags": [
-          "person",
-          "ogre"
         ]
       }
     },
@@ -12886,43 +12751,6 @@
         ]
       }
     },
-    "People/Bailey Reed.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 34,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1733972897058,
-      "modifiedDate": 1733973520065,
-      "sizeInBytes": 157,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 37,
-        "nonWhitespaceCharacterCount": 34
-      },
-      "frontmatter": {
-        "tags": [
-          "person"
-        ],
-        "origin": "human",
-        "faction": [
-          "ambrian"
-        ],
-        "player-character": null,
-        "occupation": "Caravan guard",
-        "demeanor": "Gruff"
-      }
-    },
     "People/Aroaleta.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -12953,43 +12781,6 @@
           "barbarian",
           "dead"
         ]
-      }
-    },
-    "People/Aylin Hassario.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 34,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1733972139294,
-      "modifiedDate": 1733972275846,
-      "sizeInBytes": 151,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 37,
-        "nonWhitespaceCharacterCount": 34
-      },
-      "frontmatter": {
-        "tags": [
-          "person"
-        ],
-        "origin": "human",
-        "faction": [
-          "ambrian"
-        ],
-        "player-character": null,
-        "occupation": "Caravan guard",
-        "demeanor": null
       }
     },
     "People/Alahara.md": {
@@ -13202,15 +12993,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.6333333333333333,
-      "characterCount": 1217,
+      "characterCount": 1232,
       "nonWhitespaceCharacterCount": 1012,
       "readingTimeInMinutes": 0.7169811320754716,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1720992557055,
-      "modifiedDate": 1731556736224,
-      "sizeInBytes": 1260,
+      "modifiedDate": 1736903577763,
+      "sizeInBytes": 1258,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6333333333333333,
@@ -13229,19 +13020,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 545,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.8166666666666667,
-      "characterCount": 3499,
-      "nonWhitespaceCharacterCount": 2939,
-      "readingTimeInMinutes": 2.056603773584906,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 323,
+      "nonWhitespaceCharacterCount": 271,
+      "readingTimeInMinutes": 0.1660377358490566,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1723099939393,
-      "modifiedDate": 1731302738710,
-      "sizeInBytes": 3562,
+      "modifiedDate": 1736903577762,
+      "sizeInBytes": 360,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.8166666666666667,
@@ -13297,15 +13088,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.09,
-      "characterCount": 170,
+      "characterCount": 174,
       "nonWhitespaceCharacterCount": 137,
       "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1720992559706,
-      "modifiedDate": 1730940979088,
-      "sizeInBytes": 170,
+      "modifiedDate": 1736903713681,
+      "sizeInBytes": 174,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09,
@@ -15491,38 +15282,6 @@
         "month": 1
       }
     },
-    "Events/Ambrian March on Karvosti.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 450,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5,
-      "characterCount": 2691,
-      "nonWhitespaceCharacterCount": 2232,
-      "readingTimeInMinutes": 1.6981132075471699,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1732690408299,
-      "modifiedDate": 1732690524872,
-      "sizeInBytes": 2741,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5,
-        "wordCount": 450,
-        "characterCount": 2691,
-        "nonWhitespaceCharacterCount": 2232
-      },
-      "frontmatter": {
-        "tags": [
-          "event",
-          "ambrian"
-        ],
-        "year": 22
-      }
-    },
     "Events/All Crafters Must Organize into Guilds.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -15618,31 +15377,6 @@
         ]
       }
     },
-    "Beasts/_attachments/Pasted image 20241211215154.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1733971914337,
-      "modifiedDate": 1733971914338,
-      "sizeInBytes": 553403,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Beasts/_attachments/vearon.jpeg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -15660,31 +15394,6 @@
       "createdDate": 1720992556896,
       "modifiedDate": 1720992556897,
       "sizeInBytes": 45552,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Beasts/_attachments/Pasted image 20241211215059.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1733971859874,
-      "modifiedDate": 1733971859876,
-      "sizeInBytes": 513992,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -16026,73 +15735,6 @@
         "tags": [
           "beast"
         ]
-      }
-    },
-    "Beasts/Blood Roaches.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 369,
-      "nonWhitespaceCharacterCount": 315,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 1,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1732690122764,
-      "modifiedDate": 1733971916022,
-      "sizeInBytes": 392,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 369,
-        "nonWhitespaceCharacterCount": 315
-      },
-      "frontmatter": {
-        "tags": [
-          "beast"
-        ]
-      }
-    },
-    "People/Callum West.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 34,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1733975228142,
-      "modifiedDate": 1733975293581,
-      "sizeInBytes": 146,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "person"
-        ],
-        "origin": "human",
-        "faction": [
-          "ambrian"
-        ],
-        "player-character": null,
-        "occupation": "Merchant",
-        "demeanor": null
       }
     },
     "People/Hot Pot.md": {
