@@ -37,7 +37,7 @@ the only loot is an obsidian dagger, artifact level. it enables the dimension do
 2. [[Beast clan]] priest lair minor illusion to conceal false wall
 	1. concentration of one clan beastg maintaining the illusion and silence
 	2. when the clan beast dies, the illusion drops — surprise boss!
-4. [[Beast Clan]] priest is sapping [[Anadea]] life force with fleshcrafting magic. 
+4. [[Beast Clan]] priest is sapping [[Anadea]] life force with [[Fleshcraft|fleshcrafting]] magic. 
 	2. Priest has base stat block of keeper witch
 	3. Command
 	4. Counter spell+? maybe deflect a spell back to the caster https://www.reddit.com/r/DnDHomebrew/s/sxadi0EjpH

@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- changeling
-aliases: []
+  - person
+  - changeling
+aliases: 
+faction:
+  - "[[Nocturne Ascendency]]"
 ---
 
 Urchin turned mercenary and member of the [[Nocturne Ascendency|Midnight Cult]].

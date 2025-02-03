@@ -15,3 +15,8 @@ antique dealer [[Erlaber Ambreagos]] and include the ogre witch
 the cult members are described in the scenes in
 act 3 where the player characters are likely to face
 them (pages 163–164).
+
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```

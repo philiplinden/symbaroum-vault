@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#reference -tag:#story",
+  "search": "-tag:#reference -tag:#story -tag:#session",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#place",
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 16702352
       }
+    },
+    {
+      "query": "tag:#lore",
+      "color": {
+        "a": 1,
+        "rgb": 15504361
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 10.7281355932203,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 3.421046018600564,
+  "scale": 0.22920135941749334,
   "close": true
 }

@@ -1,11 +1,15 @@
 ---
 tags:
-- player-character
-- person
-- human
-- ambrian
-aliases: []
+  - player-character
+  - person
+  - human
+  - ambrian
+aliases: 
 player: Drew
+faction:
+  - "[[Queen's Rangers]]"
+  - the
+player-character: true
 ---
 
 Thin, pointed mustache and goatee.  

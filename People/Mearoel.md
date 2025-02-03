@@ -1,10 +1,12 @@
 ---
 tags:
-- person
-- elf
-- autumn-elf
-- iron-pact
-- davokar
+  - person
+  - elf
+  - autumn-elf
+  - iron-pact
+  - davokar
+faction:
+  - "[[Iron Pact]]"
 ---
 High ranking member of the [[Iron Pact]]. Subordinate to [[Eneáno]].
 

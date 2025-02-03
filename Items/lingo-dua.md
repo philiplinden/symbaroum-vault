@@ -1,1 +1,0 @@
-duo lingo but carrier pigeons from [[Karvosti]]

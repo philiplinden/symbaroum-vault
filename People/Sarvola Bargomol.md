@@ -7,6 +7,8 @@ tags:
   - ambrian
 aliases:
   - Father Sarvola
+faction:
+  - "[[Sun Church]]"
 ---
 
 [[Sun Temple]]

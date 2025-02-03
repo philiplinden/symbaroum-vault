@@ -9,7 +9,7 @@
     "showDescriptions": true,
     "plugins": {
       "obsidian-admonition": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "table-editor-obsidian": {
         "startupType": "disabled"
@@ -30,7 +30,7 @@
         "startupType": "instant"
       },
       "obsidian-git": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "iconic": {
         "startupType": "instant"
@@ -54,7 +54,7 @@
         "startupType": "short"
       },
       "omnisearch": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-plugin-update-tracker": {
         "startupType": "long"
@@ -66,7 +66,7 @@
         "startupType": "long"
       },
       "settings-search": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-smart-typography": {
         "startupType": "instant"
@@ -81,16 +81,31 @@
         "startupType": "short"
       },
       "templater-obsidian": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-tidy-footnotes": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-timeline": {
         "startupType": "disabled"
       },
       "obsidian-wordy": {
         "startupType": "long"
+      },
+      "obsidian-copy-block-link": {
+        "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "breadcrumbs": {
+        "startupType": "instant"
+      },
+      "cm-editor-syntax-highlight-obsidian": {
+        "startupType": "disabled"
+      },
+      "typewriter-mode": {
+        "startupType": "disabled"
       }
     }
   }

@@ -4,6 +4,8 @@ tags:
   - human
 aliases:
   - Lysindra
+faction:
+  - "[[Iron Pact]]"
 ---
 _Former fortune hunter, merciless fighter_
 

@@ -39,7 +39,7 @@ WHERE
 
 [[Smellia]] is looking to "get out of the game" with Cutco.
 
-There is time in the season for one more "good run" to [[Karvosti]] before winter sets in. Merchants are trying their best to get the last shipments to [[Karvosti]]. [[Smellia]] heard of a large shipment of iron from [[Karvosti]] a little while ago, and the caravan is preparing to bring back manufactured goods to [[Karvosti]]. Cutco associates are also running a caravan, not looking forward having to pay off the bandits.
+There is time in the season for one more "good run" to [[Places/Davokar/Karvosti]] before winter sets in. Merchants are trying their best to get the last shipments to [[Places/Davokar/Karvosti]]. [[Smellia]] heard of a large shipment of iron from [[Places/Davokar/Karvosti]] a little while ago, and the caravan is preparing to bring back manufactured goods to [[Places/Davokar/Karvosti]]. Cutco associates are also running a caravan, not looking forward having to pay off the bandits.
 
 [[The party]] is interested in the bulletin [[📜 Wanted - Ebel Blackhand]]
 - [[Andor Dawnsinger|Andor]] wants to get back to adventuring. Whack some baddies. Get stabbed. Either/or.
@@ -55,12 +55,12 @@ The bulletin has other quest options [[the party]] is interested in doing to cov
 # GM Notes
 Rumors have started to spread about a fortune hunter that has discovered [[Symbar]]. Of course the truth has been lost along the way, but the allure of treasure and a long-lost city of legend has only stoked the flames. The story has quickly become the number one topic in [[Salons of Symbaroum|salons]] and taverns, even surfacing in small talk among nobles and elites.
 
-[[Karvosti]] is known for more sinkholes leading to the [[Underworld]], ruins and artifacts, and lots of opportunities for adventure. 
+[[Places/Davokar/Karvosti]] is known for more sinkholes leading to the [[Underworld]], ruins and artifacts, and lots of opportunities for adventure. 
 
 ### Wanted: [[Ebel Blackhand]]
-For some months now, a band of Ambrian plunderers has terrorized the road between [[Thistle Hold]] and [[Karvosti]]. The [[Queen's Rangers|Queen’s Rangers]] have not been able to hunt them down, and their raids have been extremely costly in terms of both lives and property.
+For some months now, a band of Ambrian plunderers has terrorized the road between [[Thistle Hold]] and [[Places/Davokar/Karvosti]]. The [[Queen's Rangers|Queen’s Rangers]] have not been able to hunt them down, and their raids have been extremely costly in terms of both lives and property.
 
-A few days ago, a young pilgrim came to the [[Queen's Legation|Queen’s Legation]] claiming to be absolutely certain that the notorious leader of the group, [[Ebel Blackhand]], could be found on [[Karvosti]]. Lothar brought the news to Tharaban, who had his wrathguards put the bandit in chains. The problem is that the Queen’s Legate lacks the authority to pass judgement over such a major criminal; Ebel must be brought to [[Thistle Hold]] right away!
+A few days ago, a young pilgrim came to the [[Queen's Legation|Queen’s Legation]] claiming to be absolutely certain that the notorious leader of the group, [[Ebel Blackhand]], could be found on [[Places/Davokar/Karvosti]]. Lothar brought the news to Tharaban, who had his wrathguards put the bandit in chains. The problem is that the Queen’s Legate lacks the authority to pass judgement over such a major criminal; Ebel must be brought to [[Thistle Hold]] right away!
 
 There is a small coalition proclaiming Ebel's innocence. Attacks on the road have still happened since his capture.
 

@@ -3,7 +3,10 @@ tags:
 - faction
 - player-character
 ---
-
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```
 ## Core group
 - [[Khargon Tarzibczie]]
 - [[Andor Dawnsinger]]

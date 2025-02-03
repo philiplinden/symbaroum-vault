@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- human
-aliases: []
+  - person
+  - human
+aliases: 
+faction:
+  - "[[Sellswords of the Sun]]"
 ---
 
 Leader of [[Sellswords of the Sun]] in [[Thistle Hold]].

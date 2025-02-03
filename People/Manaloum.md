@@ -2,7 +2,9 @@
 tags:
   - person
   - ogre
-aliases: []
+aliases: 
+faction:
+  - "[[Nocturne Ascendency]]"
 ---
 [[Erlaber Ambreagos]]'s personal bodyguard.
 ![[Pasted image 20240213230618.png]]

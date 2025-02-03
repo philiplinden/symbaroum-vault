@@ -5,10 +5,12 @@ tags:
   - nobility
 ---
 Royal family.
-- [[King Ynedar]]
-- [[Queen Mother Abesina]]
-- [[Queen Korinthia]]
-- [[Dekamelo]] (cousin)
+
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```
+[[Prominent Figures in Thistle Hold.canvas|Prominent Figures in Thistle Hold]]
 
 
 ![[Pasted image 20240211182347.jpg]]

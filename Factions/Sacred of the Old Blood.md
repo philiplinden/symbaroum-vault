@@ -3,6 +3,7 @@ tags:
   - faction
   - ambrian
   - evil
+aliases:
 ---
 The cult of nobles known as The Sacred of the Old Blood operates in obscurity. Lead by [[Queen Korinthia|Korinthia]]’s stepfather, [[Sesario Karnak]], and her half-sister [[Esmerelda]], the group seeks to harness the dark powers of Davokar for two specific reasons:
 

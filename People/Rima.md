@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- human
-- barbarian
-aliases: []
+  - person
+  - human
+  - barbarian
+aliases: 
+faction:
+  - "[[Odaiova Clan]]"
 ---
 
 An apothecary in [[Thistle Hold]].

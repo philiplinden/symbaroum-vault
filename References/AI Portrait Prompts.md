@@ -2,6 +2,10 @@
 tags:
   - "#reference"
 ---
+AI art generator (a good one!) https://fal.ai/models/fal-ai/flux-pro - https://replicate.com/black-forest-labs/flux-pro
+https://replicate.com/black-forest-labs/flux-schnell
+
+
 `closeup portrait of an ancient elf lord, faun from pan’s labyrinth, animal features, Symbaroum. painted by anders zorn and justin cherry, zdsislaw beksinski`
 ![[rymdmonstret_closeup_portrait_of_an_ancient_elf_lord_faun_from__dbeb561e-6ac8-4fe2-aa40-1dcbc60cd13c.png]]
 

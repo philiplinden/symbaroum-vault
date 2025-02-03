@@ -1,12 +1,15 @@
 ---
 tags:
-- person
-- human
-- ambrian
+  - person
+  - human
+  - ambrian
 aliases:
-- Erlaber
+  - Erlaber
+faction:
+  - "[[Nocturne Ascendency]]"
+  - "[[House Ambreagos]]"
 ---
-**Note:** Not actually related to Ambreagos bloodline.
+**Note:** Not actually related to [[House Ambreagos|Ambreagos bloodline]].
 
 ## motivation
 Erlaber holds onto a childlike resentment of [[Ambria]] from the war. He thinks that the Ambrian army didn't give a shit about his family and let them die. He saw [[Dark Lords]] bring back from the dead and that got him on the quest. He has been carried away on revenge and lust for power under the influence of [[The Prince]], who has brainwashed him into doing this, when if you take a step back he is better off aiding in the quest to understand undeath.  ^2114cb

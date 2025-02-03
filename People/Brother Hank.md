@@ -1,10 +1,12 @@
 ---
 tags:
-- person
-- human
-- nobility
+  - person
+  - human
+  - nobility
 aliases:
-- Hank
+  - Hank
+faction:
+  - "[[Sun Church]]"
 ---
 
 Theurg of the [[Sun Church]] in [[Thistle Hold]].

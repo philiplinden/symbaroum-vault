@@ -5,6 +5,8 @@ tags:
 aliases:
   - Kerido’s uncle
   - Sam Ironcalf
+faction:
+  - "[[Town Watch]]"
 ---
 Sam Ironcalf
 

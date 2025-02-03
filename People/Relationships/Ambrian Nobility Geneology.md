@@ -1,5 +1,6 @@
 ---
 tags:
+  - faction
 ---
 https://www.laviapersymbaroum.com/family-trees-of-ambrian-nobles/
 

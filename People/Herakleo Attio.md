@@ -7,6 +7,8 @@ tags:
 aliases:
   - Herakleo
   - Key Master
+faction:
+  - "[[Queen's Council]]"
 ---
 > Though [[Yndaros]] is formally run from the Key Master Seat, it is common knowledge that Herakleo Attio and his colleagues are working in the Queen’s shadow – at the end of the day, everything they do requires [[Queen Korinthia|Korinthia]]’s implicit or explicit approval. It would therefore be unfair to blame the Key Master for the increasingly harsh rhetoric and measures used against displeasing elements.
 >

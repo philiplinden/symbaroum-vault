@@ -1,10 +1,12 @@
 ---
 tags:
-- person
-- human
-- barbarian
-- witch
-aliases: []
+  - person
+  - human
+  - barbarian
+  - witch
+aliases: 
+faction:
+  - "[[Witches of Melima]]"
 ---
 
 Shaman healer and leader of [[Witches of Melima]].

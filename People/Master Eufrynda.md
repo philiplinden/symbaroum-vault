@@ -5,6 +5,8 @@ tags:
 aliases:
   - Eufrynda
   - Knockers
+faction:
+  - "[[Ordo Magica]]"
 ---
 Master of [[Ordo Magica]].
 

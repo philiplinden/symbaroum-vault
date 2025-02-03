@@ -8,3 +8,11 @@ extends:
 version: "2.0"
 fields: []
 ---
+---
+tags:
+- faction
+---
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```

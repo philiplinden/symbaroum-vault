@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- changeling
-aliases: []
+  - person
+  - changeling
+aliases: 
+faction:
+  - "[[Nocturne Ascendency]]"
 ---
 The friends [[Klagander]] and Sibela were two of the first changelings to be discovered among the Ambrians, both of them in [[Yndaros]], with Sibela amongst the refugees and [[Klagander]] in a merchant’s home.
 

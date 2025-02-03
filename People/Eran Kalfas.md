@@ -1,10 +1,12 @@
 ---
 tags:
-- person
-- human
-- ambrian
+  - person
+  - human
+  - ambrian
 aliases:
-- Eran
+  - Eran
+faction:
+  - "[[Knights of the Dying Sun|Templars]]"
 ---
 
 [[Knights of the Dying Sun|Templar]]. Subordinate to [[Trobela]] and escaped with her from the [[Blooming Vale]].

@@ -1,13 +1,16 @@
 ---
 tags:
-- person
-- human
-- ambrian
-- nobility
+  - person
+  - human
+  - ambrian
+  - nobility
 aliases:
-- Queen of Ambria
-- Korinthia Nightbane
-- Korinthia
+  - Queen of Ambria
+  - Korinthia Nightbane
+  - Korinthia
+faction:
+  - "[[House Kohinoor]]"
+  - "[[Queen's Council]]"
 ---
 of [[House Kohinoor]].
 ![[korinthia-marches-in-yndaros.jpg|Queen Korinthia and an escort from the Twilight Friars wander through Yndaros, towards the Cathedral of Martyrs and a memorial service for the victorious dead.]]

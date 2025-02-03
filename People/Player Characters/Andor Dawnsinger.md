@@ -7,6 +7,8 @@ tags:
 aliases:
   - Andor
 player: David
+faction:
+  - "[[The Party]]"
 ---
 
 Trained as a [[Knights of the Dying Sun|Templar]] until he showed signs of being a changeling.

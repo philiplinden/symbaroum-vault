@@ -1,10 +1,12 @@
 ---
 tags:
-- person
-- human
-- religious
+  - person
+  - human
+  - religious
 aliases:
-- Elfeno
+  - Elfeno
+faction:
+  - "[[Sun Church]]"
 ---
 
 Head priest at [[Sun Church]] in [[Thistle Hold]].
