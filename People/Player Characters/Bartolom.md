@@ -6,8 +6,7 @@ aliases:
 player: Faris
 origin: human
 faction:
-  - ambrian
-  - ordo-magica
+  - "[[Ordo Magica]]"
 player-character: true
 ---
 

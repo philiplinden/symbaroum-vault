@@ -49,6 +49,8 @@ The "termites" are [[Blood Roaches]]. They paralyze and carry off victims to the
 - [[Luke Shepard]]
 - [[Hot Pot]]
 
+
+on the way to the [[Arch Bridge]]
 ## Cinematic
 
 The wagon creaked and groaned beneath its heavy load, its wooden wheels cutting shallow tracks through the muddy forest path. Ser Aldric Voss adjusted the grip on his weathered longsword, his eyes constantly scanning the shadows between the twisted, ancient trees of [[Davokar]].
@@ -59,11 +61,12 @@ Young Jesper, the youngest of their guards, nervously fingered the iron-tipped c
 
 Aldric knew that feeling. The darkness between the trees seemed to breathe, to watch. Symbaroum was not a land for the weak or the unwary. Every shadow could hide a goblin raider, a forest spirit with ancient grudges, or something far worse.
 
-Their cargo was precious - rare herbs from the southern territories, mystical components that would fetch a king's ransom in [[Karvosti]]. But the price of such treasure was paid in blood and terror.
+Their cargo was precious - rare herbs from the southern territories, mystical components that would fetch a king's ransom in [[Places/Davokar/Karvosti]]. But the price of such treasure was paid in blood and terror.
 
 As twilight began to settle, a distant howl echoed through the forest. Not the cry of any wolf Aldric had ever heard.
 
 The journey was far from over, and the night was young.
 
 ![[Pasted image 20241211220902.png]]![[Pasted image 20241211220940.png]]
-![[Pasted image 20241211221000.png]]![[Pasted image 20241211223648.png]]
+![[Pasted image 20241211221000.png]]![[Pasted image 20241211223648.png]]![[Pasted image 20250203004552.png]]
+]]

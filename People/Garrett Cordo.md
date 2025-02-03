@@ -7,3 +7,4 @@ player-character:
 occupation: 
 demeanor: 
 ---
+![[IMG_0267.jpeg]]

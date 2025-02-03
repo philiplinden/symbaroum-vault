@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- human
-- ambrian
+  - person
+  - human
+  - ambrian
+faction:
+  - "[[Queen's Rangers]]"
 ---
 
 Former member of the [[Queen's Rangers|Queen’s Rangers]] and now a for-hire soldier.

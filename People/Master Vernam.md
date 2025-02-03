@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- human
+  - person
+  - human
 aliases:
-- Vernam
+  - Vernam
+faction:
+  - "[[Ordo Magica]]"
 ---
 
 Former master of the [[Ordo Magica]]. His official duties were terminated due to his outspoken support of elves, but Vernam continues to tutor young wizards in [[Thistle Hold]] at [[Vernam's Academy|Vernam’s Academy]].

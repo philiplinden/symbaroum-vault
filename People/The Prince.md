@@ -1,9 +1,12 @@
 ---
 tags:
-- person
-- pseudonym
+  - person
+  - pseudonym
+faction:
+  - "[[Nocturne Ascendency]]"
 ---
 
 Puppet master of [[Erlaber Ambreagos]], and an anonymity alias. Member of 
 
-True identity is [[Agramai Kalfas]].
+> [!info]- secret
+> True identity is [[Agramai Kalfas]]. 

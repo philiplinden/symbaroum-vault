@@ -4,3 +4,7 @@ tags:
 aliases:
   - Templars
 ---
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```

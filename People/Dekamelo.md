@@ -4,6 +4,9 @@ tags:
   - nobility
 aliases:
   - Akman Kohinoor
+faction:
+  - "[[House Kohinoor]]"
+  - "[[Town Watch]]"
 ---
 One of several captains of [[Thistle Hold]]'s [[Town Watch]] and confidant to [[Queen Korinthia]]
 

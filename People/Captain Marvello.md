@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- human
+  - person
+  - human
 aliases:
-- Marvello
+  - Marvello
+faction:
+  - "[[Town Watch]]"
 ---
 
 Captain of the [[Thistle Hold]] Town Guard.

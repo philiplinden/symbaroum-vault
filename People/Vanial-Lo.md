@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- elf
-- early-summer-elf
-aliases: []
+  - person
+  - elf
+  - early-summer-elf
+aliases: 
+faction:
+  - "[[Iron Pact]]"
 ---
 
 Older brother to [[Aida-Eol]].

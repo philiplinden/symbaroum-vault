@@ -49,7 +49,7 @@ Nightpitch arranges a private meeting
 	- [[Suria Argona]]
 - [[The Party]]
 
-[[Ganderald]] after a while finds evidence that [[Jezora Clan]] and the [[Beast Clan]] are one in the same. He and the ordo find bits and pieces about blood magic and blood gods, and that blood craft relates back to the Ambreagos line and ultimately caused the cataclysm. No traces of Ambreagos lineage from them forward. Records show that [[Erlaber Ambreagos|erlaber]] went by a different name as a boy in [[alberetor]]. Ambreagos name is a recent change.
+[[Ganderald]] after a while finds evidence that [[Jezora Clan]] and the [[Beast Clan]] are one in the same. He and the ordo find bits and pieces about [[Blood Magic]] and blood gods, and that blood craft relates back to the Ambreagos line and ultimately caused the cataclysm. No traces of Ambreagos lineage from them forward. Records show that [[Erlaber Ambreagos|erlaber]] went by a different name as a boy in [[alberetor]]. Ambreagos name is a recent change.
 
 [[The party]] decides to investigate [[Blackmoor]] for the tannery. They ask the mayor for resources, like intelligence, protection, and a local to show them around town. [[Sarvola Bargomol]] is in [[Blackmoor]], too. (He is a friendly face for [[Anadea]] after her excommunication.)
 

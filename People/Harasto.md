@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- human
-aliases: []
+  - person
+  - human
+aliases: 
+faction:
+  - "[[The River Maiden]]"
 ---
 
 Defected from [[Ilanda]]’s party before their demise, stealing [[Ilanda's journal|Ilanda’s journal]] as he escaped.

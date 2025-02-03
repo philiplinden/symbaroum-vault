@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- human
-- barbarian
+  - person
+  - human
+  - barbarian
+faction:
+  - "[[Witches of Melima]]"
 ---
 
 Witch in [[Melima]].

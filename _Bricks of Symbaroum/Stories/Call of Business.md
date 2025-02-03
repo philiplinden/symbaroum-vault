@@ -59,7 +59,7 @@ Gregor rounds the table once more, topping off each council member’s glass wit
 ![[sunchurchironpack.webp|Elori delivers news to the council.]]
 [[Elori]]’s statuesque figure exudes an aura of dark antiquity, betrayed only by the movement of his mouth as he speaks and his fiery eyes moving from man to man. Although the elf’s head gently follows his gaze, his wispy white hair seems eerily undisturbed. Gregor has never seen an elf in the flesh until now. Moody and foreboding—creepy for sure—though not nearly as wretched as his mother’s stories made them out to be.
 
-“[[Yeleta]], the *Huldra* at [[Karvosti]], has been meeting with the High Chieftain at an unusually frequent cadence. As the leader of witches, the Huldra has great influence over all human clans across [[Davokar]], including the High Chieftain himself. [[Yeleta]] rarely meddles in political endeavors. This activity is unusual.”
+“[[Yeleta]], the *Huldra* at [[Places/Davokar/Karvosti]], has been meeting with the High Chieftain at an unusually frequent cadence. As the leader of witches, the Huldra has great influence over all human clans across [[Davokar]], including the High Chieftain himself. [[Yeleta]] rarely meddles in political endeavors. This activity is unusual.”
 
 [[Father Matheo Brigo|Father Brigo]] scoffs under his breath, “Coming from an *elf*…” The Queen turns to the heckler and glares. He stops, face flushed with embarrassment. A pit of dread grows in Gregor’s stomach.
 

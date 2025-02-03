@@ -6,7 +6,7 @@ tags:
 ---
 An ominous obsidian blade. In the light it appears faintly translucent with a deep reddish brown or rust tint.
 
-The dagger was crafted by a [[Beast Clan]] fleshcrafting ritual that summoned a soul from the [[Yonderworld]] and trapped it in the blade.
+The dagger was crafted by a [[Beast Clan]] [[Fleshcraft|fleshcrafting]] ritual that summoned a soul from the [[Yonderworld]] and trapped it in the blade.
 
 The blade has the stats of a +2 dagger. 
 

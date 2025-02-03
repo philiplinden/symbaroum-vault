@@ -2,6 +2,8 @@
 tags:
   - person
   - changeling
+faction:
+  - "[[Ordo Magica]]"
 ---
 > [!attention]
 > This deviates from [[Throne of Thorns 1 - Wrath of the Warden]]. As written, Desidera is [[Erlaber Ambreagos]]'s lover and a human wizard of [[Ordo Magica]].

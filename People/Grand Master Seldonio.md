@@ -1,11 +1,15 @@
 ---
 tags:
-- person
-- human
-- ambrian
-- nobility
+  - person
+  - human
+  - ambrian
+  - nobility
 aliases:
-- Seldonio
+  - Seldonio
+faction:
+  - "[[Ordo Magica]]"
 ---
 
 Grand Master of the [[Ordo Magica]].
+
+![[Seldonio.jpg]]

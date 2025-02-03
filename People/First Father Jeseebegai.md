@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- human
+  - person
+  - human
 aliases:
-- Jeseebegai
+  - Jeseebegai
+faction:
+  - "[[Sun Church]]"
 ---
 
 The First Father even wants barbarian witches to appear as allied to evil.

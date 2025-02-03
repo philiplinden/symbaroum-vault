@@ -6,7 +6,7 @@ aliases: []
 ---
 
 Nearby cities:
-- [[Karvosti]]
+- [[Places/Davokar/Karvosti]]
 - [[Jakaar]]
 
 Related terrain:

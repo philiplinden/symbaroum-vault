@@ -12,3 +12,4 @@ aliases:
 
 [[Lafarda's Tower]] also exhibits mystical connections to creation of life and controlling the weather…
 
+![[Pasted image 20250203004318.png]]

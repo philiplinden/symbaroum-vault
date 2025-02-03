@@ -6,6 +6,8 @@ tags:
   - "#nobility"
 aliases:
   - Mayor Nightpitch
+faction:
+  - "[[Thistle Hold Governors]]"
 ---
 
 Mayor of [[Thistle Hold]].

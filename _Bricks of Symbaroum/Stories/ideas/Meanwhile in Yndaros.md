@@ -66,9 +66,9 @@ Catch whisperings illustrating how locals feel about elves.
 	- She dismisses the argument at hand and gives the floor to [[Elori]].
 	- Whispers flutter between humans in attendance. Rumors, doubts, resentment, and callbacks to [[Aloéna's Visit]].
 
-Set the scene for impetus of WotW: [[colossi]] have left [[Karvosti]] for [[Thistle Hold]].
+Set the scene for impetus of WotW: [[colossi]] have left [[Places/Davokar/Karvosti]] for [[Thistle Hold]].
 - [[Elori]] shares news from contacts in [[Davokar]]:
-	- [[Yeleta]], the Huldra (leader of the witches) in [[Karvosti]], has been frequently meeting with the High Chieftan but nobody knows why for sure.
+	- [[Yeleta]], the Huldra (leader of the witches) in [[Places/Davokar/Karvosti]], has been frequently meeting with the High Chieftan but nobody knows why for sure.
 	- Scouts in [[Davokar]] reported that witches have summoned [[colossi]] and began moving south toward [[Thistle Hold]] at [[Yeleta]]'s order.
 		- Since the council is mostly Ambrian humans, he also explains context for what [[colossi]] are and why this is significant.
 

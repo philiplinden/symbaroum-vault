@@ -1,18 +1,20 @@
 ---
 tags:
-- person
-- human
-- undead
-- symbarian
-- davokar
+  - person
+  - human
+  - undead
+  - symbarian
+  - davokar
 aliases:
-- Na-Ethikel
+  - Na-Ethikel
+faction:
+  - "[[House Ambreagos]]"
 ---
 
 Symbarian noble turned lich.
 Resides in the [[Blooming Vale]].
 
-The Ambreagos bloodline was a noble family in Symbaroum.
+The [[House Ambreagos|Ambreagos bloodline]] was a noble family in Symbaroum.
 
 [[Na-Ethikel Ambreagos|Na-Ethikel]]'s ultimate goal is to permanently open a portal to the [[Yonderworld]] in order to have unlimited rule over the overworld with an endless undead army.
 

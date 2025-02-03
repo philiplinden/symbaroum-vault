@@ -1,10 +1,12 @@
 ---
 tags:
-- person
-- human
+  - person
+  - human
 aliases:
-- Kullinan
-- Furia
+  - Kullinan
+  - Furia
+faction:
+  - "[[Ordo Magica]]"
 ---
 Wizard of [[Ordo Magica]].
 ![[Pasted image 20230728205603.png]]

@@ -2,18 +2,14 @@
   "obsidian-focus-mode",
   "obsidian-footnotes",
   "obsidian-style-settings",
-  "obsidian-admonition",
-  "obsidian-tidy-footnotes",
   "ghost-fade-focus",
   "obsidian-smart-typography",
   "dataview",
-  "templater-obsidian",
-  "obsidian-git",
-  "omnisearch",
-  "settings-search",
   "quickadd",
   "iconic",
   "link-headers-directly",
   "lazy-plugins",
-  "obsidian-copy-block-link"
+  "obsidian-copy-block-link",
+  "obsidian42-brat",
+  "breadcrumbs"
 ]

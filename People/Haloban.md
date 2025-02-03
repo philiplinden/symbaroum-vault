@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- human
-- barbarian
-aliases: []
+  - person
+  - human
+  - barbarian
+aliases: 
+faction:
+  - "[[Jezora Clan]]"
 ---
 Warlord and chieftain of [[Jezora Clan]] until his death during [[Jezites' Downfall]].
 

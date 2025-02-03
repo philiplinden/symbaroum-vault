@@ -1,8 +1,10 @@
 ---
 tags:
-- person
-- human
-- barbarian
+  - person
+  - human
+  - barbarian
 aliases:
-- Alinard
+  - Alinard
+faction:
+  - "[[Queen's Council]]"
 ---

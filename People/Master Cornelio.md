@@ -1,9 +1,11 @@
 ---
 tags:
-- person
-- human
+  - person
+  - human
 aliases:
-- Cornelio
+  - Cornelio
+faction:
+  - "[[Ordo Magica]]"
 ---
 
 Head of [[Ordo Magica]] chapter in [[Thistle Hold]].

@@ -6,6 +6,10 @@ tags:
 aliases:
 - Queen’s Council
 ---
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```
 
 [[Throne of Thorns 3 - Darkest Star]], page 28
 

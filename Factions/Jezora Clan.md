@@ -1,14 +1,19 @@
 ---
 tags:
-- faction
-- clan
-- barbarian
-- dead
+  - faction
+  - clan
+  - barbarian
+  - dead
 aliases:
-- Jezites
-- Jezite
+  - Jezites
+  - Jezite
+faction:
+  - "[[Federation of Clans]]"
 ---
-
+```dataview
+LIST
+WHERE icontains(faction, [[]])
+```
 ## Year 10
 - [[Jezites' Downfall]]
 

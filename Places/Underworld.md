@@ -2,6 +2,8 @@
 class:
   - place
 region: Underworld
+tags:
+  - place
 ---
 ![[Pasted image 20231108223230.png]]![[Pasted image 20231108223255.png]]
 ![[Pasted image 20231108205517.png]]

@@ -52,7 +52,7 @@ Down in the square, the captain has watched the whole thing through a window and
 ## A Warning
 As soon as the welcoming committee is assembled, the [[North Gate]] opens and [[Captain Marvello]] starts walking. The witches remain still, waiting on the backs of their [[colossi]]. The procession stops a few paces away and [[Captain Marvello|Marvello]] turns to his interpreter. If this is one of the player characters, he or she is left to handle the conversation with the witches – [[Captain Marvello|Marvello]] seems to understand what is said but is unable to converse in the barbarian tongue.
 
-The interpreter is ordered to welcome them to the Ambrian realm, whereby one of the witches nods in response and presents himself as [[Gadramon]], sent by [[Yeleta]], the Huldra of [[Karvosti]] (a character with the ability Loremaster knows that one of the Huldra’s closest helpers bears that same name). 
+The interpreter is ordered to welcome them to the Ambrian realm, whereby one of the witches nods in response and presents himself as [[Gadramon]], sent by [[Yeleta]], the Huldra of [[Places/Davokar/Karvosti]] (a character with the ability Loremaster knows that one of the Huldra’s closest helpers bears that same name). 
 
 After that, the interpreter is asked to learn why they have come. [[Gadramon]] responds with a counter-question: “Has the well spoken?” When no one seems to comprehend what the witch refers to, he sternly comments: “No answer is answer enough.” The witch then asks for passage into the town and when asked why he says that they are here to help and that “the Huldra fears that a very potent source of corruption dwells at the heart of [[Thistle Hold]]”. More he cannot say. 
 
