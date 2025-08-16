@@ -6,5 +6,6 @@
   "excludeDisabledPlugins": true,
   "minUpdateCountToShowIcon": 1,
   "hoursBetweenCheckingForUpdates": 0.5,
+  "showNotificationOnNewUpdate": false,
   "hideIconIfNoUpdatesAvailable": true
 }

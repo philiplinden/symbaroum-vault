@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,11 +15,47 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "Beasts",
+      "template": "Templates/Classes/beast.md"
+    },
+    {
+      "folder": "Events",
+      "template": "Templates/Classes/event.md"
+    },
+    {
+      "folder": "Factions",
+      "template": "Templates/Classes/faction.md"
+    },
+    {
+      "folder": "Gods",
+      "template": "Templates/Classes/god.md"
+    },
+    {
+      "folder": "Items",
+      "template": "Templates/Classes/item.md"
+    },
+    {
+      "folder": "People",
+      "template": "Templates/Classes/person.md"
+    },
+    {
+      "folder": "Places",
+      "template": "Templates/Classes/place.md"
+    },
+    {
       "folder": "",
       "template": ""
     }
   ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],

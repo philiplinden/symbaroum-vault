@@ -5,5 +5,11 @@
   "baseFontSize": 17,
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "",
+  "interfaceFontFamily": "iA Writer Quattro V",
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ],
+  "monospaceFontFamily": "Drafting* Mono"
 }
