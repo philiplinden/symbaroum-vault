@@ -42,17 +42,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Draw Steel Conversion Kit.md",
+                "file": "Gods/Wyrhta.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Draw Steel Conversion Kit"
+              "title": "Wyrhta"
+            }
+          },
+          {
+            "id": "f00c5d399dec36d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Core Rules Reference/Symbaroum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Symbaroum"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References/Draw Steel Conversion Kit.md",
+                "file": "References/Core Rules Reference/Symbaroum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-tag:#reference -tag:#story -tag:#session",
@@ -249,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Draw Steel Conversion Kit"
+              "title": "Graph of Symbaroum"
             }
           },
           {
@@ -292,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Relationships/Prominent Figures in Thistle Hold.canvas",
+                "file": "References/Core Rules Reference/Symbaroum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prominent Figures in Thistle Hold"
+              "title": "Outline of Symbaroum"
             }
           },
           {
@@ -307,14 +322,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "References/Draw Steel Conversion Kit.md"
+                "file": "extract/tokens/draw-steel-classes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Draw Steel Conversion Kit"
+              "title": "File properties for draw-steel-classes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2caf1f288ba3b38e",
@@ -346,12 +360,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Draw Steel Conversion Kit.md",
+                "file": "References/Core Rules Reference/Symbaroum.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Draw Steel Conversion Kit"
+              "title": "Outgoing links from Symbaroum"
             }
           }
         ],
@@ -372,40 +386,48 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "9b6781f4faa5c5e4",
+  "active": "f00c5d399dec36d0",
   "lastOpenFiles": [
-    "ideas.md",
-    "index.md",
-    "conflict-files-obsidian-git.md",
-    "karvosti scratch.md",
-    "scratch.md",
-    "References/Draw Steel Conversion Kit.md",
-    "References/Books/Draw_Steel_Monsters_v1.pdf",
-    "Homepage.md",
-    "References/Books/Draw_Steel_Heroes_v1.pdf",
-    "People/Hot Pot 1.md",
-    "People/Callum West 1.md",
-    "_Bricks of Symbaroum/Campaign Notes/Chapter 4 - The Witch Hammer, Act 1/next time.md",
-    "Places/Davokar/Melima/Tunnels Beneath Lafarda's Tower.md",
-    "Factions/Sesario Karnak.md",
-    "Places/Karohar.md",
-    "Factions/Esmerelda.md",
-    "Lore/Physiology of Undead Revenants.md",
-    "Items/Lingo-Dua.md",
-    "Places/Davokar/Melima",
-    "Places/Davokar/Karohar.md",
-    "Places/Davokar/Karohar 1.md",
-    "_Bricks of Symbaroum/Quests/📜 How undeath works.md",
-    "Lore/Undeath/How Undeath Works.md",
-    "Places/Davokar/Arch Bridge.md",
-    "Events/Ambrian March on Karvosti.md",
-    "People/Cleaver.md",
-    "People/Brother Bartho.md",
-    "People/Yeleta.md",
-    "Factions/House Kohinoor.md",
+    "Gods/Wyrhta.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Trade/Trade.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Trade/The Thaler’s Drugstore.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Trade/The Rope and Axe.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Trade/Big-Basher’s Smithy.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns/The Slaughterhouse.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns/The Grubbery.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns/Odovakar.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns/Taverns of Thistle Hold.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns/Afadir’s Triumph Tavern.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns/Brew.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Inns/The Witch and Familiar.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Inns/Inns of Thistle Hold.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/ENTERTAINMENT/ENTERTAINMENT.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Thistle Hold GM/Thistle Hold Past events.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/The Player Characters in Thistle Hold/The Player Characters in Thistle Hold.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/The Player Characters in Thistle Hold/Player Housing.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/The Player Characters in Thistle Hold/Missions To Perform.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/The Player Characters in Thistle Hold/Equipment.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Vallomei Derego, Noble.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Urfons, Sellsword.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Pellio, Town Watchman.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Kadra, Fortune-hunter.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Ganderald, Explorer.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Elda, Antique Dealer.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest/Galeno, Missionary.md",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Trade",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Taverns",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/Inns",
+    "References/Core Rules Reference/Locations/Thistle Hold/Establishments/ENTERTAINMENT",
+    "References/Core Rules Reference/Locations/Thistle Hold/Thistle Hold GM",
+    "References/Core Rules Reference/Locations/Thistle Hold/The Player Characters in Thistle Hold",
+    "References/Core Rules Reference/Locations/Thistle Hold/Persons of Interest",
+    "References/Core Rules Reference/Locations/Thistle Hold/Npcs of Thistle Hold",
+    "References/Core Rules Reference/Locations/Thistle Hold/Interesting and Noteworthy Places",
+    "References/Core Rules Reference/Locations/Thistle Hold/Information Gathering",
     "_attachments/Bartho3.jpg",
     "_attachments/Bartho.jpg",
     "_attachments/Argaton.jpg",
@@ -416,13 +438,6 @@
     "_attachments/Yeleta.jpg",
     "_attachments/wrathguard4.jpg",
     "_attachments/wrathguard3.jpg",
-    "People/Relationships/Prominent Figures in Thistle Hold.canvas",
-    "Lore/Undeath",
-    "Lore/Magic",
-    "References/Books/RoS_TheWorldOfSymbaroum_BETA.pdf",
-    "References/Books/RoS_TheThroneOfThorns1_BETA.pdf",
-    "_Bricks of Symbaroum/Errata",
-    "References/Books/Symbaroum_Ruins_of_Symbar.pdf",
-    "References/Books/Ruins_of_Symbaroum_Gamemasters_Guide.pdf"
+    "People/Relationships/Prominent Figures in Thistle Hold.canvas"
   ]
 }

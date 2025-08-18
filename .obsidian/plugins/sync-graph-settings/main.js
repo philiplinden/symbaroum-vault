@@ -34,7 +34,8 @@ var DEFAULT_SETTINGS = {
   defaultDepth: 1,
   defaultIncomingLinks: true,
   defaultOutgoingLinks: true,
-  defaultNeighborLinks: true
+  defaultNeighborLinks: true,
+  defaultShowTags: true
 };
 var SyncGraphSettingTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin) {
@@ -44,23 +45,23 @@ var SyncGraphSettingTab = class extends import_obsidian.PluginSettingTab {
   display() {
     let { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("Auto Sync").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoSync).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Auto Sync").setDesc("Automatically sync graph settings to local graph when active leaf changes").addToggle((toggle) => toggle.setValue(this.plugin.settings.autoSync).onChange(async (value) => {
       this.plugin.settings.autoSync = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Default depth").addSlider((value) => value.setLimits(1, 5, 1).setValue(this.plugin.settings.defaultDepth).onChange(async (value2) => {
+    new import_obsidian.Setting(containerEl).setName("Default depth").setDesc("Default depth to set for local graph").addSlider((value) => value.setLimits(1, 5, 1).setValue(this.plugin.settings.defaultDepth).onChange(async (value2) => {
       this.plugin.settings.defaultDepth = value2;
       await this.plugin.saveSettings();
     }).setDynamicTooltip());
-    new import_obsidian.Setting(containerEl).setName("Default Incoming Links").addToggle((toggle) => toggle.setValue(this.plugin.settings.defaultIncomingLinks).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Default Incoming Links").setDesc('Default "Incoming Links" flag to set for local graph').addToggle((toggle) => toggle.setValue(this.plugin.settings.defaultIncomingLinks).onChange(async (value) => {
       this.plugin.settings.defaultIncomingLinks = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Default Outgoing Links").addToggle((toggle) => toggle.setValue(this.plugin.settings.defaultOutgoingLinks).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Default Outgoing Links").setDesc('Default "Outgoing Links" flag to set for local graph').addToggle((toggle) => toggle.setValue(this.plugin.settings.defaultOutgoingLinks).onChange(async (value) => {
       this.plugin.settings.defaultOutgoingLinks = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Default Neighbor Links").addToggle((toggle) => toggle.setValue(this.plugin.settings.defaultNeighborLinks).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Default Neighbor Links").setDesc('Default "Neighbor Links" flag to set for local graph').addToggle((toggle) => toggle.setValue(this.plugin.settings.defaultNeighborLinks).onChange(async (value) => {
       this.plugin.settings.defaultNeighborLinks = value;
       await this.plugin.saveSettings();
     }));
@@ -96,20 +97,22 @@ var SyncGraphPlugin = class extends import_obsidian.Plugin {
     const closeSettings = graphConfig.close;
     const lineSizeMultiplier = graphConfig.lineSizeMultiplier;
     const nodeSizeMultiplier = graphConfig.nodeSizeMultiplier;
+    const showTags = graphConfig.showTags;
     this.getLocalGraphLeaves().forEach((leaf) => {
-      this.setSettings(leaf, graphColorGroups, searchFilters, closeSettings, lineSizeMultiplier, nodeSizeMultiplier);
+      this.setSettings(leaf, graphColorGroups, searchFilters, closeSettings, lineSizeMultiplier, nodeSizeMultiplier, showTags);
     });
   }
   getLocalGraphLeaves() {
     return this.app.workspace.getLeavesOfType("localgraph");
   }
-  setSettings(localGraphLeaf, colorGroups, searchFilters, closeSettings, lineSizeMultiplier, nodeSizeMultiplier) {
+  setSettings(localGraphLeaf, colorGroups, searchFilters, closeSettings, lineSizeMultiplier, nodeSizeMultiplier, showTags) {
     const viewState = localGraphLeaf.getViewState();
     viewState.state.options.colorGroups = colorGroups;
     viewState.state.options.search = searchFilters;
     viewState.state.options.close = closeSettings;
     viewState.state.options.lineSizeMultiplier = lineSizeMultiplier;
     viewState.state.options.nodeSizeMultiplier = nodeSizeMultiplier;
+    viewState.state.options.showTags = showTags;
     viewState.state.options.localJumps = this.settings.defaultDepth;
     viewState.state.options.localBacklinks = this.settings.defaultIncomingLinks;
     viewState.state.options.localForelinks = this.settings.defaultOutgoingLinks;
@@ -120,3 +123,5 @@ var SyncGraphPlugin = class extends import_obsidian.Plugin {
     await this.saveData(this.settings);
   }
 };
+
+/* nosourcemap */
